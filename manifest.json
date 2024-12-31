@@ -1,0 +1,16 @@
+﻿{
+    "name": "Stardew Valley AP Tracker",
+    "game_name": "Stardew Valley",
+    "platform": "PC",
+    "package_version": "1.6.15",
+    "package_uid": "stardew_valley_randomizer",
+    "author": "Trey Spyre, updated by LuckwurstJoe with help from the poptracker community",
+    "variants": {
+        "itemrando": {
+            "display_name": "Archipelago Randomizer",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1361 @@
+[
+    {
+        "name": "Quests",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Introductions",
+                "sections":[
+                    {
+                        "name": "Talk to the NPCs!",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 519,
+                        "y": 278
+                    }
+                ]
+            },
+            {
+                "name": "How to Win Friends",
+                "sections":[
+                    {
+                        "name": "Give anyone a gift",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 535,
+                        "y": 278
+                    }
+                ]
+            },
+            {
+                "name": "Getting Started",
+                "sections": [
+                    {
+                        "name": "Cultivate and Harvest a Parsnip",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 348,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Raising Animals",
+                "sections":[
+                    {
+                        "name": "Build a Coop",
+                        "access_rules":["$has_coop"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 568,
+                        "y": 139
+                    }
+                ]
+            },
+            {
+                "name": "Archaeology",
+                "sections":[
+                    {
+                        "name": "Donate an item to the Museum",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 685,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "Advancement",
+                "sections":[
+                  {
+                    "access_rules": [ "$farming1" ],
+                    "item_count": 1,
+                    "name": "Reach Farming 1 and build a Scarecrow"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x":363,
+                        "y":250
+                    }
+                ]
+            },
+            {
+                "name": "Meet the Wizard",
+                "sections":[
+                    {
+                        "name": "Enter the Wizard's Tower",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 172,
+                        "y": 303
+                    }
+                ]
+            },
+            {
+                "name": "Forging Ahead",
+                "sections":[
+                    {
+                        "name": "Craft a Furnace",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x":348,
+                        "y":263
+                    }
+                ]
+            },
+            {
+                "name": "Smelting",
+                "sections":[
+                    {
+                        "name": "Smelt a Copper Bar",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 363,
+                        "y": 263
+                    }
+                ]
+            },
+            {
+                "name": "Initiation",
+                "sections":[
+                    {
+                        "name": "Slay 10 green slimes",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 698,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Robin's Lost Axe",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Jodi's Request",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 160
+                    }
+                ]
+            },
+            {
+                "name": "Mayor's 'Shorts'",
+                "access_rules":["$summer"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 219
+                    }
+                ]
+            },
+            {
+                "name": "Blackberry Basket",
+                "access_rules":["$fall"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 519
+                    }
+                ]
+            },
+            {
+                "name": "Marnie's Request",
+                "sections":[
+                    {
+                        "name": "Bring Marnie a Cave Carrot",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 338,
+                        "y": 317
+                    }
+                ]
+            },
+            {
+                "name": "Pam is Thirsty",
+                "access_rules":["$summer"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "access_rules":[
+                            "$can_brew"
+                        ],
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 279
+                    }
+                ]
+            },
+            {
+                "name": "A Dark Reagent",
+                "access_rules":["$winter"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 433,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Cow's Delight",
+                "access_rules":["$fall"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "The Skull Key",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_access_desert,$has_skull_key" ],
+                    "item_count": 1,
+                    "name": "Unlock the Skull Cavern"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 35,
+                        "y": 26
+                    }
+                ]
+            },
+            {
+                "name": "Crop Research",
+                "access_rules":["$summer"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Knee Therapy",
+                "access_rules":["$summer"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Robin's Request",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_chop_stumps,$winter" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 433,
+                        "y": 341
+                    }
+                ]
+            },
+            {
+                "name": "Qi's Challenge",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_access_desert,$has_skull_key" ],
+                    "item_count": 1,
+                    "name": "Reach level 25 of the Skull Cavern"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 50,
+                        "y": 26
+                    }
+                ]
+            },
+            {
+                "name": "The Mysterious Qi",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_access_desert" ],
+                    "item_count": 1,
+                    "name": "Follow Qi's Instructions"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 362,
+                        "y": 219
+                    }
+                ]
+            },
+            {
+                "name": "Carving Pumpkins",
+                "access_rules":["$fall"],
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 30,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "A Winter Mystery",
+                "access_rules":["$winter"],
+                "sections":[
+                    {
+                        "name": "Meet Krobus!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 485,
+                        "y": 165
+                    }
+                ]
+            },
+            {
+                "name": "Strange Note",
+                "sections":[
+                  {
+                    "access_rules": [ "$secret_notes,$can_chop_logs" ],
+                    "item_count": 1,
+                    "name": "Bring Maple Syrup to the Secret Woods"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 102,
+                        "y": 271
+                    }
+                ]
+            },
+            {
+                "name": "Cryptic Note",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_access_desert,$has_skull_key,$secret_notes" ],
+                    "item_count": 1,
+                    "name": "Reach Level 100 of the Skull Cavern"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 65,
+                        "y": 26
+                    }
+                ]
+            },
+            {
+                "name": "Fresh Fruit",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 432,
+                        "y": 462
+                    }
+                ]
+            },
+            {
+                "name": "Aquatic Research",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_fish" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 884,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "A Soldier's Star",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_access_desert","$summer" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Mayor's Need",
+                "sections":[
+                  {
+                    "access_rules": [ "$has_deluxe_barn" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 884,
+                        "y": 220
+                    }
+                ]
+            },
+            {
+                "name": "Wanted: Lobster",
+                "sections":[
+                  {
+                    "access_rules": [ "$has_crab_pots" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 277
+                    }
+                ]
+            },
+            {
+                "name": "Pam Needs Juice",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Fish Casserole",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_fish" ],
+                    "item_count": 1,
+                    "name": "Bring a Largemouth Bass to dinner"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 482,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Catch a Squid",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_fish" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 432,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Fish Stew",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_fish" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 433,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Pierre's Notice",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_cook" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 432,
+                        "y": 580
+                    }
+                ]
+            },
+            {
+                "name": "Clint's Attempt",
+                "sections":[
+                    {
+                      "item_count": 1,
+                      "name": "Deliver it!"
+                    }
+                  ],
+                  "map_locations":[
+                      {
+                          "map":"Quests",
+                          "x": 431,
+                          "y": 160
+                      }
+                  ]
+            },
+            {
+                "name": "A Favor for Clint",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 433,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Staff of Power",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_mine_iridium" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 399
+                    }
+                ]
+            },
+            {
+                "name": "Granny's Gift",
+                "sections":[
+                    {
+                        "name": "Deliver it!",
+                        "item_count":1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 433,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "Exotic Spirits",
+                "sections":[
+                    {
+                      "name": "Deliver it!",
+                      "access_rules":
+                        [ "$can_access_desert","$can_access_island"], 
+                        "item_count": 1
+                     }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 520
+                    }
+                ]
+            },
+            {
+                "name": "Catch a Lingcod",
+                "sections":[
+                  {
+                    "access_rules": [ "$can_fish" ],
+                    "item_count": 1,
+                    "name": "Deliver it!"
+                  }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Quests",
+                        "x": 883,
+                        "y": 457
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 1-4",
+                "sections":[
+                    {
+                        "name": "Item Delivery 1",
+                        "visibility_rules":["quests"]
+                    },
+                    {
+                        "name": "Item Delivery 2",
+                        "visibility_rules":["$quests2"]
+                    },
+                    {
+                        "name": "Item Delivery 3",
+                        "visibility_rules":["$quests3"]
+                    },
+                    {
+                        "name": "Item Delivery 4",
+                        "visibility_rules":["$quests4"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 155,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 1",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 1",
+                        "visibility_rules":["$quests5"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":155,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 1",
+                "sections":[
+                    {
+                        "name": "Gathering 1",
+                        "visibility_rules":["$quests6"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":155,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 1",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 1",
+                        "visibility_rules":["$quests7"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":155,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 5-8",
+                "sections":[
+                    {
+                        "name": "Item Delivery 5",
+                        "visibility_rules":["$quests8"]
+                    },
+                    {
+                        "name": "Item Delivery 6",
+                        "visibility_rules":["$quests9"]
+                    },
+                    {
+                        "name": "Item Delivery 7",
+                        "visibility_rules":["$quests10"]
+                    },
+                    {
+                        "name": "Item Delivery 8",
+                        "visibility_rules":["$quests11"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 170,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 2",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 2",
+                        "visibility_rules":["$quests12"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":170,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 2",
+                "sections":[
+                    {
+                        "name": "Gathering 2",
+                        "visibility_rules":["$quests13"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":170,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 2",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 2",
+                        "visibility_rules":["$quests14"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":170,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 9-12",
+                "sections":[
+                    {
+                        "name": "Item Delivery 9",
+                        "visibility_rules":["$quests15"]
+                    },
+                    {
+                        "name": "Item Delivery 10",
+                        "visibility_rules":["$quests16"]
+                    },
+                    {
+                        "name": "Item Delivery 11",
+                        "visibility_rules":["$quests17"]
+                    },
+                    {
+                        "name": "Item Delivery 12",
+                        "visibility_rules":["$quests18"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 185,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 3",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 3",
+                        "visibility_rules":["$quests19"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":185,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 3",
+                "sections":[
+                    {
+                        "name": "Gathering 3",
+                        "visibility_rules":["$quests20"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":185,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 3",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 3",
+                        "visibility_rules":["$quests21"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":185,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 13-16",
+                "sections":[
+                    {
+                        "name": "Item Delivery 13",
+                        "visibility_rules":["$quests22"]
+                    },
+                    {
+                        "name": "Item Delivery 14",
+                        "visibility_rules":["$quests23"]
+                    },
+                    {
+                        "name": "Item Delivery 15",
+                        "visibility_rules":["$quests24"]
+                    },
+                    {
+                        "name": "Item Delivery 16",
+                        "visibility_rules":["$quests25"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 200,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 4",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 4",
+                        "visibility_rules":["$quests26"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":200,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 4",
+                "sections":[
+                    {
+                        "name": "Gathering 4",
+                        "visibility_rules":["$quests27"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":200,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 4",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 4",
+                        "visibility_rules":["$quests28"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":200,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 17-20",
+                "sections":[
+                    {
+                        "name": "Item Delivery 17",
+                        "visibility_rules":["$quests29"]
+                    },
+                    {
+                        "name": "Item Delivery 18",
+                        "visibility_rules":["$quests30"]
+                    },
+                    {
+                        "name": "Item Delivery 19",
+                        "visibility_rules":["$quests31"]
+                    },
+                    {
+                        "name": "Item Delivery 20",
+                        "visibility_rules":["$quests32"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 215,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 5",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 5",
+                        "visibility_rules":["$quests33"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":215,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 5",
+                "sections":[
+                    {
+                        "name": "Gathering 5",
+                        "visibility_rules":["$quests34"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":215,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 5",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 5",
+                        "visibility_rules":["$quests35"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":215,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 21-24",
+                "sections":[
+                    {
+                        "name": "Item Delivery 21",
+                        "visibility_rules":["$quests36"]
+                    },
+                    {
+                        "name": "Item Delivery 22",
+                        "visibility_rules":["$quests37"]
+                    },
+                    {
+                        "name": "Item Delivery 23",
+                        "visibility_rules":["$quests38"]
+                    },
+                    {
+                        "name": "Item Delivery 24",
+                        "visibility_rules":["$quests39"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 230,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 6",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 6",
+                        "visibility_rules":["$quests40"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":230,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 6",
+                "sections":[
+                    {
+                        "name": "Gathering 6",
+                        "visibility_rules":["$quests41"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":230,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 6",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 6",
+                        "visibility_rules":["$quests42"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":230,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 25-28",
+                "sections":[
+                    {
+                        "name": "Item Delivery 25",
+                        "visibility_rules":["$quests43"]
+                    },
+                    {
+                        "name": "Item Delivery 26",
+                        "visibility_rules":["$quests44"]
+                    },
+                    {
+                        "name": "Item Delivery 27",
+                        "visibility_rules":["$quests45"]
+                    },
+                    {
+                        "name": "Item Delivery 28",
+                        "visibility_rules":["$quests46"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 245,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 7",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 7",
+                        "visibility_rules":["$quests47"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":245,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 7",
+                "sections":[
+                    {
+                        "name": "Gathering 7",
+                        "visibility_rules":["$quests48"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":245,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 7",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 7",
+                        "visibility_rules":["$quests49"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":245,
+                        "y":90
+                    }
+                ]
+            },
+            {
+                "name": "Delivery 29-32",
+                "sections":[
+                    {
+                        "name": "Item Delivery 29",
+                        "visibility_rules":["$quests50"]
+                    },
+                    {
+                        "name": "Item Delivery 30",
+                        "visibility_rules":["$quests51"]
+                    },
+                    {
+                        "name": "Item Delivery 31",
+                        "visibility_rules":["$quests52"]
+                    },
+                    {
+                        "name": "Item Delivery 32",
+                        "visibility_rules":["$quests53"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Help Wanted!",
+                        "x": 260,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fishing 8",
+                "access_rules":["$can_fish"],
+                "sections":[
+                    {
+                        "name": "Fishing 8",
+                        "visibility_rules":["$quests54"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":260,
+                        "y":110
+                    }
+                ]
+            },
+            {
+                "name": "Gathering 8",
+                "sections":[
+                    {
+                        "name": "Gathering 8",
+                        "visibility_rules":["$quests55"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":260,
+                        "y":70
+                    }
+                ]
+            },
+            {
+                "name": "Slay Monsters 8",
+                "sections":[
+                    {
+                        "name": "Slay Monsters 8",
+                        "visibility_rules":["$quests56"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Help Wanted!",
+                        "x":260,
+                        "y":90
+                    }
+                ]
+            }
+        ]
+    }
+]

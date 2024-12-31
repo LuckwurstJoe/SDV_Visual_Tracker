@@ -1,0 +1,765 @@
+[
+    {
+        "name": "Friendships",
+        "chest_opened_img": "images/HeartBlack.png",
+        "chest_unopened_img": "images/Heart.png",
+        "children":[
+            {
+                "name": "Abigail",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "clear_as_group": false,
+                        "item_count": 8,
+                        "visibility_rules":["friends"]
+                    },
+                    {
+                        "name": "Dating",
+                        "clear_as_group": false,
+                        "item_count": 2,
+                        "visibility_rules":["friends1"]
+                    },
+                    {
+                        "name": "Marriage",
+                        "clear_as_group": false,
+                        "item_count": 4,
+                        "visibility_rules":["friends2"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 533,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "Emily",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "clear_as_group": false,
+                        "item_count": 8,
+                        "visibility_rules":["friends"]
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 503,
+                        "y": 325
+                    }
+                ]
+            },            
+            {
+                "name": "Haley",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "clear_as_group": false,
+                        "item_count": 8,
+                        "visibility_rules":["friends"]
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 518,
+                        "y": 325
+                    }
+                ]
+            },            
+            {
+                "name": "Leah",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 355,
+                        "y": 340
+                    }
+                ]
+            },            
+            {
+                "name": "Maru",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 582,
+                        "y": 126
+                    }
+                ]
+            },            
+            {
+                "name": "Penny",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 600,
+                        "y": 285
+                    }
+                ]
+            },            
+            {
+                "name": "Alex",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 573,
+                        "y": 260
+                    }
+                ]
+            },            
+            {
+                "name": "Elliot",
+                "clear_as_group": false,
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 634,
+                        "y": 437
+                    }
+                ]
+            },            {
+                "name": "Harvey",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 522,
+                        "y": 252
+                    }
+                ]
+            },            
+            {
+                "name": "Sam",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 472,
+                        "y": 316
+                    }
+                ]
+            },            
+            {
+                "name": "Sebastian",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 597,
+                        "y": 126
+                    }
+                ]
+            },            
+            {
+                "name": "Shane",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Dating",
+                        "visibility_rules":["friends1"],
+                        "clear_as_group": false,
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Marriage",
+                        "visibility_rules":["friends2"],
+                        "clear_as_group": false,
+                        "item_count": 4
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 355,
+                        "y": 310
+                    }
+                ]
+            },            
+            {
+                "name": "Caroline",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 548,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Clint",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 670,
+                        "y": 310
+                    }
+                ]
+            },            
+            {
+                "name": "Demetrius",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 582,
+                        "y": 141
+                    }
+                ]
+            },            
+            {
+                "name": "Evelyn",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 588,
+                        "y": 255
+                    }
+                ]
+            },            
+            {
+                "name": "George",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 588,
+                        "y": 270
+                    }
+                ]
+            },            
+            {
+                "name": "Gus",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 570,
+                        "y": 285
+                    }
+                ]
+            },            
+            {
+                "name": "Jas",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 370,
+                        "y": 310
+                    }
+                ]
+            },            
+            {
+                "name": "Jodi",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 486,
+                        "y": 316
+                    }
+                ]
+            },            
+            {
+                "name": "Kent",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 486,
+                        "y": 346
+                    }
+                ]
+            },            
+            {
+                "name": "Krobus",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 300,
+                        "y": 465
+                    }
+                ]
+            },            
+            {
+                "name": "Lewis",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 590,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Leo",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 609,
+                        "y": 505
+                    }
+                ]
+            },               
+            {
+                "name": "Linus",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 597,
+                        "y": 110
+                    }
+                ]
+            },            
+            {
+                "name": "Marnie",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 370,
+                        "y": 325
+                    }
+                ]
+            },            
+            {
+                "name": "Pam",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 615,
+                        "y": 285
+                    }
+                ]
+            },            
+            {
+                "name": "Pierre",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 548,
+                        "y": 242
+                    }
+                ]
+            },            
+            {
+                "name": "Robin",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 597,
+                        "y": 141
+                    }
+                ]
+            },            
+            {
+                "name": "Vincent",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 472,
+                        "y": 346
+                    }
+                ]
+            },            
+            {
+                "name": "Willy",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 647,
+                        "y": 469
+                    }
+                ]
+            },            
+            {
+                "name": "Wizard",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 160,
+                        "y": 281
+                    }
+                ]
+            },            
+            {
+                "name": "Sandy",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 26,
+                        "y": 96
+                    }
+                ]
+            },           
+            {
+                "name": "Dwarf",
+                "sections":[
+                    {
+                        "name": "Friendship",
+                        "visibility_rules":["friends"],
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 675,
+                        "y": 97
+                    }
+                ]
+            }
+        ]
+    }
+]

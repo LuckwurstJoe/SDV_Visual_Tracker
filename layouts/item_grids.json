@@ -1,0 +1,22 @@
+{
+    "item_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type":"itemgrid",
+                "h_alignment":"left",
+                "item_margin": "2",
+                "rows":[
+		    ["translator","sewerkey","clubcard","skullkey","notes","darktalisman","townkey",""],
+		    ["stocklist","pack","plane","elevator","stardrop","luck","movement"],
+                    [],
+                    ["","farming","mining","foraging","fishing","combat"],
+                    ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]
+                ]
+            }
+        ]
+    }
+}
+
+

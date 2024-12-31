@@ -1,0 +1,95 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#212121",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Special Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "item_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Tools and Buildings",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tool_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Seasons and Seeds",
+                            "dock": "left",
+                            "content":{
+                                "type": "layout",
+                                "key": "Seeds"
+                            }
+                        },
+ {
+                            "type": "group",
+                            "header": "Ginger Island",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "island_grid"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Stardew Valley",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Stardew Valley"]
+                                }
+                        },
+                        {
+                            "title": "Community Center",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Community Center"]
+                              }
+                        },
+                        {
+                            "title": "Mail Quests",
+                            "content":{
+                                "type": "map",
+                                "maps":["Quests"]
+                            }
+                        },
+                        {
+                            "title": "Help Wanted!",
+                            "content":{
+                                "type": "map",
+                                "maps":["Help Wanted!"]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "item_grid"
+        }
+    }
+}

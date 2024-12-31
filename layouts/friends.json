@@ -1,0 +1,21 @@
+{
+    "Friendship": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+            "type":"itemgrid",
+            "h_alignment":"left",
+            "item_margin": "0,3",
+            "rows":[
+                ["Abigail","Emily","Haley","Leah","Maru","Penny"],
+                ["Alex","Elliott","Harvey","Sam","Sebastian","Shane"],
+                ["Caroline","Clint","Demetrius","Evelyn","George","Gus"],
+                ["Jas","Jodi","Kent","Lewis","Linus","Marnie"],
+                ["Pam","Pierre","Robin","Vincent","Willy","Wizard"],
+                ["DwarfNPC","Krobus","","","Sandy","Leo"]
+                ]
+            }
+        ]
+    }
+}

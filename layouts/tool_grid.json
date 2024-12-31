@@ -1,0 +1,22 @@
+{
+    "tool_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2",
+                "rows": [
+                    ["axe","pick","hoe","can","scythe","pan","trashcan",""],
+                    ["rod","return","flute","sword","club","dagger","slingshot"],
+                    ["house","coop","barn","stable","hutch","shipping","pond"],
+                    ["glittering","railroad","greenhouse","minecarts","theater","bridge","beachbridge"],
+                    ["bus","desert","gold","fruits","mushrooms","raccoon","silo"]
+                ]
+            }
+        ]
+    }
+}
+
+
