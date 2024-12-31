@@ -10,12 +10,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "ginger_tracking, ginger_tracking_off"
+                "codes": "island_tracking, island_tracking_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "ginger_tracking, ginger_tracking_on"
+                "codes": "island_tracking, island_tracking_on"
             }
         ]
     }

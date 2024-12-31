@@ -4,6 +4,7 @@ Tracker:AddItems("items/Seeds.json")
 Tracker:AddItems("items/settings.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
+ScriptHost:LoadScript("scripts/watches.lua")
 
 Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/CommunityCenter.json")
@@ -16,7 +17,11 @@ Tracker:AddLayouts("layouts/tool_grid.json")
 Tracker:AddLayouts("layouts/island_grid.json")
 Tracker:AddLayouts("layouts/settings.json")
 Tracker:AddLayouts("layouts/layouts.json")
-Tracker:AddLayouts("layouts/tracker.json")
+
+
+
+--Tracker:AddLayouts("layouts/tracker_island.json")
+--Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/friends.json")
 Tracker:AddLayouts("layouts/seeds.json")
 Tracker:AddLayouts("layouts/broadcast.json")

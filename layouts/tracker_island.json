@@ -37,6 +37,15 @@
                                 "type": "layout",
                                 "key": "Seeds"
                             }
+                        },
+ {
+                            "type": "group",
+                            "header": "Ginger Island",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "island_grid"
+                            }
                         }
                     ]
                 },
