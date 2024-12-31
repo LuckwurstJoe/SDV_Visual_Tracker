@@ -1,0 +1,800 @@
+[
+    {
+        "name": "Pickaxe",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Copper_Pickaxe.png",
+                "codes": "Pick,CopperPick"
+            },
+            {
+                "img": "images/Steel_Pickaxe.png",
+                "codes": "Pick,SteelPick"
+            },
+            {
+                "img": "images/Gold_Pickaxe.png",
+                "codes": "Pick,GoldPick"
+            },
+            {
+                "img": "images/Iridium_Pickaxe.png",
+                "codes": "Pick,IridiumPick"
+            }
+        ]
+    },
+    {
+        "name": "Axe",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Copper_Axe.png",
+                "codes": "Axe,CopperAxe"
+            },
+            {
+                "img": "images/Steel_Axe.png",
+                "codes": "Axe,SteelAxe"
+            },
+            {
+                "img": "images/Gold_Axe.png",
+                "codes": "Axe,GoldAxe"
+            },
+            {
+                "img": "images/Iridium_Axe.png",
+                "codes": "Axe,IridiumAxe"
+            }
+        ]
+    },
+    {
+        "name": "Hoe",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Copper_Hoe.png",
+                "codes": "Hoe,CopperHoe"
+            },
+            {
+                "img": "images/Steel_Hoe.png",
+                "codes": "Hoe,SteelHoe"
+            },
+            {
+                "img": "images/Gold_Hoe.png",
+                "codes": "Hoe,GoldHoe"
+            },
+            {
+                "img": "images/Iridium_Hoe.png",
+                "codes": "Hoe,IridiumHoe"
+            }
+        ]
+    },
+{
+        "name": "Pan",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Copper_Pan.png",
+                "codes": "pan,CopperPan"
+            },
+            {
+                "img": "images/Steel_Pan.png",
+                "codes": "pan,SteelPan"
+            },
+            {
+                "img": "images/Gold_Pan.png",
+                "codes": "pan,GoldPan"
+            },
+            {
+                "img": "images/Iridium_Pan.png",
+                "codes": "pan,IridiumPan"
+            }
+        ]
+    },
+    {
+        "name": "Watering Can",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Copper_Watering_Can.png",
+                "codes": "Can,CopperCan"
+            },
+            {
+                "img": "images/Steel_Watering_Can.png",
+                "codes": "Can,SteelCan"
+            },
+            {
+                "img": "images/Gold_Watering_Can.png",
+                "codes": "Can,GoldCan"
+            },
+            {
+                "img": "images/Iridium_Watering_Can.png",
+                "codes": "Can,IridiumCan"
+            }
+        ]
+    },
+    {
+        "name": "Scythe",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Golden_Scythe.png",
+                "codes": "scythe,goldscythe"
+            }
+
+        ]
+    },
+    {
+        "name": "Backpack",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            }
+        ]
+    },
+    {
+        "name": "Trash Can",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Trash_Can_Copper.png",
+                "codes": "trashcan"
+            },
+            {
+                "img": "images/Trash_Can_Steel.png",
+                "codes": "trashcan,steeltrash"
+            },
+            {
+                "img": "images/Trash_Can_Gold.png",
+                "codes": "trashcan,goldtrash"
+            },
+            {
+                "img": "images/Trash_Can_Iridium.png",
+                "codes": "trashcan,iridiumtrash"
+            }
+        ]
+    },
+    {
+        "name": "Fishing Rod",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Training_Rod.png",
+                "codes": "rod"
+            },
+            {
+                "img": "images/Bamboo_Pole.png",
+                "codes": "rod,Bamboorod"
+            },
+            {
+                "img": "images/Fiberglass_Rod.png",
+                "codes": "rod,Fiberglassrod"
+            },
+            {
+                "img": "images/Iridium_Rod.png",
+                "codes": "rod,IridiumRod"
+            }
+        ]
+    },
+    {
+        "name": "Spring",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/Spring.png",
+        "codes": "spring"
+    },
+    {
+        "name": "Summer",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/Summer.png",
+        "codes": "summer"
+    },
+    {
+        "name": "Fall",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/Fall.png",
+        "codes": "fall"
+    },
+    {
+        "name": "Winter",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/Winter.png",
+        "codes": "winter"
+    },
+    {
+        "name": "Season",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/Spring.png",
+                "codes": "season"
+            },
+            {
+                "img": "images/Summer.png",
+                "codes": "season"
+            },
+            {
+                "img": "images/Fall.png",
+                "codes": "season"
+            },
+            {
+                "img": "images/Winter.png",
+                "codes": "season"
+            }
+        ]
+    },
+    {
+        "name": "Coop",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/White_Chicken.png",
+                "codes": "coop,chicken"
+            },
+            {
+                "img": "images/Duck.png",
+                "codes": "coop,duck"
+            },
+            {
+                "img": "images/Rabbit.png",
+                "codes": "coop,rabbit"
+            }
+        ]
+    },
+    {
+        "name": "Barn",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/White_Cow.png",
+                "codes": "barn,cow"
+            },
+            {
+                "img": "images/Goat.png",
+                "codes": "barn,goat"
+            },
+            {
+                "img": "images/Pig.png",
+                "codes": "barn,pig"
+            }
+        ]
+    },
+    {
+        "name": "Stardrop",
+        "type": "consumable",
+        "max_quantity": 7,
+        "allow_disabled": true,
+        "img": "images/Stardrop.png",
+        "codes": "stardrop"
+    },
+{
+        "name": "Luck",
+        "type": "consumable",
+        "max_quantity": 2,
+        "allow_disabled": true,
+        "img": "images/Luck.png",
+        "codes": "luck"
+    },
+ {
+        "name": "Movement",
+        "type": "consumable",
+        "max_quantity": 8,
+        "allow_disabled": true,
+        "img": "images/Speed.png",
+        "codes": "movement"
+    },
+    {
+        "name": "Farming",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/Farming.png",
+        "codes": "farming,levels"
+    },
+    {
+        "name": "Foraging",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/Foraging.png",
+        "codes": "foraging,levels"
+    },
+    {
+        "name": "Mining",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/Mining.png",
+        "codes": "mining,levels"
+    },
+    {
+        "name": "Fishing",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/Fishing.png",
+        "codes": "fishing,levels"
+    },
+    {
+        "name": "Combat",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/Combat.png",
+        "codes": "combat,levels"
+    },
+    {
+        "name": "Desert Warp",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Desert_Obelisk.png",
+        "codes": "desertwarp,desert"
+    },
+    {
+        "name": "Island Warp",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/Island_Obelisk.png",
+        "codes": "island"
+    },
+    {
+        "name": "Rusty Key",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Rusty_Key.png",
+        "codes": "sewerkey"
+    },
+    {
+        "name": "Skull Key",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Skull_Key.png",
+        "codes": "skullkey"
+    },
+    {
+        "name": "Shipping Bin",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Shipping_Bin.png",
+        "codes": "shipping"
+    },
+
+    {
+        "name": "Dwarvish Translation Guide",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Dwarvish_Translation_Guide.png",
+        "codes": "translator"
+    },
+    {
+        "name": "Dark Talisman",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Dark_Talisman.png",
+        "codes": "darktalisman"
+    },
+    {
+        "name": "Key to the town",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Key_To_The_Town.png",
+        "codes": "townkey"
+    },
+{
+        "name": "Beach Bridge",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/BeachBridge.png",
+        "codes": "beachbridge"
+    },
+{
+        "name": "Greenhouse",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Greenhouse.png",
+        "codes": "greenhouse"
+    },
+    {
+        "name": "Gold Clock",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Gold_Clock.png",
+        "codes": "gold"
+    },
+    {
+        "name": "Glittering Boulder",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Glittering.png",
+        "codes": "glittering"
+    },
+    {
+        "name": "Horse Flute",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Horse_Flute.png",
+        "codes": "flute"
+    },
+    {
+        "name": "Stocklist",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Stocklist.png",
+        "codes": "stocklist"
+    },
+    {
+        "name": "Bus",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Bus.png",
+        "codes": "bus,desert"
+    },
+    {
+        "name": "Return Scepter",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Return_Scepter.png",
+        "codes": "return"
+    },
+    {
+        "name": "Bridge",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/BridgeFixed.png",
+        "codes": "bridge,fixedbridge"
+    },
+    {
+        "name": "Mines Elevator Level",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/Elevator/5.png",
+                "codes": "elevator,e5"
+            },
+            {
+                "img": "images/Elevator/10.png",
+                "codes": "elevator,e10"
+            },
+            {
+                "img": "images/Elevator/15.png",
+                "codes": "elevator,e15"
+            },
+            {
+                "img": "images/Elevator/20.png",
+                "codes": "elevator,e20"
+            },
+            {
+                "img": "images/Elevator/25.png",
+                "codes": "elevator,e25"
+            },
+            {
+                "img": "images/Elevator/30.png",
+                "codes": "elevator,e30"
+            },
+            {
+                "img": "images/Elevator/35.png",
+                "codes": "elevator,e35"
+            },
+            {
+                "img": "images/Elevator/40.png",
+                "codes": "elevator,e40"
+            },
+            {
+                "img": "images/Elevator/45.png",
+                "codes": "elevator,e45"
+            },
+            {
+                "img": "images/Elevator/50.png",
+                "codes": "elevator,e50"
+            },
+            {
+                "img": "images/Elevator/55.png",
+                "codes": "elevator,e55"
+            },
+            {
+                "img": "images/Elevator/60.png",
+                "codes": "elevator,e60"
+            },
+            {
+                "img": "images/Elevator/65.png",
+                "codes": "elevator,e65"
+            },
+            {
+                "img": "images/Elevator/70.png",
+                "codes": "elevator,e70"
+            },
+            {
+                "img": "images/Elevator/75.png",
+                "codes": "elevator,e75"
+            },
+            {
+                "img": "images/Elevator/80.png",
+                "codes": "elevator,e80"
+            },
+            {
+                "img": "images/Elevator/85.png",
+                "codes": "elevator,e85"
+            },
+            {
+                "img": "images/Elevator/90.png",
+                "codes": "elevator,e90"
+            },
+            {
+                "img": "images/Elevator/95.png",
+                "codes": "elevator,e95"
+            },
+            {
+                "img": "images/Elevator/100.png",
+                "codes": "elevator,e100"
+            },
+            {
+                "img": "images/Elevator/105.png",
+                "codes": "elevator,e105"
+            },
+            {
+                "img": "images/Elevator/110.png",
+                "codes": "elevator,e110"
+            },
+            {
+                "img": "images/Elevator/115.png",
+                "codes": "elevator,e115"
+            },
+            {
+                "img": "images/Elevator/120.png",
+                "codes": "elevator,e120"
+            }
+        ]
+    },
+    {
+        "name": "House",
+        "type":"progressive",
+        "loop":false,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/Mini-Fridge.png",
+                "codes": "house,kitchen"
+            },
+            {
+                "img": "images/Crib.png",
+                "codes": "house,kids"
+            },
+            {
+                "img": "images/Cask.png",
+                "codes": "house,cask"
+            }
+        ]
+    },
+    {
+        "name": "Theater",
+        "type":"progressive",
+        "loop":false,
+        "allow_disabled": true,
+        "stages":[
+            {
+                "img": "images/Jojamart.png",
+                "codes": "theater"
+            },
+            {
+                "img": "images/Theater.png",
+                "codes": "theater"
+            }
+        ]
+    },
+
+    {
+        "name": "Magnifying Glass",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Magnifying_Glass.png",
+        "codes": "notes"
+    },
+    {
+        "name": "Minecarts",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Minecarts.png",
+        "codes": "minecarts"
+    },
+    {
+        "name": "Railroad",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Railroad.png",
+        "codes": "railroad"
+    },
+    {
+        "name": "Mystery Boxes",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Mystery_Box.png",
+        "codes": "plane"
+    },
+    {
+        "name": "Stable",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Stable.png",
+        "codes": "stable"
+    },
+    {
+        "name": "Silo",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Silo.png",
+        "codes": "silo"
+    },
+    {
+        "name": "Raccoon",
+        "type":"consumable",
+        "max_quantity": 9,
+        "allow_disabled":true,
+        "img": "images/Raccoon.png",
+        "codes": "raccoon"
+    },
+    {
+        "name": "Club Card",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/Club_Card.png",
+        "codes": "clubcard"
+    },
+    {
+        "name": "Slime Hutch",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/Slime_Hutch.png",
+        "codes": "hutch"
+    },
+    {
+        "name": "Fish Pond",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/Fish_Pond.png",
+        "codes": "pond"
+    },
+    {
+        "name": "Fruit Bats",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/fruits.png",
+        "codes": "fruits"
+    },
+    {
+        "name": "Mushroom Boxes",
+        "type": "toggle",
+        "allow_disabled":true,
+        "img": "images/mushrooms.png",
+        "codes": "mushrooms"
+    },
+    {
+        "name": "TM Monday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Monday.png",
+        "codes": "tm,monday"
+    },
+    {
+        "name": "TM Tuesday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Tuesday.png",
+        "codes": "tm,tuesday"
+    },
+    {
+        "name": "TM Wednesday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Wednesday.png",
+        "codes": "tm,wednesday"
+    },
+    {
+        "name": "TM Thursday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Thursday.png",
+        "codes": "tm,thursday"
+    },
+    {
+        "name": "TM Friday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Friday.png",
+        "codes": "tm,friday"
+    },
+    {
+        "name": "TM Saturday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Saturday.png",
+        "codes": "tm,saturday"
+    },
+    {
+        "name": "TM Sunday",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Sunday.png",
+        "codes": "tm,sunday"
+    },
+{
+        "name": "Sword",
+        "type": "consumable",
+        "max_quantity": 5,
+        "allow_disabled": true,
+        "img": "images/Sword.png",
+        "codes": "sword"
+    },
+
+{
+        "name": "Club",
+        "type": "consumable",
+        "max_quantity": 5,
+        "allow_disabled": true,
+        "img": "images/Club.png",
+        "codes": "club"
+    },
+
+{
+        "name": "Dagger",
+        "type": "consumable",
+        "max_quantity": 5,
+        "allow_disabled": true,
+        "img": "images/Dagger.png",
+        "codes": "dagger"
+    },
+
+{
+        "name": "Slingshot",
+        "type": "consumable",
+        "max_quantity": 2,
+        "allow_disabled": true,
+        "img": "images/Slingshot.png",
+        "codes": "slingshot"
+    },
+
+{
+        "name": "Golden Walnut",
+        "type": "consumable",
+        "max_quantity": 148,
+        "allow_disabled": true,
+        "img": "images/Golden_Walnut.png",
+        "codes": "gwalnut"
+    },
+
+
+]

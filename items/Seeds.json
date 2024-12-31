@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Amaranth",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Amaranth.png",
+        "codes": "amaranth"
+    },
+    {
+        "name": "Ancient",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Ancient.png",
+        "codes": "ancient"
+    },
+    {
+        "name": "Apple",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Apple.png",
+        "codes": "apple"
+    },
+    {
+        "name": "Apricot",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Apricot.png",
+        "codes": "apricot"
+    },
+    {
+        "name": "Artichoke",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Artichoke.png",
+        "codes": "artichoke"
+    },
+    {
+        "name": "Bean",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Bean.png",
+        "codes": "bean"
+    },
+    {
+        "name": "Beet",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Beet.png",
+        "codes": "beet"
+    },
+    {
+        "name": "Blue Jazz",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Blue Jazz.png",
+        "codes": "blueJazz"
+    },
+    {
+        "name": "Blueberry",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Blueberry.png",
+        "codes": "blueberry"
+    },
+    {
+        "name": "Bok Choy",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Bok Choy.png",
+        "codes": "bokchoy"
+    },
+    {
+        "name": "Broccoli",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Broccoli.png",
+        "codes": "broccoli"
+    },
+    {
+        "name": "Cactus",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Cactus.png",
+        "codes": "cactus"
+    },
+    {
+        "name": "Carrot",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Carrot.png",
+        "codes": "carrot"
+    },
+    {
+        "name": "Cauliflower",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Cauliflower.png",
+        "codes": "cauliflower"
+    },
+    {
+        "name": "Cherry",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Cherry.png",
+        "codes": "cherry"
+    },
+    {
+        "name": "Coffee",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Coffee.png",
+        "codes": "coffee"
+    },
+    {
+        "name": "Corn",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Corn.png",
+        "codes": "corn"
+    },
+    {
+        "name": "Cranberry",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Cranberry.png",
+        "codes": "cranberry"
+    },
+    {
+        "name": "Eggplant",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Eggplant.png",
+        "codes": "eggplant"
+    },
+    {
+        "name": "Fairy Rose",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Fairy Rose.png",
+        "codes": "fairyrose"
+    },
+    {
+        "name": "Garlic",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Garlic.png",
+        "codes": "garlic"
+    },
+    {
+        "name": "Grape",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Grape.png",
+        "codes": "grape"
+    },
+    {
+        "name": "Hops",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Hops.png",
+        "codes": "hops"
+    },
+    {
+        "name": "Kale",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Kale.png",
+        "codes": "kale"
+    },
+    {
+        "name": "Melon",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Melon.png",
+        "codes": "melon"
+    },
+    {
+        "name": "Orange",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Orange.png",
+        "codes": "orange"
+    },
+    {
+        "name": "Parsnip",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Parsnip.png",
+        "codes": "parsnip"
+    },
+    {
+        "name": "Peach",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Peach.png",
+        "codes": "peach"
+    },
+    {
+        "name": "Pepper",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Pepper.png",
+        "codes": "pepper"
+    },
+    {
+        "name": "Pomegranate",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Pomegranate.png",
+        "codes": "pomegranate"
+    },
+    {
+        "name": "Poppy",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Poppy.png",
+        "codes": "poppy"
+    },
+    {
+        "name": "Potato",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Potato.png",
+        "codes": "potato"
+    },
+    {
+        "name": "Powdermelon",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Powdermelon.png",
+        "codes": "powdermelon"
+    },
+    {
+        "name": "Pumpkin",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Pumpkin.png",
+        "codes": "pumpkin"
+    },
+    {
+        "name": "Radish",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Radish.png",
+        "codes": "radish"
+    },
+    {
+        "name": "Rare",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Rare.png",
+        "codes": "rare"
+    },
+    {
+        "name": "Red Cabbage",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Red Cabbage.png",
+        "codes": "redcabbage"
+    },
+    {
+        "name": "Rice",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Rice.png",
+        "codes": "rice"
+    },
+    {
+        "name": "Rhubarb",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Rhubarb.png",
+        "codes": "rhubarb"
+    },
+    {
+        "name": "Spangle",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Spangle.png",
+        "codes": "spangle"
+    },
+    {
+        "name": "Starfruit",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Starfruit.png",
+        "codes": "starfruit"
+    },
+    {
+        "name": "Summer Squash",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Squash.png",
+        "codes": "squash"
+    },
+    {
+        "name": "Sunflower",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Sunflower.png",
+        "codes": "sunflower"
+    },
+    {
+        "name": "Strawberry",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Strawberry.png",
+        "codes": "strawberry"
+    },
+    {
+        "name": "Tomato",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Tomato.png",
+        "codes": "tomato"
+    },
+    {
+        "name": "Tulip",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Tulip.png",
+        "codes": "tulip"
+    },
+    {
+        "name": "Wheat",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Wheat.png",
+        "codes": "wheat"
+    },
+    {
+        "name": "Banana",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Banana.png",
+        "codes": "banana"
+    },
+    {
+        "name": "Mango",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Mango.png",
+        "codes": "mango"
+    },
+    {
+        "name": "Pineapple",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Pineapple.png",
+        "codes": "pineapple"
+    },
+    {
+        "name": "Taro Tuber",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Taro_Tuber.png",
+        "codes": "taro"
+    },
+    {
+        "name": "Yam",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/Seeds/Yam.png",
+        "codes": "yam"
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Abigail",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Abigail.png",
+        "codes": "Abigail"
+    },
+    {
+        "name": "Alex",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Alex.png",
+        "codes": "Alex"
+    },
+    {
+        "name": "Caroline",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Caroline.png",
+        "codes": "Caroline"
+    },
+    {
+        "name": "Clint",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Clint.png",
+        "codes": "Clint"
+    },
+    {
+        "name": "Demetrius",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Demetrius.png",
+        "codes": "Demetrius"
+    },
+    {
+        "name": "Dwarf",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Dwarf.png",
+        "codes": "DwarfNPC"
+    },
+    {
+        "name": "Elliott",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Elliott.png",
+        "codes": "Elliott"
+    },
+    {
+        "name": "Emily",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Emily.png",
+        "codes": "Emily"
+    },
+    {
+        "name": "Evelyn",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Evelyn.png",
+        "codes": "Evelyn"
+    },
+    {
+        "name": "George",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/George.png",
+        "codes": "George"
+    },
+    {
+        "name": "Gus",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Gus.png",
+        "codes": "Gus"
+    },
+    {
+        "name": "Haley",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Haley.png",
+        "codes": "Haley"
+    },
+    {
+        "name": "Harvey",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Harvey.png",
+        "codes": "Harvey"
+    },
+    {
+        "name": "Jas",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Jas.png",
+        "codes": "Jas"
+    },
+    {
+        "name": "Jodi",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Jodi.png",
+        "codes": "Jodi"
+    },
+    {
+        "name": "Kent",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Kent.png",
+        "codes": "Kent"
+    },
+    {
+        "name": "Krobus",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Krobus.png",
+        "codes": "Krobus"
+    },
+    {
+        "name": "Leah",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Leah.png",
+        "codes": "Leah"
+    },
+    {
+        "name": "Leo",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Leo.png",
+        "codes": "Leo"
+    },
+    {
+        "name": "Lewis",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Lewis.png",
+        "codes": "Lewis"
+    },
+    {
+        "name": "Linus",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Linus.png",
+        "codes": "Linus"
+    },
+    {
+        "name": "Marnie",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Marnie.png",
+        "codes": "Marnie"
+    },
+    {
+        "name": "Maru",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Maru.png",
+        "codes": "Maru"
+    },
+    {
+        "name": "Pam",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Pam.png",
+        "codes": "Pam"
+    },
+    {
+        "name": "Penny",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Penny.png",
+        "codes": "Penny"
+    },
+    {
+        "name": "Pierre",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Pierre.png",
+        "codes": "Pierre"
+    },
+    {
+        "name": "Robin",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Robin.png",
+        "codes": "Robin"
+    },
+    {
+        "name": "Sam",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Sam.png",
+        "codes": "Sam"
+    },
+    {
+        "name": "Sandy",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Sandy.png",
+        "codes": "Sandy"
+    },
+    {
+        "name": "Sebastian",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Sebastian.png",
+        "codes": "Sebastian"
+    },
+    {
+        "name": "Shane",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/NPCs/Shane.png",
+        "codes": "Shane"
+    },
+    {
+        "name": "Vincent",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Vincent.png",
+        "codes": "Vincent"
+    },
+    {
+        "name": "Willy",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Willy.png",
+        "codes": "Willy"
+    },
+    {
+        "name": "Wizard",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/NPCs/Wizard.png",
+        "codes": "Wizard"
+    }
+]
