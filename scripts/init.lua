@@ -1,6 +1,7 @@
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/friendsanity.json")
 Tracker:AddItems("items/Seeds.json")
+Tracker:AddItems("items/settings.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 

@@ -1,20 +1,26 @@
 {
-    "settings": {
+  "settings_popup":
+  {
+    "type": "array",
+    "orientation": "horizontal",
+    "content": [
+      {
         "type": "array",
-        "orientation": "horizontal",
-        "content":[
-            {
-                "type": "itemgrid",
-                "h_alignment": "left",
-                "item_margin": "3,3",
-                "rows":
-                [
-                    ["goal"],
-                    ["eshuffle","pshuffle","ashuffle"],
-                    ["bshuffle","tshuffle","sshuffle","quests"],
-                    ["msanity", "friends","fsanity"]
-                ]
-            }
+        "content": [
+          {
+            "type": "group",
+            "header": "Ginger Island",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "ginger_tracking"
+              }
+            ]
+          }
         ]
-    }
+      }
+    ]
+  }
+  
 }
