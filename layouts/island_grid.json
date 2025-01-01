@@ -8,7 +8,10 @@
                 "h_alignment": "left",
                 "item_margin": "2",
                 "rows": [
-                    ["island","gwalnut","pineapple","banana","mango","taro"],
+                    ["island","boat","gwalnut","pineapple","taro","banana","mango"],
+                    ["turtlen","turtlew","resort","parrots"],
+		    ["ifarm","imail","farmobelisk","walnutroom"],
+                    ["trader","digsite","snailcave","vbridge","vexit"]
                 ]
             }
         ]
