@@ -6,6 +6,6 @@ How to use this pack:
 1) Get PopTracker from here: https://github.com/black-sliver/PopTracker
 2) Download this tracker pack (click on the green "<> Code"-button at the top of this site and choose "Download ZIP"
 3) Put the downloaded zip-file into the "packs"-folder of the extracted PopTracker Directory
-4) Open Poptracker and choose the pack (folder-button to the top of Poptracker)
-5) You can enable autotracking via the AP button. Just insert the information provided by your Archipelago Room
+4) Open PopTracker and choose the pack (folder-button to the top of Poptracker)
+5) You can enable autotracking via the "AP" button. Just insert the information provided by your Archipelago Room
 6) Have fun
