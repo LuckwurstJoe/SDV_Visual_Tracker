@@ -18,5 +18,14 @@ end
 print("---------------------------------------------------------------------")
 print("")
 
+function enableWatches()
+	if ENABLED_WATCHES then
+		return
+	end
+function disableWatches()
+	if not ENABLED_WATCHES then
+		return
+	end
+
 -- loads the AP autotracking code
 ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")

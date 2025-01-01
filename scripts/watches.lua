@@ -5,8 +5,6 @@ function updateIslandTracking()
 	else
 		Tracker:AddLayouts("layouts/tracker.json")
 	end
-	disableWatches()
-	enableWatches()
 end
 
 
