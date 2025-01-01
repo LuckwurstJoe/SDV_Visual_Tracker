@@ -795,6 +795,102 @@
         "img": "images/Golden_Walnut.png",
         "codes": "gwalnut"
     },
-
-
+    {
+        "name": "Boat Repair",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Boat.png",
+        "codes": "boat"
+    },
+    {
+        "name": "Professor Snail Cave",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/snailcave.png",
+        "codes": "snailcave"
+    },
+    {
+        "name": "Island Turtle North",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/TurtleN.png",
+        "codes": "turtlen"
+    },
+    {
+        "name": "Island Turtle West",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/TurtleW.png",
+        "codes": "turtlew"
+    },
+    {
+        "name": "Island Farmhouse",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/ifarm.png",
+        "codes": "ifarm"
+    },
+    {
+        "name": "Island Mailbox",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/imail.png",
+        "codes": "imail"
+    },
+    {
+        "name": "Farm Obelisk",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Farm_Obelisk.png",
+        "codes": "farmobelisk"
+    },
+    {
+        "name": "Dig Site Bridge",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/digsite.png",
+        "codes": "digsite"
+    },
+    {
+        "name": "Island Trader",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Island_Trader.png",
+        "codes": "trader"
+    },
+    {
+        "name": "Volcano Bridge",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/vbridge.png",
+        "codes": "vbridge"
+    },
+    {
+        "name": "Volcano Exit Shortcut",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/vexit.png",
+        "codes": "vexit"
+    },
+    {
+        "name": "Island Resort",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/resort.png",
+        "codes": "resort"
+    },
+    {
+        "name": "Parrot Express",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/Parrot_Express.png",
+        "codes": "parrots"
+    },
+    {
+        "name": "Qi Walnut Room",
+        "type":"toggle",
+        "allow_disabled":true,
+        "img": "images/walnutroom.png",
+        "codes": "walnutroom"
+    }
 ]
