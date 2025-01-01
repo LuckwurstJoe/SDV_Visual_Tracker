@@ -7,3 +7,6 @@ How to use this tracker-pack:
 2) At the top of this page, click on the green "<> Code"-Button and choose "Download ZIP"
 3) Put this zip-File into the "packs"-folder of your extracted PopTracker-Directory
 4) Choose the pack via the folder icon
+5) For Autotracking: Click on the AP Symbol at the top and enter the information, Archipelago provides you.
+
+AT THE MOMENT there's a bug, that the layout won't load. Klick on the Settings-Icon beside the AP icon and klick on Ginger Island Tracking On/Off, until the layout is shown.
