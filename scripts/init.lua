@@ -17,8 +17,6 @@ Tracker:AddLayouts("layouts/island_grid.json")
 Tracker:AddLayouts("layouts/settings.json")
 Tracker:AddLayouts("layouts/layouts.json")
 
-
-
 --Tracker:AddLayouts("layouts/tracker_island.json")
 --Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/friends.json")
@@ -26,6 +24,8 @@ Tracker:AddLayouts("layouts/seeds.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
 ScriptHost:LoadScript("scripts/watches.lua")
+
+updateIslandTracking()
 
 if PopVersion and PopVersion >= "0.18.0" then
   ScriptHost:LoadScript("scripts/autotracking.lua")
