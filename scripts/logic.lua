@@ -229,6 +229,9 @@ function tmsun()
     return has("sunday")
 end
 
+function quests1()
+    return has("quests",1)
+end
 function quests2()
     return has("quests",2)
 end

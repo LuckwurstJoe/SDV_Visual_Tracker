@@ -18,5 +18,14 @@
                 "codes": "island_tracking, island_tracking_on"
             }
         ]
-    }
+     },
+     {
+        "name": "Help Wanted Quests",
+        "type": "consumable",
+        "allow_disabled": true,
+        "max_quantity": 56,
+        "img": "images/settings/HelpWanted.jpg",
+        "codes": "settings,quests"
+     }
+
 ]

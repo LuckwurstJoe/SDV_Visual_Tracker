@@ -17,6 +17,17 @@
                 "item": "island_tracking"
               }
             ]
+          },
+		  {
+            "type": "group",
+            "header": "Help Wanted Quests",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "quests"
+              }
+            ]
           }
         ]
       }

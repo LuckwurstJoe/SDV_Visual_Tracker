@@ -745,7 +745,7 @@
                 "sections":[
                     {
                         "name": "Item Delivery 1",
-                        "visibility_rules":["quests"]
+                        "visibility_rules":["$quests1"]
                     },
                     {
                         "name": "Item Delivery 2",
