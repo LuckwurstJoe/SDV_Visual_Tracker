@@ -509,6 +509,23 @@
                 ]
             },
             {
+                "name": "Pot of Gold",
+                "sections":[
+                    {
+                        "name": "Find the Pot of Gold!",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Stardew Valley",
+                        "x": 235,
+                        "y": 460
+                    }
+                ]
+            },
+
+            {
                 "name": "Museumsanity",
                 "sections":[
                     {

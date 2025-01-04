@@ -230,6 +230,7 @@ LOCATION_MAPPING = {
     [717542] = {"@Quests/Granny's Gift/Deliver it!"},
     [717543] = {"@Quests/Exotic Spirits/Deliver it!"},
     [717544] = {"@Quests/Catch a Lingcod/Deliver it!"},
+    [717708] = {"@World/Pot of Gold/Find the Pot of Gold!"},
     [717801] = {"@Quests/Gathering 1/Gathering 1"},
     [717802] = {"@Quests/Gathering 2/Gathering 2"},
     [717803] = {"@Quests/Gathering 3/Gathering 3"},
