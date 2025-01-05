@@ -9,6 +9,7 @@ Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/CommunityCenter.json")
 Tracker:AddLocations("locations/World.json")
 Tracker:AddLocations("locations/Quests.json")
+Tracker:AddLocations("locations/Shipsanity.json")
 --Tracker:AddLocations("locations/Friendsanity.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")

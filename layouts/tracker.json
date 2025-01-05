@@ -70,6 +70,13 @@
                                 "type": "map",
                                 "maps":["Help Wanted!"]
                             }
+                        },
+			{
+                            "title": "Crops and Foraged Items",
+                            "content":{
+                                "type": "map",
+                                "maps":["Crops and Foraged Items"]
+                            }
                         }
                     ]
                 }
