@@ -13,7 +13,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
+                        "x": 807,
                         "y": 120
                       }
                     ]
@@ -24,7 +24,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
+                        "x": 863,
                         "y": 120
                       }
                     ]
@@ -40,8 +40,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 180
+                        "x": 1147,
+                        "y": 600
                       }
                     ]
 				},
@@ -51,8 +51,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 180
+                        "x": 1203,
+                        "y": 600
                       }
                     ]
 				}
@@ -67,7 +67,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
+                        "x": 977,
                         "y": 240
                       }
                     ]
@@ -78,7 +78,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
+                        "x": 1033,
                         "y": 240
                       }
                     ]
@@ -94,8 +94,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 300
+                        "x": 297,
+                        "y": 240
                       }
                     ]
 				},
@@ -105,8 +105,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 300
+                        "x": 353,
+                        "y": 240
                       }
                     ]
 				}
@@ -121,8 +121,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 360
+                        "x": 807,
+                        "y": 180
                       }
                     ]
 				},
@@ -132,8 +132,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 360
+                        "x": 863,
+                        "y": 180
                       }
                     ]
 				}
@@ -148,8 +148,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 420
+                        "x": 1487,
+                        "y": 300
                       }
                     ]
 				},
@@ -159,8 +159,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 420
+                        "x": 1543,
+                        "y": 300
                       }
                     ]
 				}
@@ -175,8 +175,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 480
+                        "x": 807,
+                        "y": 240
                       }
                     ]
 				},
@@ -186,8 +186,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 480
+                        "x": 863,
+                        "y": 240
                       }
                     ]
 				}
@@ -197,24 +197,13 @@
                 "name": "Blackberry",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 540
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 540
+                        "x": 1033,
+                        "y": 420
                       }
                     ]
 				}
@@ -229,8 +218,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 600
+                        "x": 127,
+                        "y": 360
                       }
                     ]
 				},
@@ -240,8 +229,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 600
+                        "x": 183,
+                        "y": 360
                       }
                     ]
 				}
@@ -256,8 +245,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 125,
-                        "y": 660
+                        "x": 467,
+                        "y": 240
                       }
                     ]
 				},
@@ -267,8 +256,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 180,
-                        "y": 660
+                        "x": 523,
+                        "y": 240
                       }
                     ]
 				}
@@ -283,8 +272,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 120
+                        "x": 807,
+                        "y": 300
                       }
                     ]
 				},
@@ -294,8 +283,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 120
+                        "x": 863,
+                        "y": 300
                       }
                     ]
 				}
@@ -310,8 +299,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 180
+                        "x": 977,
+                        "y": 360
                       }
                     ]
 				},
@@ -321,8 +310,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 180
+                        "x": 1033,
+                        "y": 360
                       }
                     ]
 				}
@@ -337,8 +326,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 240
+                        "x": 1147,
+                        "y": 660
                       }
                     ]
 				},
@@ -348,8 +337,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 240
+                        "x": 1203,
+                        "y": 660
                       }
                     ]
 				}
@@ -364,8 +353,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 300
+                        "x": 297,
+                        "y": 360
                       }
                     ]
 				},
@@ -375,8 +364,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 300
+                        "x": 353,
+                        "y": 360
                       }
                     ]
 				}
@@ -391,8 +380,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 360
+                        "x": 127,
+                        "y": 180
                       }
                     ]
 				},
@@ -402,8 +391,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 360
+                        "x": 183,
+                        "y": 180
                       }
                     ]
 				}
@@ -413,24 +402,13 @@
                 "name": "Cave Carrot",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 420
+                        "x": 1373,
+                        "y": 120
                       }
                     ]
 				}
@@ -440,23 +418,12 @@
                 "name": "Chanterelle",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 480
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
+                        "x": 1033,
                         "y": 480
                       }
                     ]
@@ -472,8 +439,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 540
+                        "x": 297,
+                        "y": 300
                       }
                     ]
 				},
@@ -483,8 +450,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 540
+                        "x": 353,
+                        "y": 300
                       }
                     ]
 				}
@@ -494,24 +461,13 @@
                 "name": "Coconut",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 600
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 600
+                        "x": 1373,
+                        "y": 180
                       }
                     ]
 				}
@@ -526,8 +482,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 295,
-                        "y": 660
+                        "x": 127,
+                        "y": 240
                       }
                     ]
 				},
@@ -537,8 +493,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 350,
-                        "y": 660
+                        "x": 183,
+                        "y": 240
                       }
                     ]
 				}
@@ -548,24 +504,13 @@
                 "name": "Common Mushroom",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 120
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 120
+                        "x": 1033,
+                        "y": 540
                       }
                     ]
 				}
@@ -575,24 +520,13 @@
                 "name": "Coral",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 180
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 180
+                        "x": 1373,
+                        "y": 300
                       }
                     ]
 				}
@@ -607,8 +541,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 240
+                        "x": 467,
+                        "y": 300
                       }
                     ]
 				},
@@ -618,8 +552,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 240
+                        "x": 523,
+                        "y": 300
                       }
                     ]
 				}
@@ -634,8 +568,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 300
+                        "x": 807,
+                        "y": 360
                       }
                     ]
 				},
@@ -645,8 +579,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 300
+                        "x": 863,
+                        "y": 360
                       }
                     ]
 				}
@@ -656,24 +590,13 @@
                 "name": "Crocus",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 360
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 360
+                        "x": 1203,
+                        "y": 300
                       }
                     ]
 				}
@@ -683,24 +606,13 @@
                 "name": "Crystal Fruit",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 420
+                        "x": 1203,
+                        "y": 360
                       }
                     ]
 				}
@@ -710,24 +622,13 @@
                 "name": "Daffodil",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 480
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 480
+                        "x": 353,
+                        "y": 420
                       }
                     ]
 				}
@@ -737,24 +638,13 @@
                 "name": "Dandelion",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 540
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 540
+                        "x": 353,
+                        "y": 480
                       }
                     ]
 				}
@@ -769,8 +659,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 600
+                        "x": 807,
+                        "y": 420
                       }
                     ]
 				},
@@ -780,8 +670,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 600
+                        "x": 863,
+                        "y": 420
                       }
                     ]
 				}
@@ -796,8 +686,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 475,
-                        "y": 660
+                        "x": 807,
+                        "y": 480
                       }
                     ]
 				},
@@ -807,8 +697,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 530,
-                        "y": 660
+                        "x": 863,
+                        "y": 480
                       }
                     ]
 				}
@@ -818,24 +708,13 @@
                 "name": "Fiddlehead Fern",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 120
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 120
+                        "x": 693,
+                        "y": 540
                       }
                     ]
 				}
@@ -850,8 +729,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 180
+                        "x": 127,
+                        "y": 300
                       }
                     ]
 				},
@@ -861,8 +740,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 180
+                        "x": 183,
+                        "y": 300
                       }
                     ]
 				}
@@ -872,24 +751,13 @@
                 "name": "Ginger",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 240
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 240
+                        "x": 1543,
+                        "y": 420
                       }
                     ]
 				}
@@ -904,8 +772,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 300
+                        "x": 807,
+                        "y": 540
                       }
                     ]
 				},
@@ -915,8 +783,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 300
+                        "x": 863,
+                        "y": 540
                       }
                     ]
 				}
@@ -931,8 +799,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 360
+                        "x": 127,
+                        "y": 120
                       }
                     ]
 				},
@@ -942,8 +810,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 360
+                        "x": 183,
+                        "y": 120
                       }
                     ]
 				}
@@ -953,24 +821,13 @@
                 "name": "Hazelnut",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 420
+                        "x": 1033,
+                        "y": 600
                       }
                     ]
 				}
@@ -980,24 +837,13 @@
                 "name": "Holly",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 480
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 480
+                        "x": 1203,
+                        "y": 420
                       }
                     ]
 				}
@@ -1012,8 +858,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 540
+                        "x": 467,
+                        "y": 360
                       }
                     ]
 				},
@@ -1023,8 +869,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 540
+                        "x": 523,
+                        "y": 360
                       }
                     ]
 				}
@@ -1039,8 +885,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 600
+                        "x": 467,
+                        "y": 480
                       }
                     ]
 				},
@@ -1050,8 +896,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 600
+                        "x": 523,
+                        "y": 480
                       }
                     ]
 				}
@@ -1066,8 +912,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 645,
-                        "y": 660
+                        "x": 127,
+                        "y": 420
                       }
                     ]
 				},
@@ -1077,8 +923,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 700,
-                        "y": 660
+                        "x": 183,
+                        "y": 420
                       }
                     ]
 				}
@@ -1088,24 +934,13 @@
                 "name": "Leek",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 120
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 120
+                        "x": 353,
+                        "y": 540
                       }
                     ]
 				}
@@ -1115,24 +950,13 @@
                 "name": "Magma Cap",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 180
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 180
+                        "x": 1543,
+                        "y": 480
                       }
                     ]
 				}
@@ -1147,8 +971,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 240
+                        "x": 1487,
+                        "y": 360
                       }
                     ]
 				},
@@ -1158,8 +982,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 240
+                        "x": 1543,
+                        "y": 360
                       }
                     ]
 				}
@@ -1174,8 +998,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 300
+                        "x": 467,
+                        "y": 420
                       }
                     ]
 				},
@@ -1185,8 +1009,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 300
+                        "x": 523,
+                        "y": 420
                       }
                     ]
 				}
@@ -1196,24 +1020,13 @@
                 "name": "Morel",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 360
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 360
+                        "x": 353,
+                        "y": 600
                       }
                     ]
 				}
@@ -1223,24 +1036,13 @@
                 "name": "Nautilus Shell",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 420
+                        "x": 1373,
+                        "y": 360
                       }
                     ]
 				}
@@ -1255,8 +1057,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 480
+                        "x": 637,
+                        "y": 360
                       }
                     ]
 				},
@@ -1266,8 +1068,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 480
+                        "x": 693,
+                        "y": 360
                       }
                     ]
 				}
@@ -1282,8 +1084,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 540
+                        "x": 127,
+                        "y": 480
                       }
                     ]
 				},
@@ -1293,8 +1095,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 540
+                        "x": 183,
+                        "y": 480
                       }
                     ]
 				}
@@ -1309,8 +1111,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 600
+                        "x": 637,
+                        "y": 420
                       }
                     ]
 				},
@@ -1320,8 +1122,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 600
+                        "x": 693,
+                        "y": 420
                       }
                     ]
 				}
@@ -1336,8 +1138,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 815,
-                        "y": 660
+                        "x": 1487,
+                        "y": 120
                       }
                     ]
 				  },
@@ -1347,8 +1149,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 870,
-                        "y": 660
+                        "x": 1543,
+                        "y": 120
                       }
                     ]
 				  }
@@ -1363,8 +1165,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 120
+                        "x": 977,
+                        "y": 300
                       }
                     ]
 				},
@@ -1374,8 +1176,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 120
+                        "x": 1033,
+                        "y": 300
                       }
                     ]
 				}
@@ -1390,8 +1192,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 180
+                        "x": 467,
+                        "y": 540
                       }
                     ]
 				},
@@ -1401,8 +1203,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 180
+                        "x": 523,
+                        "y": 540
                       }
                     ]
 				}
@@ -1417,8 +1219,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 240
+                        "x": 127,
+                        "y": 540
                       }
                     ]
 				},
@@ -1428,8 +1230,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 240
+                        "x": 183,
+                        "y": 540
                       }
                     ]
 				}
@@ -1444,8 +1246,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 300
+                        "x": 1147,
+                        "y": 240
                       }
                     ]
 				},
@@ -1455,8 +1257,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 300
+                        "x": 1203,
+                        "y": 240
                       }
                     ]
 				}
@@ -1471,8 +1273,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 360
+                        "x": 807,
+                        "y": 600
                       }
                     ]
 				},
@@ -1482,8 +1284,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 360
+                        "x": 863,
+                        "y": 600
                       }
                     ]
 				}
@@ -1493,24 +1295,13 @@
                 "name": "Purple Mushroom",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 420
+                        "x": 1033,
+                        "y": 660
                       }
                     ]
 				}
@@ -1525,8 +1316,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 480
+                        "x": 1487,
+                        "y": 180
                       }
                     ]
 				},
@@ -1536,8 +1327,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 480
+                        "x": 1543,
+                        "y": 180
                       }
                     ]
 				}
@@ -1552,8 +1343,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 540
+                        "x": 467,
+                        "y": 600
                       }
                     ]
 				},
@@ -1563,8 +1354,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 540
+                        "x": 523,
+                        "y": 600
                       }
                     ]
 				}
@@ -1574,24 +1365,13 @@
                 "name": "Rainbow Shell",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 985,
-                        "y": 600
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
-                        "y": 600
+                        "x": 1373,
+                        "y": 420
                       }
                     ]
 				}
@@ -1606,7 +1386,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 985,
+                        "x": 467,
                         "y": 660
                       }
                     ]
@@ -1617,7 +1397,7 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1040,
+                        "x": 523,
                         "y": 660
                       }
                     ]
@@ -1628,23 +1408,12 @@
                 "name": "Red Mushroom",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 120
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
+                        "x": 1203,
                         "y": 120
                       }
                     ]
@@ -1660,8 +1429,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 180
+                        "x": 127,
+                        "y": 600
                       }
                     ]
 				},
@@ -1671,8 +1440,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 180
+                        "x": 183,
+                        "y": 600
                       }
                     ]
 				}
@@ -1682,24 +1451,13 @@
                 "name": "Salmonberry",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 240
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 240
+                        "x": 353,
+                        "y": 660
                       }
                     ]
 				}
@@ -1709,24 +1467,13 @@
                 "name": "Sea Urchin",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 300
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 300
+                        "x": 1373,
+                        "y": 480
                       }
                     ]
 				}
@@ -1736,24 +1483,13 @@
                 "name": "Snow Yam",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 360
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 360
+                        "x": 1203,
+                        "y": 480
                       }
                     ]
 				}
@@ -1763,24 +1499,13 @@
                 "name": "Spice Berry",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 420
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 420
+                        "x": 693,
+                        "y": 600
                       }
                     ]
 				}
@@ -1790,24 +1515,13 @@
                 "name": "Spring Onion",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 480
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 480
+                        "x": 523,
+                        "y": 120
                       }
                     ]
 				}
@@ -1822,8 +1536,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 540
+                        "x": 637,
+                        "y": 180
                       }
                     ]
 				},
@@ -1833,8 +1547,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 540
+                        "x": 693,
+                        "y": 180
                       }
                     ]
 				}
@@ -1849,8 +1563,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 600
+                        "x": 297,
+                        "y": 120
                       }
                     ]
 				},
@@ -1860,8 +1574,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 600
+                        "x": 353,
+                        "y": 120
                       }
                     ]
 				}
@@ -1876,8 +1590,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1155,
-                        "y": 660
+                        "x": 637,
+                        "y": 120
                       }
                     ]
 				},
@@ -1887,8 +1601,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1210,
-                        "y": 660
+                        "x": 693,
+                        "y": 120
                       }
                     ]
 				}
@@ -1903,8 +1617,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 120
+                        "x": 637,
+                        "y": 480
                       }
                     ]
 				},
@@ -1914,8 +1628,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 120
+                        "x": 693,
+                        "y": 480
                       }
                     ]
 				}
@@ -1930,8 +1644,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 180
+                        "x": 977,
+                        "y": 120
                       }
                     ]
 				},
@@ -1941,8 +1655,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 180
+                        "x": 1033,
+                        "y": 120
                       }
                     ]
 				}
@@ -1957,8 +1671,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 240
+                        "x": 807,
+                        "y": 660
                       }
                     ]
 				},
@@ -1968,8 +1682,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 240
+                        "x": 863,
+                        "y": 660
                       }
                     ]
 				}
@@ -1979,24 +1693,13 @@
                 "name": "Sweet Pea",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 300
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 300
+                        "x": 693,
+                        "y": 660
                       }
                     ]
 				}
@@ -2011,8 +1714,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 360
+                        "x": 1487,
+                        "y": 240
                       }
                     ]
 				},
@@ -2022,8 +1725,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 360
+                        "x": 1543,
+                        "y": 240
                       }
                     ]
 				}
@@ -2038,8 +1741,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 420
+                        "x": 1317,
+                        "y": 240
                       }
                     ]
 				},
@@ -2049,8 +1752,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 420
+                        "x": 1373,
+                        "y": 240
                       }
                     ]
 				}
@@ -2065,8 +1768,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 480
+                        "x": 637,
+                        "y": 240
                       }
                     ]
 				},
@@ -2076,8 +1779,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 480
+                        "x": 693,
+                        "y": 240
                       }
                     ]
 				}
@@ -2092,8 +1795,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 540
+                        "x": 297,
+                        "y": 180
                       }
                     ]
 				},
@@ -2103,8 +1806,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 540
+                        "x": 353,
+                        "y": 180
                       }
                     ]
 				}
@@ -2119,8 +1822,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 600
+                        "x": 127,
+                        "y": 660
                       }
                     ]
 				},
@@ -2130,8 +1833,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 600
+                        "x": 183,
+                        "y": 660
                       }
                     ]
 				}
@@ -2146,8 +1849,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1325,
-                        "y": 660
+                        "x": 637,
+                        "y": 300
                       }
                     ]
 				},
@@ -2157,8 +1860,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1380,
-                        "y": 660
+                        "x": 693,
+                        "y": 300
                       }
                     ]
 				}
@@ -2168,24 +1871,13 @@
                 "name": "Wild Horseradish",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1495,
-                        "y": 120
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1550,
-                        "y": 120
+                        "x": 523,
+                        "y": 180
                       }
                     ]
 				}
@@ -2195,23 +1887,12 @@
                 "name": "Wild Plum",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1495,
-                        "y": 180
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1550,
+                        "x": 1203,
                         "y": 180
                       }
                     ]
@@ -2222,24 +1903,13 @@
                 "name": "Winter Root",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1495,
-                        "y": 240
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1550,
-                        "y": 240
+                        "x": 1203,
+                        "y": 540
                       }
                     ]
 				}
@@ -2254,8 +1924,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1495,
-                        "y": 300
+                        "x": 977,
+                        "y": 180
                       }
                     ]
 				},
@@ -2265,8 +1935,8 @@
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
-                        "x": 1550,
-                        "y": 300
+                        "x": 1033,
+                        "y": 180
                       }
                     ]
 				}
