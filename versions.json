@@ -1,0 +1,15 @@
+{
+    "versions": [
+        {
+            "package_version": "1.2.3",
+            "download_url": "",
+            "sha256": "",
+            "changelog": [
+                "Added switch for Shipsanity Crops at the Pack Settings"
+		"Checks that are Shipsanity won't be listed, if Shipsanity Crops is switched to Off"
+		"Checks on Ginger Island now won't be listed, if Ginger Island is switched to Off"
+		"(Hopefully) Added Auto-Update functionality"
+            ]
+        }
+    ]
+}
