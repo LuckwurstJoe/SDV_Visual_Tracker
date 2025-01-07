@@ -28,6 +28,17 @@
                 "item": "quests"
               }
             ]
+          },
+		  {
+            "type": "group",
+            "header": "Shipsanity Crops",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "shipsanity"
+              }
+            ]
           }
         ]
       }
