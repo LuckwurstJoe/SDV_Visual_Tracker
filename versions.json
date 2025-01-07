@@ -2,8 +2,8 @@
     "versions": [
         {
             "package_version": "1.2.3",
-            "download_url": "",
-            "sha256": "",
+            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.2.3/SDV_Visual_Tracker.zip",
+            "sha256": "2f8b8b980b8ac30939ba4bdfd4ed18ff06c9bfdb97eb2788d5bb0a6348e86e53",
             "changelog": [
                 "Added switch for Shipsanity Crops at the Pack Settings"
 		"Checks that are Shipsanity won't be listed, if Shipsanity Crops is switched to Off"
