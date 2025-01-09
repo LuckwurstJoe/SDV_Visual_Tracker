@@ -1,14 +1,11 @@
 {
     "versions": [
         {
-            "package_version": "1.2.4",
+            "package_version": "1.2.5",
             "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.2.4/SDV_Visual_Tracker.zip",
-            "sha256": "cab4e693354d93871336e0a3926f73dc265d733e9cc6e4dab9e89530a792eb68",
+            "sha256": "cdd1fa912ac4c70bf5516c5846e71ffbd7ddec870d69bd4cce1cc17ff07182c0",
             "changelog": [
-                "Added switch for Shipsanity Crops at the Pack Settings"
-		"Checks that are Shipsanity won't be listed, if Shipsanity Crops is switched to Off"
-		"Checks on Ginger Island now won't be listed, if Ginger Island is switched to Off"
-		"(Hopefully) Added Auto-Update functionality"
+                "Rearranged tabs for future updates"
             ]
         }
     ]
