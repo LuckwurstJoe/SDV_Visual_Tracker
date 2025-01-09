@@ -66,27 +66,120 @@
                                 "maps": ["Community Center"]
                               }
                         },
-                        {
-                            "title": "Mail Quests",
-                            "content":{
-                                "type": "map",
-                                "maps":["Quests"]
-                            }
-                        },
-                        {
-                            "title": "Help Wanted!",
-                            "content":{
-                                "type": "map",
-                                "maps":["Help Wanted!"]
-                            }
-                        },
-			{
-                            "title": "Crops and Foraged Items",
-                            "content":{
-                                "type": "map",
-                                "maps":["Crops and Foraged Items"]
-                            }
-                        }
+						{
+							"title": "Quests and Activities",
+							"content":{
+                                "type": "tabbed",
+								"tabs": [
+									{
+										"title": "Help Wanted!",
+										"content":{
+											"type": "map",
+											"maps":["Help Wanted!"]
+										}
+									},
+									{
+										"title": "Mail Quests",
+										"content":{
+											"type": "map",
+											"maps":["Quests"]
+										},
+									},
+									{
+										"title": "(Qi-) Board Quests",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Festivals",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Arcade Machines",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+								]
+							}
+						},
+						{
+							"title": "Sanities",
+							"content":{
+                                "type": "tabbed",
+								"tabs": [
+									{
+									"title": "Crops and Foraged Items",
+									"content":{
+										"type": "map",
+										"maps":["Crops and Foraged Items"]
+									}
+								},
+									{
+										"title": "Fishes",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Museum",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Monster",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Crafting",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Cooking",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Chefsanity",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Friendsanity",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+									{
+										"title": "Booksanity",
+										"content":{
+											"type": "map",
+											"maps":["leer"]
+										},
+									},
+								]
+							}
+						},
                     ]
                 }
             ]

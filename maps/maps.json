@@ -21,13 +21,19 @@
       "name": "Help Wanted!",
       "location_size": 10,
       "location_border_thickness": 3,
-      "img": "images/HelpWantedUpdate.jpg"
+      "img": "images/HelpWanted.png"
     },
     {
       "name": "Crops and Foraged Items",
       "location_size": 10,
       "location_border_thickness": 3,
       "img": "images/Croplist.png"
-    }
+    },
+	    {
+      "name": "leer",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/blank.png"
+    },
 
   ]
