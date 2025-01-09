@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "package_version": "1.2.7",
-            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.2.7/SDV_Visual_Tracker.zip",
-            "sha256": "68540aea9e0e37f71d9dad4306d86854f5843c43a8b528c3cbbc099e2e9f6c85",
+            "package_version": "1.2.8",
+            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.2.8/SDV_Visual_Tracker.zip",
+            "sha256": "dd03fbbdad1294d5018bf46da5ec363eda0541beaa0351fb29b725e0bee1a3aa",
             "changelog": [
                 "Rearranged tabs for future updates"
             ]
