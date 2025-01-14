@@ -29,7 +29,13 @@
       "location_border_thickness": 3,
       "img": "images/Croplist.png"
     },
-	    {
+    {
+      "name": "Fishes",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Fishsanity.png"
+    },
+    {
       "name": "leer",
       "location_size": 10,
       "location_border_thickness": 3,
