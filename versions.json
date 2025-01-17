@@ -1,11 +1,12 @@
 {
     "versions": [
         {
-            "package_version": "1.2.8",
-            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.2.8/SDV_Visual_Tracker.zip",
-            "sha256": "dd03fbbdad1294d5018bf46da5ec363eda0541beaa0351fb29b725e0bee1a3aa",
+            "package_version": "1.3.0",
+            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.3.0/SDV_Visual_Tracker.zip",
+            "sha256": "58506216374e00e16d0a4afd3fec9cdfbe1c9f0ba367c9dee04be25d23930b92",
             "changelog": [
-                "Rearranged tabs for future updates"
+                "Added Fishsanity-Tab"
+                "Added Special Orders-Tab"
             ]
         }
     ]
