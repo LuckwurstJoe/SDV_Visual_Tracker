@@ -1,0 +1,457 @@
+[
+    {
+        "name": "Boards",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "A Curious Substance",
+                "sections":[
+                    {
+                        "name": "Deliver Ectoplasm to the wizard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 199
+                    }
+                ]
+            },
+			{
+                "name": "Aquatic Overpopulation",
+                "sections":[
+                    {
+                        "name": "Catch required fishes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 253
+                    }
+                ]
+            },
+			{
+                "name": "Biome Balance",
+                "sections":[
+                    {
+                        "name": "Catch required fishes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 307
+                    }
+                ]
+            },
+			{
+                "name": "Cave Patrol",
+                "sections":[
+                    {
+                        "name": "Slay required monsters",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 361
+                    }
+                ]
+            },
+			{
+                "name": "Community Cleanup",
+                "sections":[
+                    {
+                        "name": "Trash items at the train plattform",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 415
+                    }
+                ]
+            },
+			{
+                "name": "Crop Order",
+                "sections":[
+                    {
+                        "name": "Harvest required crops",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 469
+                    }
+                ]
+            },
+			{
+                "name": "Fragments of the past",
+                "sections":[
+                    {
+                        "name": "Collect pieces of bone",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 523
+                    }
+                ]
+            },
+			{
+                "name": "Gifts for George",
+                "sections":[
+                    {
+                        "name": "Collect and place leek onto Evelyn's stove",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 577
+                    }
+                ]
+            },
+			{
+                "name": "Gus' Famous Omelet",
+                "sections":[
+                    {
+                        "name": "Collect and place eggs into the Stardrop Saloon fridge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 631
+                    }
+                ]
+            },
+			{
+                "name": "Juicy Bugs Wanted!",
+                "sections":[
+                    {
+                        "name": "Collect and dump Bug Meat into the bin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 124,
+                        "y": 685
+                    }
+                ]
+            },
+			{
+                "name": "Pierre's Prime Produce",
+                "sections":[
+                    {
+                        "name": "Harvest and dump gold-quality vegetables",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 199
+                    }
+                ]
+            },
+			{
+                "name": "Prismatic Jelly",
+                "sections":[
+                    {
+                        "name": "Deliver Prismatic Jelly to the wizard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 253
+                    }
+                ]
+            },
+			{
+                "name": "Rock Rejuvenation",
+                "sections":[
+                    {
+                        "name": "Deliver the gems to Emily",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 307
+                    }
+                ]
+            },
+			{
+                "name": "Robin's Project",
+                "sections":[
+                    {
+                        "name": "Collect hardwoord",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 361
+                    }
+                ]
+            },
+			{
+                "name": "Robin's Resource Rush",
+                "sections":[
+                    {
+                        "name": "Collect stone or wood",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 415
+                    }
+                ]
+            },
+			{
+                "name": "The Strong Stuff",
+                "sections":[
+                    {
+                        "name": "Collect and place Potato Juice in Pam's kitchen",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 469
+                    }
+                ]
+            },
+			{
+                "name": "Island Ingredients",
+                "sections":[
+                    {
+                        "name": "Deliver required crops",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 577
+                    }
+                ]
+            },
+			{
+                "name": "Tropical Fish",
+                "sections":[
+                    {
+                        "name": "Catch Ginger Island fishes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 531,
+                        "y": 633
+                    }
+                ]
+            },
+			{
+                "name": "Danger In The Deep",
+                "sections":[
+                    {
+                        "name": "Reach the bottom of the Mines in the Mountain",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 199
+                    }
+                ]
+            },
+			{
+                "name": "Extended Family",
+                "sections":[
+                    {
+                        "name": "Catch the Qi-Legendaries",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 253
+                    }
+                ]
+            },
+			{
+                "name": "Four Precious Stones",
+                "sections":[
+                    {
+                        "name": "Collect and deliver Prismatic Shards",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 307
+                    }
+                ]
+            },
+			{
+                "name": "Let's Play A Game",
+                "sections":[
+                    {
+                        "name": "Score points in Junimo Kart endless mode",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 361
+                    }
+                ]
+            },
+			{
+                "name": "Qi's Crop",
+                "sections":[
+                    {
+                        "name": "Ship Qi Fruit",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 415
+                    }
+                ]
+            },
+			{
+                "name": "Qi's Cuisine",
+                "sections":[
+                    {
+                        "name": "Ship freshly cooked items",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 469
+                    }
+                ]
+            },
+			{
+                "name": "Qi's Hungry Challenge",
+                "sections":[
+                    {
+                        "name": "Explore the Skull Cave without consuming any food or drink items",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 523
+                    }
+                ]
+            },
+			{
+                "name": "Qi's Kindness",
+                "sections":[
+                    {
+                        "name": "Give loved gifts to the villagers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 577
+                    }
+                ]
+            },
+			{
+                "name": "Qi's Prismatic Grange",
+                "sections":[
+                    {
+                        "name": "Place colored items into Qi's collection box",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 631
+                    }
+                ]
+            },
+			{
+                "name": "Skull Cavern Invasion",
+                "sections":[
+                    {
+                        "name": "Explore the Skull Cavern",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Boards",
+                        "x": 1099,
+                        "y": 685
+                    }
+                ]
+            },
+        ]
+    }
+]

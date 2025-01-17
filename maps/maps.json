@@ -36,6 +36,12 @@
       "img": "images/Fishsanity.png"
     },
     {
+      "name": "Boards",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Boards.png"
+    },
+    {
       "name": "leer",
       "location_size": 10,
       "location_border_thickness": 3,

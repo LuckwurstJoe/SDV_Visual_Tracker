@@ -1,5 +1,4 @@
 Tracker:AddItems("items/items.json")
-Tracker:AddItems("items/friendsanity.json")
 Tracker:AddItems("items/Seeds.json")
 Tracker:AddItems("items/settings.json")
 
@@ -11,7 +10,7 @@ Tracker:AddLocations("locations/World.json")
 Tracker:AddLocations("locations/Quests.json")
 Tracker:AddLocations("locations/Shipsanity.json")
 Tracker:AddLocations("locations/Fishsanity.json")
---Tracker:AddLocations("locations/Friendsanity.json")
+Tracker:AddLocations("locations/Boards.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

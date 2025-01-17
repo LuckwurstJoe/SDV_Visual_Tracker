@@ -89,7 +89,7 @@
 										"title": "(Qi-) Board Quests",
 										"content":{
 											"type": "map",
-											"maps":["leer"]
+											"maps":["Boards"]
 										},
 									},
 									{
@@ -158,13 +158,6 @@
 									},
 									{
 										"title": "Chefsanity",
-										"content":{
-											"type": "map",
-											"maps":["leer"]
-										},
-									},
-									{
-										"title": "Friendsanity",
 										"content":{
 											"type": "map",
 											"maps":["leer"]
