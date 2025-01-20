@@ -42,6 +42,18 @@
       "img": "images/Boards.png"
     },
     {
+      "name": "Museum_Donations",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Museum_Donations.png"
+    },
+	    {
+      "name": "Museum_Milestones",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Museum_Milestones.png"
+    },
+    {
       "name": "leer",
       "location_size": 10,
       "location_border_thickness": 3,

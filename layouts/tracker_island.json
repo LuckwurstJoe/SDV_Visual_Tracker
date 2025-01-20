@@ -86,7 +86,7 @@
 										},
 									},
 									{
-										"title": "(Qi-) Board Quests",
+										"title": "Special Orders",
 										"content":{
 											"type": "map",
 											"maps":["Boards"]
@@ -129,11 +129,26 @@
 										},
 									},
 									{
-										"title": "Museum",
-										"content":{
-											"type": "map",
-											"maps":["leer"]
-										},
+									"title": "Museum",
+									"content":{
+                                				"type": "tabbed",
+										"tabs": [
+											{
+												"title": "Artifacts & Minerals",
+												"content":{
+													"type": "map",
+													"maps":["Museum_Donations"]
+												}
+											},
+											{
+												"title": "Milestones",
+												"content":{
+													"type": "map",
+													"maps":["Museum_Milestones"]
+												},
+											},
+											]
+										}
 									},
 									{
 										"title": "Monster",

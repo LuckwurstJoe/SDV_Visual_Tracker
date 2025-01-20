@@ -31,7 +31,7 @@
           },
 		  {
             "type": "group",
-            "header": "Shipsanity Crops",
+            "header": "Shipsanity",
             "header_background": "#3e4b57",
             "content": [
               {
@@ -39,7 +39,18 @@
                 "item": "shipsanity"
               }
             ]
-          }
+          },
+ 	  {
+            "type": "group",
+            "header": "Museumsanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "museumsanity"
+              }
+            ]
+          },
         ]
       }
     ]

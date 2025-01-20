@@ -28,7 +28,47 @@
         "codes": "settings,quests"
      },
 	{
-        "name": "Shipsanity Crops",
+        "name": "Shipsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/None.png",
+                "inherit_codes": false,
+                "codes": "shipsanity"
+            },
+            {
+                "img": "images/settings/Crops.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_crops"
+            },
+	    {
+                "img": "images/settings/Fish.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_fish"
+            },
+	    {
+                "img": "images/settings/Full.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_full"
+            },
+	    {
+                "img": "images/settings/FullwF.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_fullwf"
+            },
+	    {
+                "img": "images/settings/Everything.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_all"
+            },
+        ]
+     },
+{
+        "name": "Museumsanity",
         "type": "progressive",
         "loop": true,
         "capturable": false,
@@ -38,14 +78,20 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "shipsanity, shipsanity_crops_off"
+                "codes": "museumsanity"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Donations.png",
                 "inherit_codes": false,
-                "codes": "shipsanity, shipsanity_crops_on"
-            }
+                "codes": "museumsanity, museum_donation"
+            },
+            {
+                "img": "images/settings/Milestones.png",
+                "inherit_codes": false,
+                "codes": "museumsanity, museum_milestone"
+            },
         ]
      },
 
+     
 ]

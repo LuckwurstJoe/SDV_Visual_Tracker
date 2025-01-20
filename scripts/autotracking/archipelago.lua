@@ -8,7 +8,6 @@ ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
-ALL_LOCATIONS = {}
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
@@ -59,18 +58,6 @@ function onClear(slot_data)
             end
         end
     end
-	if #ALL_LOCATIONS > 0 then ALL_LOCATIONS = {}
-    end
-    for _, value in pairs(Archipelago.MissingLocations) do
-        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-    end
-
-    for _, value in pairs(Archipelago.CheckedLocations) do
-        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-    end
-    --print(dump_table(ALL_LOCATIONS))
-	
-
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
     -- manually run snes interface functions after onClear in case we are already ingame
@@ -152,6 +139,9 @@ function onLocation(location_id, location_name)
     local v = LOCATION_MAPPING[location_id]
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
+    end
+	if not v then
+        return
     end
     if not v[1] then
         return

@@ -1,0 +1,2764 @@
+[
+    {
+        "name": "Museum_Donations",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Aerinite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Alamite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Amethyst",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Aquamarine",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Baryte",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Basalt",
+				"children":[
+				{
+					"name": "Donate",
+					"visibility_rules": ["museum_donation"],
+					"sections": [{"item_count": 1}],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bixite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Calcite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Celestine",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 537
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 537
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Diamond",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dolomite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Earth Crystal",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 174,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 224,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Emerald",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Esperite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fairy Stone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fire Opal",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fire Quartz",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fluorapatite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Frozen Tear",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Geminite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ghost Crystal",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 537
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 537
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Granite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Helvite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Hematite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 334,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 384,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+						{
+                "name": "Jade",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Jagoite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Jamborite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Jasper",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Kyanite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Lemon Stone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Limestone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Lunarite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Malachite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 537
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 537
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Marble",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Mudstone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Nekoite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 494,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 544,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Neptunite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Obsidian",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ocean Stone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Opal",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Orpiment",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Petrified Slime",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+										"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prismatic Shard",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pyrite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Quartz",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 537
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 537
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ruby",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sandstone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Slate",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 659,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 709,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Soapstone",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Star Shards",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Thunder Egg",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tigerseye",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Topaz",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Amphibian Fossil",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Anchor",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ancient Doll",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 539
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 539
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ancient Drum",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ancient Seed",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ancient Sword",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 819,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 869,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+						{
+                "name": "Arrowhead",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bone Flute",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chewing Stick",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chicken Statue",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chipped Amphora",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dinosaur Egg",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dried Starfish",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarf Gadget",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],	
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarf Scroll I",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 539
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 539
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarf Scroll II",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarf Scroll III",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarf Scroll IV",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 979,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1029,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarvish Helm",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Elvish Jewelry",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Glass Shards",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Golden Mask",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Golden Relic",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Nautilus Fossil",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ornamental Fan",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Palm Fossil",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Handaxe",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 539
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 539
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Rib",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Scapula",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Skull",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1139,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],		
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1189,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+						{
+                "name": "Prehistoric Tibia",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 137
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 137
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Tool",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 187
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 187
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Prehistoric Vertebra",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 237
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+										"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 237
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rare Disc",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 287
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 287
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rusty Cog",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 337
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 337
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rusty Spoon",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 387
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 387
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rusty Spur",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 437
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 437
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Skeletal Hand",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 487
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],				
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 487
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Skeletal Tail",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 539
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],					
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 539
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Strange Doll Green",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 587
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],						
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 587
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Strange Doll",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 637
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],						
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 637
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Trilobite",
+				"children":[
+				{
+					"name": "Donate",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["museum_donation"],
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1299,
+                        "y": 687
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],			
+					"visibility_rules": ["shipsanity_full","shipsanity_fullwf","shipsanity_all"],						
+					"map_locations":[
+                      {
+                        "map":"Museum_Donations",
+                        "x": 1349,
+                        "y": 687
+                      }
+                    ]
+				}
+				]
+            },
+        ]
+    }
+]
