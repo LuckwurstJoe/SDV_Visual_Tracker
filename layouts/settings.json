@@ -7,14 +7,47 @@
       {
         "type": "array",
         "content": [
-          {
+		  {
             "type": "group",
-            "header": "Ginger Island",
+            "header": "Cropsanity",
             "header_background": "#3e4b57",
             "content": [
               {
                 "type": "item",
-                "item": "island_tracking"
+                "item": "cropsanity"
+              }
+            ]
+          },
+		  		  {
+            "type": "group",
+            "header": "Fishsanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "fishsanity"
+              }
+            ]
+          },
+		  {
+            "type": "group",
+            "header": "Museumsanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "museumsanity"
+              }
+            ]
+          },
+		  		  {
+            "type": "group",
+            "header": "Shipsanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "shipsanity"
               }
             ]
           },
@@ -31,23 +64,23 @@
           },
 		  {
             "type": "group",
-            "header": "Shipsanity",
+            "header": "Special Orders",
             "header_background": "#3e4b57",
             "content": [
               {
                 "type": "item",
-                "item": "shipsanity"
+                "item": "board"
               }
             ]
           },
- 	  {
+		  {
             "type": "group",
-            "header": "Museumsanity",
+            "header": "Ginger Island",
             "header_background": "#3e4b57",
             "content": [
               {
                 "type": "item",
-                "item": "museumsanity"
+                "item": "island_tracking"
               }
             ]
           },

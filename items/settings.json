@@ -1,5 +1,5 @@
 [
-       {
+   {
         "name": "Island Tracking",
         "type": "progressive",
         "loop": true,
@@ -17,6 +17,51 @@
                 "inherit_codes": false,
                 "codes": "island_tracking, island_tracking_on"
             }
+        ]
+     },
+	 {
+        "name": " Cropsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "cropsanity"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "cropsanity, cropsanity_on"
+            }
+        ]
+     },
+	 {
+        "name": "Special Orders",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Vanilla.png",
+                "inherit_codes": false,
+                "codes": "board"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "board_on"
+            },
+			 {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "board_qi"
+            },
         ]
      },
      {
@@ -67,7 +112,7 @@
             },
         ]
      },
-{
+	 {
         "name": "Museumsanity",
         "type": "progressive",
         "loop": true,
@@ -78,7 +123,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "museumsanity"
+                "codes": "museumsanity, museum_off"
             },
             {
                 "img": "images/settings/Donations.png",
@@ -90,6 +135,26 @@
                 "inherit_codes": false,
                 "codes": "museumsanity, museum_milestone"
             },
+        ]
+     },
+	 {
+        "name": " Fishsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_on"
+            }
         ]
      },
 

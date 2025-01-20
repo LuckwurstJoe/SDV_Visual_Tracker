@@ -12,6 +12,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -28,6 +29,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -44,6 +46,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -60,6 +63,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -76,6 +80,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -92,6 +97,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -108,6 +114,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -124,6 +131,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -140,6 +148,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -156,6 +165,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -172,6 +182,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -188,6 +199,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -204,6 +216,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -220,6 +233,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -236,6 +250,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -252,6 +267,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on","board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -268,6 +284,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on,island_tracking_on","board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -284,6 +301,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_on,island_tracking_on","board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -300,6 +318,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -316,6 +335,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -332,6 +352,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -348,6 +369,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -364,6 +386,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -380,6 +403,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -396,6 +420,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -412,6 +437,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -428,6 +454,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -444,6 +471,7 @@
                         "item_count": 1
                     }
                 ],
+				"visibility_rules": ["board_qi,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",

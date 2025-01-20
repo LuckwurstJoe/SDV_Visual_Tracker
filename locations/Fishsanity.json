@@ -10,6 +10,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -38,6 +39,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -65,7 +67,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -93,7 +95,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -121,7 +123,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -149,7 +151,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -177,7 +179,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -205,7 +207,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -233,7 +235,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -261,7 +263,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -289,7 +291,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -317,7 +319,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -345,7 +347,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -373,7 +375,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -401,7 +403,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -429,7 +431,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -457,7 +459,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -485,7 +487,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -513,7 +515,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -541,7 +543,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -569,7 +571,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -597,7 +599,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -625,7 +627,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -653,7 +655,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -681,7 +683,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -709,7 +711,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -737,7 +739,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -765,7 +767,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -793,7 +795,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -821,7 +823,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -849,7 +851,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -877,7 +879,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -905,7 +907,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -933,7 +935,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -961,7 +963,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -989,7 +991,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1017,7 +1019,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1045,7 +1047,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1073,7 +1075,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1101,7 +1103,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1129,7 +1131,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1157,7 +1159,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1185,7 +1187,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1213,7 +1215,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1241,7 +1243,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1269,7 +1271,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1297,7 +1299,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1325,7 +1327,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1353,7 +1355,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1381,7 +1383,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1409,7 +1411,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1437,7 +1439,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1465,7 +1467,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1493,7 +1495,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1521,7 +1523,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1549,7 +1551,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1577,7 +1579,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1605,7 +1607,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1633,7 +1635,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1661,7 +1663,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1689,7 +1691,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1717,7 +1719,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1745,7 +1747,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1773,7 +1775,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1801,7 +1803,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1829,7 +1831,7 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
+					"sections": [{"item_count": 1}],"visibility_rules": ["fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1858,6 +1860,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,fishsanity_on"],													
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1869,7 +1872,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all"],			
+					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],		
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1886,6 +1889,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,fishsanity_on"],	
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1897,7 +1901,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all"],
+					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],	
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1914,6 +1918,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,fishsanity_on"],		
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1925,7 +1930,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all"],
+					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],	
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1942,6 +1947,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,fishsanity_on"],		
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1953,7 +1959,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1970,6 +1976,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,fishsanity_on"],
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1981,7 +1988,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
