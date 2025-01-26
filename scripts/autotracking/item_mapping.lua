@@ -116,6 +116,7 @@ ITEM_MAPPING =
     [717275] = {"taro","toggle"},
     [717282] = {"darktalisman","toggle"},
     [717288] = {"coffee","toggle"},
+    [717289] = {"progweapons","consumable"},
     [717290] = {"sword","consumable"},
     [717291] = {"club","consumable"},
     [717292] = {"dagger","consumable"},

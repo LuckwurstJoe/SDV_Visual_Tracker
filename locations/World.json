@@ -512,6 +512,7 @@
                 "name": "Pot of Gold",
                 "sections":[
                     {
+                        "access_rules":["spring"],
                         "name": "Find the Pot of Gold!",
                         "item_count": 1
                     }

@@ -754,10 +754,10 @@
 {
         "name": "Sword",
         "type": "consumable",
-        "max_quantity": 5,
+        "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/Sword.png",
-        "codes": "sword"
+        "codes": "sword,progweapons"
     },
 
 {

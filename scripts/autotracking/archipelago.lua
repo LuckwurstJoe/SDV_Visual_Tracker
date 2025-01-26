@@ -10,6 +10,29 @@ CUR_INDEX = -1
 SLOT_DATA = nil
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
+--SLOT_DATA = {}
+ALL_LOCATIONS = {}
+
+
+function dump_table(o, depth)
+    if depth == nil then
+        depth = 0
+    end
+    if type(o) == 'table' then
+        local tabs = ('\t'):rep(depth)
+        local tabs2 = ('\t'):rep(depth + 1)
+        local s = '{\n'
+        for k, v in pairs(o) do
+            if type(k) ~= 'number' then
+                k = '"' .. k .. '"'
+            end
+            s = s .. tabs2 .. '[' .. k .. '] = ' .. dump_table(v, depth + 1) .. ',\n'
+        end
+        return s .. tabs .. '}'
+    else
+        return tostring(o)
+    end
+end
 
 function onClear(slot_data)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -61,10 +84,27 @@ function onClear(slot_data)
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
     -- manually run snes interface functions after onClear in case we are already ingame
+	if #ALL_LOCATIONS > 0 then
+        ALL_LOCATIONS = {}
+    end
+    for _, value in pairs(Archipelago.MissingLocations) do
+        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+    end
+
+    for _, value in pairs(Archipelago.CheckedLocations) do
+        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+    end
+	--print(dump_table(ALL_LOCATIONS))
 
     if SLOT_DATA == nil then
         return
     end
+
+
+  for _, id in pairs(ALL_LOCATIONS) do
+      print(id .. " is there")
+  end
+
 end
 
 -- called when an item gets collected
