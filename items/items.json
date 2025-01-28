@@ -800,7 +800,7 @@
         "type":"toggle",
         "allow_disabled":true,
         "img": "images/Boat.png",
-        "codes": "boat"
+        "codes": "boat,island"
     },
     {
         "name": "Professor Snail Cave",
