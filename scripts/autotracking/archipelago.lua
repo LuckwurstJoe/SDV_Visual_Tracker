@@ -12,6 +12,7 @@ LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 --SLOT_DATA = {}
 ALL_LOCATIONS = {}
+FISH_LOCATIONS = {718001,718002,718003,718004,718005,718006,718007,718008,718009,718010,718011,718012,718013,718014,718015,718016,718017,718018,718019,718020,718021,718022,718023,718024,718025,718026,718027,718028,718029,718030,718031,718032,718033,718034,718035,718036,718037,718038,718039,718040,718041,718042,718043,718044,718045,718046,718047,718048,718049,718050,718051,718052,718053,718054,718055,718056,718057,718058,718059,718060,718061,718062,718063,718064,718065,718066,718067,718068,718069,718070,718071}
 
 
 function dump_table(o, depth)
@@ -87,23 +88,34 @@ function onClear(slot_data)
 	if #ALL_LOCATIONS > 0 then
         ALL_LOCATIONS = {}
     end
-    for _, value in pairs(Archipelago.MissingLocations) do
-        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+	
+    --for _, value in pairs(Archipelago.MissingLocations) do
+        --table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+    --end
+    --for _, value in pairs(Archipelago.CheckedLocations) do
+        --table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+    --end
+	for _, value in ipairs(Archipelago.MissingLocations) do
+        ALL_LOCATIONS[value] = true
     end
 
-    for _, value in pairs(Archipelago.CheckedLocations) do
-        table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
+    for _, value in ipairs(Archipelago.CheckedLocations) do
+        ALL_LOCATIONS[value] = true
     end
 	--print(dump_table(ALL_LOCATIONS))
-
+	--print(dump_table(FISH_LOCATIONS))
     if SLOT_DATA == nil then
         return
     end
 
+for _, fish_id in ipairs(FISH_LOCATIONS) do
+  Tracker:FindObjectForCode(tostring(fish_id)).Active = ALL_LOCATIONS[fish_id] or false
+end
 
-  for _, id in pairs(ALL_LOCATIONS) do
-      print(id .. " is there")
-  end
+
+ -- for _, id in pairs(ALL_LOCATIONS) do
+ --     print(id .. " is there")
+ -- end
 
 end
 
@@ -197,8 +209,6 @@ function onLocation(location_id, location_name)
         print(string.format("onLocation: could not find object for code %s", v[1]))
     end
 end
-
-
 -- add AP callbacks
 -- un-/comment as needed
 Archipelago:AddClearHandler("clear handler", onClear)
