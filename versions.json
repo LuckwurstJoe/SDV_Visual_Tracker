@@ -2,7 +2,7 @@
 	"versions": [
 		{
 			"package_version": "1.4.2",
-			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.1/SDV_Visual_Tracker.zip",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.2/SDV_Visual_Tracker.zip",
 			"sha256": "bc1cc29754c16087637ce1f77936796122cfbd6f71a483f62ab220f36f73fc18",
 			"changelog": [
 				"Added a lot of options to the pack settings"
