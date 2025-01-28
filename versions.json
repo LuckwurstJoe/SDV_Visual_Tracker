@@ -1,17 +1,18 @@
 {
-    "versions": [
-        {
-            "package_version": "1.4.1",
-            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.1/SDV_Visual_Tracker.zip",
-            "sha256": "41847360ae798d5de4e68d8c01bc0132684b6fbc0f1aadc5684cecae7f4ebd8c",
-            "changelog": [
-                "Added a lot of options to the pack settings",
-                "Rearranged some options",
-                "Renamed (Qi-)Board to Special Orders",
-                "New buttons on the pack settings",
-                "Added visibility rules for all filled tabs",
-                "Added Museumsanity - Donations and Milestone-Tabs as subtabs",
-            ]
-        }
-    ]
+	"versions": [
+		{
+			"package_version": "1.4.1",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.1/SDV_Visual_Tracker.zip",
+			"sha256": "41847360ae798d5de4e68d8c01bc0132684b6fbc0f1aadc5684cecae7f4ebd8c",
+			"changelog": [
+				"Added a lot of options to the pack settings",
+				"Rearranged some options",
+				"Renamed Qi-Board to Special Orders",
+				"New buttons on the pack settings",
+				"Added visibility rules for all filled tabs",
+				"Added Museumsanity - Donations and Milestone-Tabs as subtabs",
+                "Added autotracking for needed fishes in sanity-modes",
+			]
+		},
+	]
 }
