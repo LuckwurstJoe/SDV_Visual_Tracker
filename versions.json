@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "package_version": "1.4.0",
-            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.0/SDV_Visual_Tracker.zip",
-            "sha256": "",
+            "package_version": "1.4.1",
+            "download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.1/SDV_Visual_Tracker.zip",
+            "sha256": "41847360ae798d5de4e68d8c01bc0132684b6fbc0f1aadc5684cecae7f4ebd8c",
             "changelog": [
                 "Added a lot of options to the pack settings",
                 "Rearranged some options",
@@ -18,7 +18,7 @@
             "sha256": "4de5834b8e7a2bcee7a61ebbe1cb3ed556495af3255d1a66e4b4f722ab550976",
             "changelog": [
                 "Added Fishsanity-Tab",
-                "Added (Qi-)Board-Tab"
+                "Added (Qi-)Board-Tab",
             ]
         }
     ]
