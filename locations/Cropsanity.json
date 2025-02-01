@@ -1,0 +1,2097 @@
+[
+    {
+        "name": "Cropsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Amaranth",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"access_rules":["fall,amaranth","greenhouse,amaranth"],
+					"visibility_rules": ["719301","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 120
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["shipping,fall,amaranth","shipping,greenhouse,amaranth"],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ancient Fruit",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"access_rules":["greenhouse,ancient","spring,ancient","summer,ancient","fall,ancient"],
+					"visibility_rules": ["719352","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1147,
+                        "y": 600
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["greenhouse,ancient,shipping","spring,ancient,shipping","summer,ancient,shipping","fall,ancient,shipping"],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Apple",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"access_rules":["fall,apple","greenhouse,apple"],
+					"visibility_rules": ["719339","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 977,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["shipping,fall,apple","shipping,greenhouse,apple"],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Apricot",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"access_rules":["spring,apricot","greenhouse,apricot"],
+					"visibility_rules": ["719340","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 297,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["shipping,spring,apricot","shipping,greenhouse,apricot"],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Artichoke",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"access_rules":["fall,artichoke","greenhouse,artichoke"],
+					"visibility_rules": ["719302","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["shipping,fall,artichoke","shipping,greenhouse,artichoke"],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Banana",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1,}],
+					"access_rules":["island,banana","greenhouse,banana","summer,banana"],
+					"visibility_rules": ["719345","island_tracking_on,cropsanity_on"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1487,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"access_rules":["island,banana,shipping","greenhouse,banana,shipping","summer,banana,shipping"],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],						
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Beet",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719303","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },	
+			{
+                "name": "Blackberry",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },	
+			{
+                "name": "Blue Jazz",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719304","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },	
+			{
+                "name": "Blueberry",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719305","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },	
+			{
+                "name": "Bok Choy",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719306","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+{
+                "name": "Broccoli",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719348","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 977,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cactus Fruit",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719335","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1147,
+                        "y": 660
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Carrot",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719349","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 297,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cauliflower",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719307","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cave Carrot",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],						
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chanterelle",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cherry",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719341","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 297,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Coconut",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Coffee Bean",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719347","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Common Mushroom",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Coral",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Corn",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719308","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cranberries",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719309","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Crocus",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Crystal Fruit",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Daffodil",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dandelion",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Eggplant",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719310","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 420
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fairy Rose",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719311","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fiddlehead Fern",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Garlic",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719312","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ginger",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },	
+			{
+                "name": "Grape",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719313","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 540
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Green Bean",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719314","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 120
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Hazelnut",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Holly",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Hops",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719315","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Hot Pepper",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719316","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Kale",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719317","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 420
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Leek",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Magma Cap",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Mango",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719346","cropsanity_on,island_tracking_on"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1487,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 360
+                      }
+                    ]
+				},
+				]
+            },
+			{
+                "name": "Melon",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719318","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 420
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Morel",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Nautilus Shell",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+            {
+                "name": "Orange",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719342","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 360
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 360
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Parsnip",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719319","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Peach",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719344","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 420
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pineapple",
+				"children":[
+				  {
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719336","cropsanity_on,island_tracking_on"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1487,
+                        "y": 120
+                      }
+                    ]
+				  },
+				  {
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],																
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 120
+                      }
+                    ]
+				  }
+				]
+            },
+			{
+                "name": "Pomegranate",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719343","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 977,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Poppy",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719320","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 540
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],	
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Potato",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719321","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 540
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Powdermelon",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719350","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1147,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pumpkin",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719322","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 600
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Purple Mushroom",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Qi Fruit",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719353","cropsanity_on,island_tracking_on"],					
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1487,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],										
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Radish",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719323","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 600
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rainbow Shell",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 420
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Red Cabbage",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719324","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 467,
+                        "y": 660
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Red Mushroom",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rhubarb",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719325","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 600
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Salmonberry",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sea Urchin",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Snow Yam",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Spice Berry",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 600
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Spring Onion",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Starfruit",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719326","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Strawberry",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719327","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 297,
+                        "y": 120
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Summer Spangle",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719328","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 120
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Summer Squash",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719351","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sunflower",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719329","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 977,
+                        "y": 120
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 120
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sweet Gem Berry",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719338","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 807,
+                        "y": 660
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 863,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sweet Pea",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Taro Root",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719337","cropsanity_on,island_tracking_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1487,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1543,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tea Leaves",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1317,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1373,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tomato",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719330","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tulip",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719331","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 297,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 353,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Unmilled Rice",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719332","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 127,
+                        "y": 660
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 183,
+                        "y": 660
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Wheat",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719333","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 637,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 693,
+                        "y": 300
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Wild Horseradish",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 523,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },		
+			{
+                "name": "Wild Plum",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Winter Root",
+				"children":[
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1203,
+                        "y": 540
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Yam",
+				"children":[
+				{
+					"name": "Harvested",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719334","cropsanity_on"],
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 977,
+                        "y": 180
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
+					"map_locations":[
+                      {
+                        "map":"Crops and Foraged Items",
+                        "x": 1033,
+                        "y": 180
+                      }
+                    ]
+				}
+				]
+            }
+        ]
+    }
+]

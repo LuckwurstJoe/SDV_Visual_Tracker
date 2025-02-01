@@ -95,8 +95,37 @@
 									{
 										"title": "Festivals",
 										"content":{
-											"type": "map",
-											"maps":["leer"]
+											"type": "tabbed",
+											"tabs":[
+												{
+													"title": "Town Festivals",
+													"content":{
+													"type": "map",
+													"maps":["Town Festivals"]
+													},
+												},
+												{
+													"title": "Night Market",
+													"content":{
+													"type": "map",
+													"maps":["Night Market"]
+													},
+												},
+												{
+													"title": "Fishing Festivals",
+													"content":{
+													"type": "map",
+													"maps":["Fishing Festivals"]
+													},
+												},
+												{
+													"title": "Desert Festival",
+													"content":{
+													"type": "map",
+													"maps":["Desert Festival"]
+													},
+												},
+											]
 										},
 									},
 									{

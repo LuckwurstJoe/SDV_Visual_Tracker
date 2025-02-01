@@ -59,5 +59,29 @@
       "location_border_thickness": 3,
       "img": "images/blank.png"
     },
+	{
+      "name": "Town Festivals",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/blank.png"
+    },
+	{
+      "name": "Night Market",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/blank.png"
+    },
+	{
+      "name": "Desert Festival",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Desert_Festival.png"
+    },
+	{
+      "name": "Fishing Festivals",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/blank.png"
+    },
 
   ]

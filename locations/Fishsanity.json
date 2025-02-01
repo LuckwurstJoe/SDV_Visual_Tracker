@@ -537,7 +537,7 @@
 				{
 					"name": "Caught",
 					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert"],
+					"access_rules": ["Bamboorod,desert,fishing:4"],
 					"visibility_rules": ["718045","fishsanity_on"],
 					"map_locations":[
                       {
@@ -550,7 +550,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,desert,shipping"],
+					"access_rules": ["Bamboorod,desert,fishing:4,shipping"],
 					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {

@@ -10,7 +10,7 @@
                     {
                         "name": "Donate 5 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718100","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -27,7 +27,7 @@
                     {
                         "name": "Donate 10 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718101","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -44,7 +44,7 @@
                     {
                         "name": "Donate 15 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718102","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -61,7 +61,7 @@
                     {
                         "name": "Donate 20 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718103","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -78,7 +78,7 @@
                     {
                         "name": "Donate 25 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718104","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -95,7 +95,7 @@
                     {
                         "name": "Donate 30 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718105","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -112,7 +112,7 @@
                     {
                         "name": "Donate 35 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718106","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -129,7 +129,7 @@
                     {
                         "name": "Donate 40 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718107","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -146,7 +146,7 @@
                     {
                         "name": "Donate 50 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718108","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -163,7 +163,7 @@
                     {
                         "name": "Donate 60 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718109","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -180,7 +180,7 @@
                     {
                         "name": "Donate 70 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718110","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -197,7 +197,7 @@
                     {
                         "name": "Donate 80 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718111","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -214,7 +214,7 @@
                     {
                         "name": "Donate 90 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718112","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -231,7 +231,7 @@
                     {
                         "name": "Donate 95 items",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718113","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -248,7 +248,7 @@
                     {
                         "name": "Donate 11 minerals",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718114","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -265,7 +265,7 @@
                     {
                         "name": "Donate 21 minerals",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718115","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -282,7 +282,7 @@
                     {
                         "name": "Donate 31 minerals",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718116","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -299,7 +299,7 @@
                     {
                         "name": "Donate 41 minerals",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718117","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -316,7 +316,7 @@
                     {
                         "name": "Donate 50 minerals",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718118","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -333,7 +333,7 @@
                     {
                         "name": "Donate 3 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718119","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -350,7 +350,7 @@
                     {
                         "name": "Donate 6 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718120","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -367,7 +367,7 @@
                     {
                         "name": "Donate 9 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718121","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -384,7 +384,7 @@
                     {
                         "name": "Donate 11 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718122","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -401,7 +401,7 @@
                     {
                         "name": "Donate 15 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718123","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -418,7 +418,7 @@
                     {
                         "name": "Donate 20 artifacts",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718124","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -435,7 +435,7 @@
                     {
                         "name": "Donate all 4 Dwarf Scrolls",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718125","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -452,7 +452,7 @@
                     {
                         "name": "Obtain the front of the Sloth Skeleton",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718126","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -469,7 +469,7 @@
                     {
                         "name": "Obtain the middle of the Sloth Skeleton",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718127","museum_milestone"],
                     }
                 ],
                 "map_locations":[
@@ -486,7 +486,7 @@
                     {
                         "name": "Obtain the back of the Sloth Skeleton",
                         "item_count": 1,
-						"visibility_rules": ["museum_milestone"],
+						"visibility_rules": ["718128","museum_milestone"],
                     }
                 ],
                 "map_locations":[

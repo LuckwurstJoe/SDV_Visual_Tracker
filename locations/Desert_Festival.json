@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Desert Festival",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Calico Race",
+                "sections":[
+                    {
+                        "name": "Win the race",
+                        "item_count": 1,
+						"visibility_rules": ["719041"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 699,
+                        "y": 315
+                    }
+                ]
+            },
+			{
+                "name": "Emily's Outfit Services",
+                "sections":[
+                    {
+                        "name": "Get a new dress",
+                        "item_count": 1,
+						"visibility_rules": ["719044"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 699,
+                        "y": 65
+                    }
+                ]
+            },
+			{
+                "name": "Free Cactis",
+                "sections":[
+                    {
+                        "name": "Obtain your free cactis",
+                        "item_count": 1,
+						"visibility_rules": ["719066"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 699,
+                        "y": 205
+                    }
+                ]
+            },
+			{
+                "name": "Egg Merchant",
+                "sections":[
+                    {
+                        "name": "Mummy Mask",
+                        "item_count": 1,
+						"visibility_rules": ["719042"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 447,
+                        "y": 212
+                    }
+                ]
+            },
+			{
+                "name": "Desert Merchant",
+                "sections":[
+                    {
+                        "name": "Calico Statue",
+                        "item_count": 1,
+						"visibility_rules": ["719043"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 520,
+                        "y": 340
+                    }
+                ]
+            },
+			{
+                "name": "Desert Scholar",
+                "sections":[
+                    {
+                        "name": "Answer the questions",
+                        "item_count": 1,
+						"visibility_rules": ["719073"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 559,
+                        "y": 130
+                    }
+                ]
+            },
+			{
+                "name": "Willy's Challenge",
+                "sections":[
+                    {
+                        "name": "Complete Willy's Quest",
+                        "item_count": 1,
+						"visibility_rules": ["719072"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 240,
+                        "y": 220
+                    }
+                ]
+            },
+			{
+                "name": "Monster Hunt",
+                "sections":[
+                    {
+                        "name": "Slay required monster",
+                        "item_count": 1,
+						"visibility_rules": ["719067"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 136,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Deep Dive",
+                "sections":[
+                    {
+                        "name": "Reach level 30 of the Skull Cavern",
+                        "item_count": 1,
+						"visibility_rules": ["719068"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 136,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Treasure Hunt",
+                "sections":[
+                    {
+                        "name": "Collect required items",
+                        "item_count": 1,
+						"visibility_rules": ["719069"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 136,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Touch A Calico Statue",
+                "sections":[
+                    {
+                        "name": "Touch it",
+                        "item_count": 1,
+						"visibility_rules": ["719070"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 136,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Real Calico Egg Hunter",
+                "sections":[
+                    {
+                        "name": "Reach a certain egg rating",
+                        "item_count": 1,
+						"visibility_rules": ["719071"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 350,
+                        "y": 120
+                    }
+                ]
+            },
+			{
+                "name": "Cooking",
+                "children":[
+                  {
+					"name": "Earthy Mousse",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719045"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 957,
+                        "y": 146
+                      }
+                    ]
+				  },
+				  {
+					"name": "Sweet Bean Cake",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719046"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1039,
+                        "y": 146
+                      }
+                    ]
+				  },
+				  {
+					"name": "Skull Cave Casserole",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719047"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1121,
+                        "y": 146
+                      }
+                    ]
+				  },
+				  {
+					"name": "Spicy Tacos",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719048"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1203,
+                        "y": 146
+                      }
+                    ]
+				  },
+				  {
+					"name": "Mountain Chili",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719049"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 875,
+                        "y": 197
+                      }
+                    ]
+				  },
+				  {
+					"name": "Crystal Cake",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719050"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1039,
+                        "y": 197
+                      }
+                    ]
+				  },
+				  {
+					"name": "Cave Kebab",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719051"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1121,
+                        "y": 197
+                      }
+                    ]
+				  },
+				  {
+					"name": "Hot Log",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719052"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1203,
+                        "y": 197
+                      }
+                    ]
+				  },
+				  {
+					"name": "Sour Salad",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719053"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 875,
+                        "y": 248
+                      }
+                    ]
+				  },
+				  {
+					"name": "Superfood Cake",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719054"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 957,
+                        "y": 248
+                      }
+                    ]
+				  },
+				  {
+					"name": "Warrior Smoothie",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719055"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1121,
+                        "y": 248
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rumpled Fruit Skin",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719056"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1203,
+                        "y": 248
+                      }
+                    ]
+				  },
+				  {
+					"name": "Calico Pizza",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719057"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 875,
+                        "y": 299
+                      }
+                    ]
+				  },
+				  {
+					"name": "Stuffed Mushrooms",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719058"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 957,
+                        "y": 299
+                      }
+                    ]
+				  },
+				  {
+					"name": "Elf Quesadilla",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719059"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1039,
+                        "y": 299
+                      }
+                    ]
+				  },
+				  {
+					"name": "Nachos Of The Desert",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719060"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1203,
+                        "y": 299
+                      }
+                    ]
+				  },
+				  {
+					"name": "Cioppino",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719061"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 875,
+                        "y": 351
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rainforest Shrimp",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719062"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 959,
+                        "y": 351
+                      }
+                    ]
+				  },
+				  {
+					"name": "Shrimp Donut",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719063"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1039,
+                        "y": 351
+                      }
+                    ]
+				  },
+				  {
+					"name": "Smell Of The Sea",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719064"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1121,
+                        "y": 351
+                      }
+                    ]
+				  },
+				  {
+					"name": "Desert Gumbo",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719065"],
+					"map_locations":[
+                      {
+                        "map":"Desert Festival",
+                        "x": 1203,
+                        "y": 351
+                      }
+                    ]
+				  }
+                ]
+            },
+        ]
+    }
+]
