@@ -1,6 +1,17 @@
 {
 	"versions": [
 		{
+			"package_version": "1.4.4",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.4/SDV_Visual_Tracker.zip",
+			"sha256": "bcd9144a843c433391c241491fcecfb2ebe220278b41bdd4064b750d5128ba2b",
+			"changelog": [
+				"Added Night Market tab",
+				"Added Desert Festival tab",
+				"Added Fishing Festival tab",
+				"Museum-, Crop- and Fishsanity are completly autotracked now"
+			]
+		},
+		{
 			"package_version": "1.4.3",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.3/SDV_Visual_Tracker.zip",
 			"sha256": "bcd9144a843c433391c241491fcecfb2ebe220278b41bdd4064b750d5128ba2b",
