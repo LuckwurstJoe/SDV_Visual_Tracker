@@ -1,6 +1,7 @@
 [
     {
         "name": "Desert Festival",
+		"access_rules": "bus",
         "chest_unopened_img": "images/QuestNew.png",
         "chest_opened_img": "images/QuestDone.png",
         "children":[
@@ -124,61 +125,42 @@
                 ]
             },
 			{
-                "name": "Monster Hunt",
+                "name": "Real Calico Egg Hunter",
                 "sections":[
                     {
-                        "name": "Slay required monster",
+                        "name": "Reach a certain egg rating",
+                        "item_count": 1,
+						"visibility_rules": ["719066"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Desert Festival",
+                        "x": 350,
+                        "y": 130
+                    }
+                ]
+            },
+			{
+                "name": "Skull Cavern",
+                "sections":[
+                    {
+                        "name": "Monster Hunt",
                         "item_count": 1,
 						"visibility_rules": ["719067"],
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Desert Festival",
-                        "x": 136,
-                        "y": 83
-                    }
-                ]
-            },
-			{
-                "name": "Deep Dive",
-                "sections":[
-                    {
-                        "name": "Reach level 30 of the Skull Cavern",
+                    },
+					{
+                        "name": "Deep Dive",
                         "item_count": 1,
 						"visibility_rules": ["719068"],
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Desert Festival",
-                        "x": 136,
-                        "y": 83
-                    }
-                ]
-            },
-			{
-                "name": "Treasure Hunt",
-                "sections":[
-                    {
-                        "name": "Collect required items",
+                    },
+					{
+                        "name": "Treasure Hunt",
                         "item_count": 1,
 						"visibility_rules": ["719069"],
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Desert Festival",
-                        "x": 136,
-                        "y": 83
-                    }
-                ]
-            },
-			{
-                "name": "Touch A Calico Statue",
-                "sections":[
-                    {
-                        "name": "Touch it",
+                    },
+					{
+                        "name": "Touch A Calico Statue",
                         "item_count": 1,
 						"visibility_rules": ["719070"],
                     }
@@ -188,23 +170,6 @@
                         "map":"Desert Festival",
                         "x": 136,
                         "y": 83
-                    }
-                ]
-            },
-			{
-                "name": "Real Calico Egg Hunter",
-                "sections":[
-                    {
-                        "name": "Reach a certain egg rating",
-                        "item_count": 1,
-						"visibility_rules": ["719071"],
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Desert Festival",
-                        "x": 350,
-                        "y": 120
                     }
                 ]
             },

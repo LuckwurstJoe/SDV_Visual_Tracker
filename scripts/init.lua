@@ -17,6 +17,8 @@ Tracker:AddLocations("locations/Museum_Donations.json")
 Tracker:AddLocations("locations/Museum_Milestones.json")
 Tracker:AddLocations("locations/Boards.json")
 Tracker:AddLocations("locations/Desert_Festival.json")
+Tracker:AddLocations("locations/Night_Market.json")
+Tracker:AddLocations("locations/Fishing_Festivals.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

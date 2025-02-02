@@ -69,7 +69,7 @@
       "name": "Night Market",
       "location_size": 10,
       "location_border_thickness": 3,
-      "img": "images/blank.png"
+      "img": "images/Night_Market.png"
     },
 	{
       "name": "Desert Festival",
@@ -81,7 +81,7 @@
       "name": "Fishing Festivals",
       "location_size": 10,
       "location_border_thickness": 3,
-      "img": "images/blank.png"
+      "img": "images/Fishing_Festivals.png"
     },
 
   ]
