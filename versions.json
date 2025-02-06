@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.4.5",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.5/stardew_valley_randomizer.zip",
+			"sha256": "b38c527621cb85c228b778770d83297e4280a3b928a3873e60819c18130d3717",
+			"changelog": [
+				"Added Town Festivals"
+			]
+		},
+		{
 			"package_version": "1.4.4",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.4/SDV_Visual_Tracker.zip",
 			"sha256": "afd83ba9031acdda6e76643432d35e0733860469194e2179bc863e1d5cde5597",
