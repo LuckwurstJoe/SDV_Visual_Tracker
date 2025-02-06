@@ -47,10 +47,15 @@
         "allow_disabled": false,
         "initial_stage_idx": 0,
         "stages": [
+	    {
+                "img": "images/settings/Autotracking.png",
+                "inherit_codes": false,
+                "codes": "board"
+            },
             {
                 "img": "images/settings/Vanilla.png",
                 "inherit_codes": false,
-                "codes": "board"
+                "codes": "board_off"
             },
             {
                 "img": "images/settings/Board.png",

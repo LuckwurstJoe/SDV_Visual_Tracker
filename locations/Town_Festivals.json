@@ -1,0 +1,332 @@
+[
+    {
+        "name": "Town Festivals",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Egg Festival",
+				"access_rules":["spring"],
+                "children":[
+                  {
+					"name": "Egg Hunt Victory",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719001"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 140
+                      }
+                    ]
+				  },
+				  {
+					"name": "Strawberry Seeds",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719002"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 182
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Flower Dance",
+				"access_rules":["spring"],
+                "children":[
+                  {
+					"name": "Dance with someone",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719003"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 140
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rarecrow #5",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719004"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 180
+                      }
+                    ]
+				  },
+				   {
+					"name": "Tub o' Flowers Recipe",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719032"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 220
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Luau",
+                "sections":[
+                    {
+                        "name": "Luau Soup",
+                        "item_count": 1,
+						"access_rules":["summer"],
+						"visibility_rules": ["719005"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Town Festivals",
+                        "x": 908,
+                        "y": 140
+                    }
+                ]
+            },
+			{
+                "name": "Dance of the Moonlight Jellies",
+				"access_rules":["summer"],
+                "children":[
+                  {
+					"name": "See the Jellies",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719006"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 1295,
+                        "y": 140
+                      }
+                    ]
+				  },
+				  {
+					"name": "Moonlight Jellies Banner",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719034"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 1295,
+                        "y": 180
+                      }
+                    ]
+				  },
+				  {
+					"name": "Starport Decal",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719035"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 1295,
+                        "y": 260
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Stardew Valley Fair",
+				"access_rules":["fall"],
+                "children":[
+                  {
+					"name": "Smashing Stone",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719007"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 437
+                      }
+                    ]
+				  },
+				  {
+					"name": "Grange Display",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719008"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 479
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rarecrow #1",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719009"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 521
+                      }
+                    ]
+				  },
+				   {
+					"name": "Fair Stardrop",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719010"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 122,
+                        "y": 563
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Spirit's Eve",
+				"access_rules":["fall"],
+                "children":[
+                  {
+					"name": "Spirit's Eve Maze",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719011"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 437
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rarecrow #2",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719012"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 479
+                      }
+                    ]
+				  },
+				  {
+					"name": "Jack-O-Lantern Recipe",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719033"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 515,
+                        "y": 521
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Festival of Ice",
+				"access_rules":["winter"],
+                "children":[
+                  {
+					"name": "Win Fishing Competition",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719013"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 908,
+                        "y": 437
+                      }
+                    ]
+				  },
+				  {
+					"name": "Rarecrow #4",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719014"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 908,
+                        "y": 521
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "Feast of the Winter Star",
+				"access_rules":["winter"],
+                "children":[
+                  {
+					"name": "Secret Santa",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719029"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 1295,
+                        "y": 437
+                      }
+                    ]
+				  },
+				  {
+					"name": "The Legend of the Winter Star",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["719030"],
+					"map_locations":[
+                      {
+                        "map":"Town Festivals",
+                        "x": 1295,
+                        "y": 479
+                      }
+                    ]
+				  },
+                ]
+            },
+			{
+                "name": "Casino",
+                "sections":[
+                    {
+                        "name": "Rarecrow #3",
+                        "item_count": 1,
+						"access_rules":["desert"],
+						"visibility_rules": ["719036"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Town Festivals",
+                        "x": 333,
+                        "y": 676
+                    }
+                ]
+            },
+			{
+                "name": "Farm",
+                "sections":[
+                    {
+                        "name": "Collect All Rarecrows",
+                        "item_count": 1,
+						"visibility_rules": ["719031"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Town Festivals",
+                        "x": 965,
+                        "y": 676
+                    }
+                ]
+            }
+        ]
+    }
+]

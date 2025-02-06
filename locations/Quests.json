@@ -6,6 +6,7 @@
         "children":[
             {
                 "name": "Introductions",
+				"visibility_rules": ["717501"],
                 "sections":[
                     {
                         "name": "Talk to the NPCs!",
@@ -22,6 +23,7 @@
             },
             {
                 "name": "How to Win Friends",
+				"visibility_rules": ["717502"],
                 "sections":[
                     {
                         "name": "Give anyone a gift",
@@ -38,6 +40,7 @@
             },
             {
                 "name": "Getting Started",
+				"visibility_rules": ["717503"],
                 "sections": [
                     {
                         "name": "Cultivate and Harvest a Parsnip",
@@ -54,6 +57,7 @@
             },
             {
                 "name": "Raising Animals",
+				"visibility_rules": ["717504"],
                 "sections":[
                     {
                         "name": "Build a Coop",
@@ -71,6 +75,7 @@
             },
             {
                 "name": "Archaeology",
+				"visibility_rules": ["717506"],
                 "sections":[
                     {
                         "name": "Donate an item to the Museum",
@@ -87,6 +92,7 @@
             },
             {
                 "name": "Advancement",
+				"visibility_rules": ["717505"],
                 "sections":[
                   {
                     "access_rules": [ "$farming1" ],
@@ -104,6 +110,7 @@
             },
             {
                 "name": "Meet the Wizard",
+				"visibility_rules": ["717507"],
                 "sections":[
                     {
                         "name": "Enter the Wizard's Tower",
@@ -120,6 +127,7 @@
             },
             {
                 "name": "Forging Ahead",
+				"visibility_rules": ["717508"],
                 "sections":[
                     {
                         "name": "Craft a Furnace",
@@ -136,6 +144,7 @@
             },
             {
                 "name": "Smelting",
+				"visibility_rules": ["717509"],
                 "sections":[
                     {
                         "name": "Smelt a Copper Bar",
@@ -152,6 +161,7 @@
             },
             {
                 "name": "Initiation",
+				"visibility_rules": ["717510"],
                 "sections":[
                     {
                         "name": "Slay 10 green slimes",
@@ -168,6 +178,7 @@
             },
             {
                 "name": "Robin's Lost Axe",
+				"visibility_rules": ["717511"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -184,6 +195,7 @@
             },
             {
                 "name": "Jodi's Request",
+				"visibility_rules": ["717512"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -200,6 +212,7 @@
             },
             {
                 "name": "Mayor's 'Shorts'",
+				"visibility_rules": ["717513"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -217,6 +230,7 @@
             },
             {
                 "name": "Blackberry Basket",
+				"visibility_rules": ["717514"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -234,6 +248,7 @@
             },
             {
                 "name": "Marnie's Request",
+				"visibility_rules": ["717515"],
                 "sections":[
                     {
                         "name": "Bring Marnie a Cave Carrot",
@@ -250,6 +265,7 @@
             },
             {
                 "name": "Pam is Thirsty",
+				"visibility_rules": ["717516"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -270,6 +286,7 @@
             },
             {
                 "name": "A Dark Reagent",
+				"visibility_rules": ["717517"],
                 "access_rules":["$winter"],
                 "sections":[
                     {
@@ -287,6 +304,7 @@
             },
             {
                 "name": "Cow's Delight",
+				"visibility_rules": ["717518"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -304,6 +322,7 @@
             },
             {
                 "name": "The Skull Key",
+				"visibility_rules": ["717519"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert,$has_skull_key" ],
@@ -321,6 +340,7 @@
             },
             {
                 "name": "Crop Research",
+				"visibility_rules": ["717520"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -338,6 +358,7 @@
             },
             {
                 "name": "Knee Therapy",
+				"visibility_rules": ["717521"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -355,6 +376,7 @@
             },
             {
                 "name": "Robin's Request",
+				"visibility_rules": ["717522"],
                 "sections":[
                   {
                     "access_rules": [ "$can_chop_stumps,$winter" ],
@@ -372,6 +394,7 @@
             },
             {
                 "name": "Qi's Challenge",
+				"visibility_rules": ["717523"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert,$has_skull_key" ],
@@ -389,6 +412,7 @@
             },
             {
                 "name": "The Mysterious Qi",
+				"visibility_rules": ["717524"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert" ],
@@ -406,6 +430,7 @@
             },
             {
                 "name": "Carving Pumpkins",
+				"visibility_rules": ["717525"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -423,6 +448,7 @@
             },
             {
                 "name": "A Winter Mystery",
+				"visibility_rules": ["717526"],
                 "access_rules":["$winter"],
                 "sections":[
                     {
@@ -440,6 +466,7 @@
             },
             {
                 "name": "Strange Note",
+				"visibility_rules": ["717527"],
                 "sections":[
                   {
                     "access_rules": [ "$secret_notes,$can_chop_logs" ],
@@ -457,6 +484,7 @@
             },
             {
                 "name": "Cryptic Note",
+				"visibility_rules": ["717528"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert,$has_skull_key,$secret_notes" ],
@@ -474,6 +502,7 @@
             },
             {
                 "name": "Fresh Fruit",
+				"visibility_rules": ["717529"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -490,6 +519,7 @@
             },
             {
                 "name": "Aquatic Research",
+				"visibility_rules": ["717530"],
                 "sections":[
                   {
                     "access_rules": [ "$can_fish" ],
@@ -507,6 +537,7 @@
             },
             {
                 "name": "A Soldier's Star",
+				"visibility_rules": ["717531"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert","$summer" ],
@@ -524,6 +555,7 @@
             },
             {
                 "name": "Mayor's Need",
+				"visibility_rules": ["717532"],
                 "sections":[
                   {
                     "access_rules": [ "$has_deluxe_barn" ],
@@ -541,6 +573,7 @@
             },
             {
                 "name": "Wanted: Lobster",
+				"visibility_rules": ["717533"],
                 "sections":[
                   {
                     "access_rules": [ "$has_crab_pots" ],
@@ -558,6 +591,7 @@
             },
             {
                 "name": "Pam Needs Juice",
+				"visibility_rules": ["717534"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -574,6 +608,7 @@
             },
             {
                 "name": "Fish Casserole",
+				"visibility_rules": ["717535"],
                 "sections":[
                   {
                     "access_rules": [ "$can_fish" ],
@@ -591,6 +626,7 @@
             },
             {
                 "name": "Catch a Squid",
+				"visibility_rules": ["717536"],
                 "sections":[
                   {
                     "access_rules": [ "$can_fish" ],
@@ -608,6 +644,7 @@
             },
             {
                 "name": "Fish Stew",
+				"visibility_rules": ["717537"],
                 "sections":[
                   {
                     "access_rules": [ "$can_fish" ],
@@ -625,6 +662,7 @@
             },
             {
                 "name": "Pierre's Notice",
+				"visibility_rules": ["717538"],
                 "sections":[
                   {
                     "access_rules": [ "$can_cook" ],
@@ -642,6 +680,7 @@
             },
             {
                 "name": "Clint's Attempt",
+				"visibility_rules": ["717539"],
                 "sections":[
                     {
                       "item_count": 1,
@@ -658,6 +697,7 @@
             },
             {
                 "name": "A Favor for Clint",
+				"visibility_rules": ["717540"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -674,6 +714,7 @@
             },
             {
                 "name": "Staff of Power",
+				"visibility_rules": ["717541"],
                 "sections":[
                   {
                     "access_rules": [ "$can_mine_iridium" ],
@@ -691,6 +732,7 @@
             },
             {
                 "name": "Granny's Gift",
+				"visibility_rules": ["717542"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -707,6 +749,7 @@
             },
             {
                 "name": "Exotic Spirits",
+				"visibility_rules": ["717543"],
                 "sections":[
                     {
                       "name": "Deliver it!",
@@ -725,6 +768,7 @@
             },
             {
                 "name": "Catch a Lingcod",
+				"visibility_rules": ["717544"],
                 "sections":[
                   {
                     "access_rules": [ "$can_fish" ],
@@ -745,19 +789,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 1",
-                        "visibility_rules":["$quests1"]
+                        "visibility_rules":["717841","$quests1"]
                     },
                     {
                         "name": "Item Delivery 2",
-                        "visibility_rules":["$quests2"]
+                        "visibility_rules":["717842","$quests2"]
                     },
                     {
                         "name": "Item Delivery 3",
-                        "visibility_rules":["$quests3"]
+                        "visibility_rules":["717843","$quests3"]
                     },
                     {
                         "name": "Item Delivery 4",
-                        "visibility_rules":["$quests4"]
+                        "visibility_rules":["717844","$quests4"]
                     }
                 ],
                 "map_locations":[
@@ -774,7 +818,7 @@
                 "sections":[
                     {
                         "name": "Fishing 1",
-                        "visibility_rules":["$quests5"]
+                        "visibility_rules":["717821","$quests5"]
                     }
                 ],
                 "map_locations":[
@@ -790,7 +834,7 @@
                 "sections":[
                     {
                         "name": "Gathering 1",
-                        "visibility_rules":["$quests6"]
+                        "visibility_rules":["717801","$quests6"]
                     }
                 ],
                 "map_locations":[
@@ -806,7 +850,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 1",
-                        "visibility_rules":["$quests7"]
+                        "visibility_rules":["717811","$quests7"]
                     }
                 ],
                 "map_locations":[
@@ -822,19 +866,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 5",
-                        "visibility_rules":["$quests8"]
+                        "visibility_rules":["717845","$quests8"]
                     },
                     {
                         "name": "Item Delivery 6",
-                        "visibility_rules":["$quests9"]
+                        "visibility_rules":["717846","$quests9"]
                     },
                     {
                         "name": "Item Delivery 7",
-                        "visibility_rules":["$quests10"]
+                        "visibility_rules":["717847","$quests10"]
                     },
                     {
                         "name": "Item Delivery 8",
-                        "visibility_rules":["$quests11"]
+                        "visibility_rules":["717848","$quests11"]
                     }
                 ],
                 "map_locations":[
@@ -851,7 +895,7 @@
                 "sections":[
                     {
                         "name": "Fishing 2",
-                        "visibility_rules":["$quests12"]
+                        "visibility_rules":["717822","$quests12"]
                     }
                 ],
                 "map_locations":[
@@ -867,7 +911,7 @@
                 "sections":[
                     {
                         "name": "Gathering 2",
-                        "visibility_rules":["$quests13"]
+                        "visibility_rules":["717802","$quests13"]
                     }
                 ],
                 "map_locations":[
@@ -883,7 +927,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 2",
-                        "visibility_rules":["$quests14"]
+                        "visibility_rules":["717812","$quests14"]
                     }
                 ],
                 "map_locations":[
@@ -899,19 +943,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 9",
-                        "visibility_rules":["$quests15"]
+                        "visibility_rules":["717849","$quests15"]
                     },
                     {
                         "name": "Item Delivery 10",
-                        "visibility_rules":["$quests16"]
+                        "visibility_rules":["717850","$quests16"]
                     },
                     {
                         "name": "Item Delivery 11",
-                        "visibility_rules":["$quests17"]
+                        "visibility_rules":["717851","$quests17"]
                     },
                     {
                         "name": "Item Delivery 12",
-                        "visibility_rules":["$quests18"]
+                        "visibility_rules":["717852","$quests18"]
                     }
                 ],
                 "map_locations":[
@@ -928,7 +972,7 @@
                 "sections":[
                     {
                         "name": "Fishing 3",
-                        "visibility_rules":["$quests19"]
+                        "visibility_rules":["717823","$quests19"]
                     }
                 ],
                 "map_locations":[
@@ -944,7 +988,7 @@
                 "sections":[
                     {
                         "name": "Gathering 3",
-                        "visibility_rules":["$quests20"]
+                        "visibility_rules":["717803","$quests20"]
                     }
                 ],
                 "map_locations":[
@@ -960,7 +1004,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 3",
-                        "visibility_rules":["$quests21"]
+                        "visibility_rules":["717813","$quests21"]
                     }
                 ],
                 "map_locations":[
@@ -976,19 +1020,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 13",
-                        "visibility_rules":["$quests22"]
+                        "visibility_rules":["717853","$quests22"]
                     },
                     {
                         "name": "Item Delivery 14",
-                        "visibility_rules":["$quests23"]
+                        "visibility_rules":["717854","$quests23"]
                     },
                     {
                         "name": "Item Delivery 15",
-                        "visibility_rules":["$quests24"]
+                        "visibility_rules":["717855","$quests24"]
                     },
                     {
                         "name": "Item Delivery 16",
-                        "visibility_rules":["$quests25"]
+                        "visibility_rules":["717856","$quests25"]
                     }
                 ],
                 "map_locations":[
@@ -1005,7 +1049,7 @@
                 "sections":[
                     {
                         "name": "Fishing 4",
-                        "visibility_rules":["$quests26"]
+                        "visibility_rules":["717824","$quests26"]
                     }
                 ],
                 "map_locations":[
@@ -1021,7 +1065,7 @@
                 "sections":[
                     {
                         "name": "Gathering 4",
-                        "visibility_rules":["$quests27"]
+                        "visibility_rules":["717804","$quests27"]
                     }
                 ],
                 "map_locations":[
@@ -1037,7 +1081,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 4",
-                        "visibility_rules":["$quests28"]
+                        "visibility_rules":["717814","$quests28"]
                     }
                 ],
                 "map_locations":[
@@ -1053,19 +1097,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 17",
-                        "visibility_rules":["$quests29"]
+                        "visibility_rules":["717857","$quests29"]
                     },
                     {
                         "name": "Item Delivery 18",
-                        "visibility_rules":["$quests30"]
+                        "visibility_rules":["717858","$quests30"]
                     },
                     {
                         "name": "Item Delivery 19",
-                        "visibility_rules":["$quests31"]
+                        "visibility_rules":["717859","$quests31"]
                     },
                     {
                         "name": "Item Delivery 20",
-                        "visibility_rules":["$quests32"]
+                        "visibility_rules":["717860","$quests32"]
                     }
                 ],
                 "map_locations":[
@@ -1082,7 +1126,7 @@
                 "sections":[
                     {
                         "name": "Fishing 5",
-                        "visibility_rules":["$quests33"]
+                        "visibility_rules":["717825","$quests33"]
                     }
                 ],
                 "map_locations":[
@@ -1098,7 +1142,7 @@
                 "sections":[
                     {
                         "name": "Gathering 5",
-                        "visibility_rules":["$quests34"]
+                        "visibility_rules":["717805","$quests34"]
                     }
                 ],
                 "map_locations":[
@@ -1114,7 +1158,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 5",
-                        "visibility_rules":["$quests35"]
+                        "visibility_rules":["717815","$quests35"]
                     }
                 ],
                 "map_locations":[
@@ -1130,19 +1174,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 21",
-                        "visibility_rules":["$quests36"]
+                        "visibility_rules":["717861","$quests36"]
                     },
                     {
                         "name": "Item Delivery 22",
-                        "visibility_rules":["$quests37"]
+                        "visibility_rules":["717862","$quests37"]
                     },
                     {
                         "name": "Item Delivery 23",
-                        "visibility_rules":["$quests38"]
+                        "visibility_rules":["717863","$quests38"]
                     },
                     {
                         "name": "Item Delivery 24",
-                        "visibility_rules":["$quests39"]
+                        "visibility_rules":["717864","$quests39"]
                     }
                 ],
                 "map_locations":[
@@ -1159,7 +1203,7 @@
                 "sections":[
                     {
                         "name": "Fishing 6",
-                        "visibility_rules":["$quests40"]
+                        "visibility_rules":["717826","$quests40"]
                     }
                 ],
                 "map_locations":[
@@ -1175,7 +1219,7 @@
                 "sections":[
                     {
                         "name": "Gathering 6",
-                        "visibility_rules":["$quests41"]
+                        "visibility_rules":["717806","$quests41"]
                     }
                 ],
                 "map_locations":[
@@ -1191,7 +1235,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 6",
-                        "visibility_rules":["$quests42"]
+                        "visibility_rules":["717816","$quests42"]
                     }
                 ],
                 "map_locations":[
@@ -1207,19 +1251,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 25",
-                        "visibility_rules":["$quests43"]
+                        "visibility_rules":["717865","$quests43"]
                     },
                     {
                         "name": "Item Delivery 26",
-                        "visibility_rules":["$quests44"]
+                        "visibility_rules":["717866","$quests44"]
                     },
                     {
                         "name": "Item Delivery 27",
-                        "visibility_rules":["$quests45"]
+                        "visibility_rules":["717867","$quests45"]
                     },
                     {
                         "name": "Item Delivery 28",
-                        "visibility_rules":["$quests46"]
+                        "visibility_rules":["717868","$quests46"]
                     }
                 ],
                 "map_locations":[
@@ -1236,7 +1280,7 @@
                 "sections":[
                     {
                         "name": "Fishing 7",
-                        "visibility_rules":["$quests47"]
+                        "visibility_rules":["717827","$quests47"]
                     }
                 ],
                 "map_locations":[
@@ -1252,7 +1296,7 @@
                 "sections":[
                     {
                         "name": "Gathering 7",
-                        "visibility_rules":["$quests48"]
+                        "visibility_rules":["717807","$quests48"]
                     }
                 ],
                 "map_locations":[
@@ -1268,7 +1312,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 7",
-                        "visibility_rules":["$quests49"]
+                        "visibility_rules":["717817","$quests49"]
                     }
                 ],
                 "map_locations":[
@@ -1284,19 +1328,19 @@
                 "sections":[
                     {
                         "name": "Item Delivery 29",
-                        "visibility_rules":["$quests50"]
+                        "visibility_rules":["717869","$quests50"]
                     },
                     {
                         "name": "Item Delivery 30",
-                        "visibility_rules":["$quests51"]
+                        "visibility_rules":["717870","$quests51"]
                     },
                     {
                         "name": "Item Delivery 31",
-                        "visibility_rules":["$quests52"]
+                        "visibility_rules":["717871","$quests52"]
                     },
                     {
                         "name": "Item Delivery 32",
-                        "visibility_rules":["$quests53"]
+                        "visibility_rules":["717872","$quests53"]
                     }
                 ],
                 "map_locations":[
@@ -1313,7 +1357,7 @@
                 "sections":[
                     {
                         "name": "Fishing 8",
-                        "visibility_rules":["$quests54"]
+                        "visibility_rules":["717828","$quests54"]
                     }
                 ],
                 "map_locations":[
@@ -1329,7 +1373,7 @@
                 "sections":[
                     {
                         "name": "Gathering 8",
-                        "visibility_rules":["$quests55"]
+                        "visibility_rules":["717808","$quests55"]
                     }
                 ],
                 "map_locations":[
@@ -1345,7 +1389,7 @@
                 "sections":[
                     {
                         "name": "Slay Monsters 8",
-                        "visibility_rules":["$quests56"]
+                        "visibility_rules":["717818","$quests56"]
                     }
                 ],
                 "map_locations":[
