@@ -3,7 +3,7 @@
 		{
 			"package_version": "1.5.0",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.0/stardew_valley_randomizer.zip",
-			"sha256": "b38c527621cb85c228b778770d83297e4280a3b928a3873e60819c18130d3717",
+			"sha256": "aff8a8872a1b27b900a4956c8fe8af3c19e83d9d5a54ab445e2b97dfdda85e05",
 			"changelog": [
 				"Added Arcade Machine Checks",
 				"Everything at Quests and Activities should be autotracked now",
