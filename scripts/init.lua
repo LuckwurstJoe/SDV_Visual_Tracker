@@ -7,6 +7,7 @@ Tracker:AddItems("items/cropsanity_items.json")
 Tracker:AddItems("items/festival_items.json")
 Tracker:AddItems("items/quests_items.json")
 Tracker:AddItems("items/arcade_items.json")
+Tracker:AddItems("items/shipsanity_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 

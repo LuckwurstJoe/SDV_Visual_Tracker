@@ -24,7 +24,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719655","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -55,7 +55,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719656","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -86,7 +86,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719669","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -117,7 +117,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719670","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -148,7 +148,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719673","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -179,7 +179,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,spring,shipping","rod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719674","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -210,7 +210,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719685","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -241,7 +241,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719690","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -272,7 +272,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719692","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -303,7 +303,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,summer,shipping","rod,fall,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719693","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -334,7 +334,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["rod,spring,shipping","rod,fall,shipping","rod,winter,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719696","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -365,7 +365,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,fall,shipping","rod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719698","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -396,7 +396,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719705","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -427,7 +427,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719709","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -458,7 +458,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719711","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -489,7 +489,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719712","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -520,7 +520,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,desert,shipping"],
-					"visibility_rules": ["shipsanity_fish,","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719695","shipsanity_fish,","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -551,7 +551,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,desert,fishing:4,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719697","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -582,7 +582,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719659","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -613,7 +613,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719662","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -644,7 +644,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719668","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -675,7 +675,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["720801","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -706,7 +706,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719689","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -737,7 +737,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719694","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -768,7 +768,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,winter,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719699","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -799,7 +799,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719702","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -830,7 +830,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,summer,shipping","rod,spring,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
+					"visibility_rules": ["719708","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -861,7 +861,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
+					"visibility_rules": ["719710","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -892,7 +892,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719663","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -923,7 +923,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719679","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -954,7 +954,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719687","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -985,7 +985,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,summer,shipping"],					
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719691","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1016,7 +1016,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719714","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1047,7 +1047,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719701","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1078,7 +1078,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719713","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1109,7 +1109,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719715","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1140,7 +1140,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
+					"visibility_rules": ["719660","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1171,7 +1171,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,fall,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719661","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1202,7 +1202,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719676","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1233,7 +1233,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719681","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1264,7 +1264,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719707","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1295,7 +1295,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["Bamboorod,e20,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719671","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1326,7 +1326,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,e20,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719706","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1357,7 +1357,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,e60,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719675","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1388,7 +1388,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,e100,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719677","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1419,7 +1419,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,turtlen,island,shipping","Bamboorod,turtlew,island,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719947","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1450,7 +1450,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,island,turtlew,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719950","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1481,7 +1481,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,island,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
+					"visibility_rules": ["719954","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1512,7 +1512,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:3,fall,shipping"],
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all","shipsanity_fish"],								
+					"visibility_rules": ["719657","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],								
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1543,7 +1543,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:5,summer,shipping"],
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
+					"visibility_rules": ["719667","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1574,7 +1574,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:6,winter,shipping"],
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
+					"visibility_rules": ["719672","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1605,7 +1605,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:10,spring,shipping"],
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
+					"visibility_rules": ["719678","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1636,7 +1636,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,sewerkey,shipping"],
-					"visibility_rules": ["shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
+					"visibility_rules": ["719684","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1667,7 +1667,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719658","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1698,7 +1698,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719682","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1729,7 +1729,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719704","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1760,7 +1760,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719666","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1791,7 +1791,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719688","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1822,7 +1822,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719703","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1853,7 +1853,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719720","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1884,7 +1884,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719664","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1915,7 +1915,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719665","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1946,7 +1946,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719680","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -1977,7 +1977,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719683","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2008,7 +2008,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719686","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2039,7 +2039,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
 					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
+					"visibility_rules": ["719700","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2070,7 +2070,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:3,walnutroom,island,shipping"],
-					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],		
+					"visibility_rules": ["719951","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],		
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2101,7 +2101,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:5,island,walnutroom,shipping"],
-					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
+					"visibility_rules": ["719953","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2132,7 +2132,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,fishing:6,island,walnutroom,shipping"],					
-					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
+					"visibility_rules": ["719948","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2163,7 +2163,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,walnutroom,island,shipping"],
-					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
+					"visibility_rules": ["719949","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
@@ -2194,7 +2194,7 @@
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules": ["Bamboorod,sewerkey,walnutroom,island,shipping"],
-					"visibility_rules": ["island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
+					"visibility_rules": ["719952","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
 					"map_locations":[
                       {
                         "map":"Fishes",
