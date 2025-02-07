@@ -6,7 +6,7 @@
 			"sha256": "b38c527621cb85c228b778770d83297e4280a3b928a3873e60819c18130d3717",
 			"changelog": [
 				"Added Arcade Machine Checks",
-				"Everything at Quests and Activities should be autotracked now, no need to use the pack setting otherwise then acticating Ginger Island",		
+				"Everything at Quests and Activities should be autotracked now",
 			]
 		},
 		{
