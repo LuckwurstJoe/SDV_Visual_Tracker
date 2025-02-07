@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Arcades",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Junimo Kart",
+				"access_rules":["skullkey"],
+                "children":[
+                  {
+					"name": "Crumble Cavern",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717612"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 415,
+                        "y": 125
+                      }
+                    ]
+				  },
+				  {
+					"name": "Slippery Slopes",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717613"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 449,
+                        "y": 317
+                      }
+                    ]
+				  },
+				  {
+					"name": "Secret Level",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717614"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 513,
+                        "y": 236
+                      }
+                    ]
+				  },
+				  {
+					"name": "The Gem Sea Giant",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717615"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 673,
+                        "y": 350
+                      }
+                    ]
+				  },
+				  {
+					"name": "Slomp's Stomp",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717616"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 577,
+                        "y": 189
+                      }
+                    ]
+				  },
+				  {
+					"name": "Ghastly Galleon",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717617"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 751,
+                        "y": 235
+                      }
+                    ]
+				  },
+				  {
+					"name": "Glowshroom Grotto",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717618"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 801,
+                        "y": 92
+                      }
+                    ]
+				  },
+				  {
+					"name": "Red Hot Rollercoaster",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717619"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 895,
+                        "y": 349
+                      }
+                    ]
+				  },
+				  {
+					"name": "Sunset Speedway",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717621"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 961,
+                        "y": 95
+                      }
+                    ]
+				  }
+                ]
+            },
+			{
+                "name": "JotPK Boots",
+				"sections": [
+					{
+						"name": "Boots Upgrade 1",
+						"item_count": 1,
+						"visibility_rules": ["717601"],
+					},
+					{
+						"name": "Boots Upgrade 2",
+						"item_count": 1,
+						"visibility_rules": ["717602"],
+					}
+					],
+					"map_locations":[
+                    {
+                        "map":"Arcades",
+                        "x": 172,
+                        "y": 152
+                    }
+					]
+            },
+			{
+                "name": "JotPK Guns",
+				"sections": [
+					{
+						"name": "Gun Upgrade 1",
+						"item_count": 1,
+						"visibility_rules": ["717603"],
+					},
+					{
+						"name": "Gun Upgrade 2",
+						"item_count": 1,
+						"visibility_rules": ["717604"],
+					},
+					{
+						"name": "Gun Upgrade 3",
+						"item_count": 1,
+						"visibility_rules": ["717605"],
+					},
+					{
+						"name": "Super Gun",
+						"item_count": 1,
+						"visibility_rules": ["717606"],
+					}
+					],
+					"map_locations":[
+                    {
+                        "map":"Arcades",
+                        "x": 203,
+                        "y": 152
+                    }
+					]
+            },
+			{
+                "name": "JotPK Ammo",
+				"sections": [
+					{
+						"name": "Ammo Upgrade 1",
+						"item_count": 1,
+						"visibility_rules": ["717607"],
+					},
+					{
+						"name": "Ammo Upgrade 2",
+						"item_count": 1,
+						"visibility_rules": ["717608"],
+					},
+					{
+						"name": "Ammo Upgrade 3",
+						"item_count": 1,
+						"visibility_rules": ["717609"],
+					}
+					],
+					"map_locations":[
+                    {
+                        "map":"Arcades",
+                        "x": 234,
+                        "y": 152
+                    }
+					]
+            },
+			{
+                "name": "JotPK Bosses",
+                "children":[
+                  {
+					"name": "Boss Cowboy 1",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717610"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 135,
+                        "y": 260
+                      }
+                    ]
+				  },
+				  {
+					"name": "Boss Cowboy 2",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717611"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 202,
+                        "y": 260
+                      }
+                    ]
+				  },
+				  {
+					"name": "Beat Fector",
+					"sections": [{"item_count": 1,}],
+					"visibility_rules": ["717620"],
+					"map_locations":[
+                      {
+                        "map":"Arcades",
+                        "x": 268,
+                        "y": 260
+                      }
+                    ]
+				  }
+                ]
+            },
+        ]
+    }
+]

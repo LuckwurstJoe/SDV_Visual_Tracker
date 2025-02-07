@@ -83,5 +83,11 @@
       "location_border_thickness": 3,
       "img": "images/Fishing_Festivals.png"
     },
+	{
+      "name": "Arcades",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Arcades.png"
+    },
 
   ]

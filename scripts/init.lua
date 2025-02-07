@@ -6,6 +6,7 @@ Tracker:AddItems("items/museumsanity_items.json")
 Tracker:AddItems("items/cropsanity_items.json")
 Tracker:AddItems("items/festival_items.json")
 Tracker:AddItems("items/quests_items.json")
+Tracker:AddItems("items/arcade_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -21,6 +22,7 @@ Tracker:AddLocations("locations/Desert_Festival.json")
 Tracker:AddLocations("locations/Night_Market.json")
 Tracker:AddLocations("locations/Fishing_Festivals.json")
 Tracker:AddLocations("locations/Town_Festivals.json")
+Tracker:AddLocations("locations/Arcades.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")
