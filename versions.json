@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.5.0",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.0/stardew_valley_randomizer.zip",
+			"sha256": "b38c527621cb85c228b778770d83297e4280a3b928a3873e60819c18130d3717",
+			"changelog": [
+				"Added Arcade Machine Checks",
+				"Everything at Quests and Activities should be autotracked now, no need to use the pack setting otherwise then acticating Ginger Island",		
+			]
+		},
+		{
 			"package_version": "1.4.5",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.4.5/stardew_valley_randomizer.zip",
 			"sha256": "b38c527621cb85c228b778770d83297e4280a3b928a3873e60819c18130d3717",
