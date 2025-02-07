@@ -5,8 +5,8 @@
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.1/stardew_valley_randomizer.zip",
 			"sha256": "b65697bf4eb59430ca5bd44abc8f4c1e4ff29171936ad57880416b423e34664e",
 			"changelog": [
-				"Added autotracking for Shipsanity:Crops",
-				"Added autotracking for Shipsanity:Fishes",
+				"Added autotracking for Shipsanity: Crops",
+				"Added autotracking for Shipsanity: Fishes",
 				"Added autotracking shipped minerals and artifacts",
 				"Added Access Rules to all crops and foraged items"
 			]
