@@ -480,7 +480,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,GoldAxe,fall","shipping,mushrooms"],
+					"access_rules":["shipping,SteelAxe,fall","shipping,mushrooms"],
 					"visibility_rules": ["719719","shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],				
 					"map_locations":[
                       {
@@ -578,7 +578,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,GoldAxe","shipping,fall","shipping,mushrooms"],
+					"access_rules":["shipping,spring,SteelAxe","shipping,fall","shipping,mushrooms"],
 					"visibility_rules": ["719722","shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1166,7 +1166,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,GoldAxe","shipping,mushrooms"],
+					"access_rules":["shipping,spring,SteelAxe","shipping,mushrooms"],
 					"visibility_rules": ["719732","shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1610,7 +1610,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,GoldAxe","shipping,fall,GoldAxe","shipping,mushrooms","shipping,e80"],
+					"access_rules":["shipping,summer,SteelAxe","shipping,fall,SteelAxe","shipping,mushrooms","shipping,e80"],
 					"visibility_rules": ["719736","shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"],			
 					"map_locations":[
                       {
