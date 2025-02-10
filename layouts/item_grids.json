@@ -10,7 +10,7 @@
                 "rows":[
 		    ["translator","sewerkey","clubcard","skullkey","notes","darktalisman","townkey",""],
 		    ["stocklist","pack","plane","elevator","stardrop","luck","movement"],
-                    [],
+                    ["queenofsauce"],
                     ["","farming","mining","foraging","fishing","combat"],
                     ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]
                 ]

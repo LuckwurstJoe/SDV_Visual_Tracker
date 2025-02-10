@@ -89,5 +89,11 @@
       "location_border_thickness": 3,
       "img": "images/Arcades.png"
     },
+	{
+      "name": "Cooksanity",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Cooksanity.png"
+    }
 
   ]

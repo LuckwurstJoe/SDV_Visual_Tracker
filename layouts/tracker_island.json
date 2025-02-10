@@ -144,7 +144,7 @@
                                 "type": "tabbed",
 								"tabs": [
 									{
-									"title": "Crops and Foraged Items",
+									"title": "Crops & Foraged Items",
 									"content":{
 										"type": "map",
 										"maps":["Crops and Foraged Items"]
@@ -194,17 +194,10 @@
 										},
 									},
 									{
-										"title": "Cooking",
+										"title": "Chef- & Cooksanity",
 										"content":{
 											"type": "map",
-											"maps":["leer"]
-										},
-									},
-									{
-										"title": "Chefsanity",
-										"content":{
-											"type": "map",
-											"maps":["leer"]
+											"maps":["Cooksanity"]
 										},
 									},
 									{

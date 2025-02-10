@@ -20,7 +20,7 @@
         ]
      },
 	 {
-        "name": " Cropsanity",
+        "name": "Cropsanity",
         "type": "progressive",
         "loop": true,
         "capturable": false,
@@ -36,6 +36,56 @@
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
                 "codes": "cropsanity, cropsanity_on"
+            }
+        ]
+     },
+	 {
+        "name": "Cooksanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Autotracking.png",
+                "inherit_codes": false,
+                "codes": "cooksanity"
+            },
+			{
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "cooksanity, cooksanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "cooksanity, cooksanity_on"
+            }
+        ]
+     },
+	 {
+        "name": "Chefsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Autotracking.png",
+                "inherit_codes": false,
+                "codes": "chefsanity"
+            },
+			{
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_on"
             }
         ]
      },

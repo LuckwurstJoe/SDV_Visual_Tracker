@@ -778,7 +778,7 @@
         "codes": "dagger"
     },
 
-{
+    {
         "name": "Slingshot",
         "type": "consumable",
         "max_quantity": 2,
@@ -786,8 +786,49 @@
         "img": "images/Slingshot.png",
         "codes": "slingshot"
     },
-
-{
+	{
+        "name": "Weather Report",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "weatherreport"
+    },
+	    {
+        "name": "Fortune Teller",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "fortuneteller"
+    },
+	    {
+        "name": "Livin' Off The Land",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "livinoftheland"
+    },
+	    {
+        "name": "The Queen of Sauce",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "queenofsauce"
+    },
+    {
+        "name": "Fishing Information Broadcasting Service",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "fibs"
+    },
+	{
+        "name": "Sinister Signal",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/QoS.png",
+        "codes": "sinistersignal"
+    },
+    {
         "name": "Golden Walnut",
         "type": "consumable",
         "max_quantity": 148,

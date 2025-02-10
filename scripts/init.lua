@@ -8,6 +8,8 @@ Tracker:AddItems("items/festival_items.json")
 Tracker:AddItems("items/quests_items.json")
 Tracker:AddItems("items/arcade_items.json")
 Tracker:AddItems("items/shipsanity_items.json")
+Tracker:AddItems("items/cooksanity_items.json")
+Tracker:AddItems("items/recipes.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -24,6 +26,7 @@ Tracker:AddLocations("locations/Night_Market.json")
 Tracker:AddLocations("locations/Fishing_Festivals.json")
 Tracker:AddLocations("locations/Town_Festivals.json")
 Tracker:AddLocations("locations/Arcades.json")
+Tracker:AddLocations("locations/Cooksanity.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

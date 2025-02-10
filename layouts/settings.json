@@ -75,6 +75,28 @@
           },
 		  {
             "type": "group",
+            "header": " Chefsanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "chefsanity"
+              }
+            ]
+          },
+		  {
+            "type": "group",
+            "header": "Cooksanity",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "cooksanity"
+              }
+            ]
+          },
+		  {
+            "type": "group",
             "header": "Ginger Island",
             "header_background": "#3e4b57",
             "content": [

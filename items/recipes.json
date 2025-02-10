@@ -1,0 +1,488 @@
+[
+{
+    "name": "Algae Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "algaesouprecipe"
+},
+{
+    "name": "Artichoke Dip Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "artichokediprecipe"
+},
+{
+    "name": "Autumn's Bounty Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "autumnsbountyrecipe"
+},
+{
+    "name": "Baked Fish Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "bakedfishrecipe"
+},
+{
+    "name": "Banana Pudding Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "bananapuddingrecipe"
+},
+{
+    "name": "Bean Hotpot Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "beanhotpotrecipe"
+},
+{
+    "name": "Blackberry Cobbler Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "blackberrycobblerrecipe"
+},
+{
+    "name": "Blueberry Tart Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "blueberrytartrecipe"
+},
+{
+    "name": "Bread Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "breadrecipe"
+},
+{
+    "name": "Bruschetta Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "bruschettarecipe"
+},
+{
+    "name": "Carp Surprise Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "carpsurpriserecipe"
+},
+{
+    "name": "Cheese Cauliflower Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "cheesecauliflowerrecipe"
+},
+{
+    "name": "Chocolate Cake Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "chocolatecakerecipe"
+},
+{
+    "name": "Chowder Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "chowderrecipe"
+},
+{
+    "name": "Coleslaw Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "coleslawrecipe"
+},
+{
+    "name": "Complete Breakfast Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "completebreakfastrecipe"
+},
+{
+    "name": "Cookies Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "cookiesrecipe"
+},
+{
+    "name": "Crab Cakes Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "crabcakesrecipe"
+},
+{
+    "name": "Cranberry Candy Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "cranberrycandyrecipe"
+},
+{
+    "name": "Cranberry Sauce Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "cranberrysaucerecipe"
+},
+{
+    "name": "Crispy Bass Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "crispybassrecipe"
+},
+{
+    "name": "Dish O' The Sea Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "dishothesearecipe"
+},
+{
+    "name": "Eggplant Parmesan Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "eggplantparmesanrecipe"
+},
+{
+    "name": "Escargot Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "escargotrecipe"
+},
+{
+    "name": "Farmer's Lunch Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "farmerslunchrecipe"
+},
+{
+    "name": "Fiddlehead Risotto Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "fiddleheadrisottorecipe"
+},
+{
+    "name": "Fish Stew Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "fishstewrecipe"
+},
+{
+    "name": "Fish Taco Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "fishtacorecipe"
+},
+{
+    "name": "Fried Calamari Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "friedcalamarirecipe"
+},
+{
+    "name": "Fried Eel Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "friedeelrecipe"
+},
+{
+    "name": "Fried Egg Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "friedeggrecipe"
+},
+{
+    "name": "Fried Mushroom Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "friedmushroomrecipe"
+},
+{
+    "name": "Fruit Salad Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "fruitsaladrecipe"
+},
+{
+    "name": "Ginger Ale Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "gingeralerecipe"
+},
+{
+    "name": "Glazed Yams Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "glazedYamsrecipe"
+},
+{
+    "name": "Hashbrowns Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "hashbrownsrecipe"
+},
+{
+    "name": "Ice Cream Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "icecreamrecipe"
+},
+{
+    "name": "Lobster Bisque Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "lobsterbisquerecipe"
+},
+{
+    "name": "Lucky Lunch Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "luckylunchrecipe"
+},
+{
+    "name": "Maki Roll Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "makirollrecipe"
+},
+{
+    "name": "Mango Sticky Rice Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "mangostickyricerecipe"
+},
+{
+    "name": "Maple Bar Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "maplebarrecipe"
+},
+{
+    "name": "Miner's Treat Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "minerstreatrecipe"
+},
+{
+    "name": "Omelet Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "omeletrecipe"
+},
+{
+    "name": "Pale Broth Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "palebrothrecipe"
+},
+{
+    "name": "Pancakes Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pancakesrecipe"
+},
+{
+    "name": "Parsnip Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "parsnipsouprecipe"
+},
+{
+    "name": "Pepper Poppers Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pepperpoppersrecipe"
+},
+{
+    "name": "Pink Cake Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pinkcakerecipe"
+},
+{
+    "name": "Pizza Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pizzarecipe"
+},
+{
+    "name": "Plum Pudding Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "plumpuddingrecipe"
+},
+{
+    "name": "Poi Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "poirecipe"
+},
+{
+    "name": "Poppyseed Muffin Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "poppyseedmuffinrecipe"
+},
+{
+    "name": "Pumpkin Pie Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pumpkinpierecipe"
+},
+{
+    "name": "Pumpkin Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "pumpkinsouprecipe"
+},
+{
+    "name": "Radish Salad Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "radishsaladrecipe"
+},
+{
+    "name": "Red Plate Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "redplaterecipe"
+},
+{
+    "name": "Rhubarb Pie Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "rhubarbpierecipe"
+},
+{
+    "name": "Rice Pudding Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "ricepuddingrecipe"
+},
+{
+    "name": "Roasted Hazelnuts Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "roastedhazelnutsrecipe"
+},
+{
+    "name": "Roots Platter Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "rootsplatterrecipe"
+},
+{
+    "name": "Salad Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "saladrecipe"
+},
+{
+    "name": "Salmon Dinner Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "salmondinnerrecipe"
+},
+{
+    "name": "Sashimi Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "sashimirecipe"
+},
+{
+    "name": "Seafoam Pudding Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "seafoampuddingrecipe"
+},
+{
+    "name": "Shrimp Cocktail Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "shrimpcocktailrecipe"
+},
+{
+    "name": "Spaghetti Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "spaghettirecipe"
+},
+{
+    "name": "Spicy Eel Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "spicyeelrecipe"
+},
+{
+    "name": "Squid Ink Ravioli Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "squidinkraviolirecipe"
+},
+{
+    "name": "Stir Fry Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "stirfryrecipe"
+},
+{
+    "name": "Strange Bun Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "strangebunrecipe"
+},
+{
+    "name": "Stuffing Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "stuffingrecipe"
+},
+{
+    "name": "Super Meal Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "supermealrecipe"
+},
+{
+    "name": "Survival Burger Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "survivalburgerrecipe"
+},
+{
+    "name": "Tom Kha Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "tomkhasouprecipe"
+},
+{
+    "name": "Tortilla Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "tortillarecipe"
+},
+{
+    "name": "Triple Shot Espresso Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "tripleshotespressorecipe"
+},
+{
+    "name": "Tropical Curry Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "tropicalcurryrecipe"
+},
+{
+    "name": "Trout Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "troutsouprecipe"
+},
+{
+    "name": "Vegetable Medley Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "vegetablemedleyrecipe"
+},
+{
+    "name": "Moss Soup Recipe",
+    "type": "toggle",
+    "allow_disabled": true,
+    "codes": "mosssouprecipe"
+}
+]
