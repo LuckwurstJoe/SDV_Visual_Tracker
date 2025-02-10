@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.5.3",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.2/stardew_valley_randomizer.zip",
+			"sha256": "cfaf00423f291345cbf11b607df13bfb4bf746a84d2df7a4f9027ce3ccf16c05",
+			"changelog": [
+				"Added Chef- and Cooksanity",
+				"Added basic access rules for this new tab"
+			]
+		},
+		{
 			"package_version": "1.5.2",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.2/stardew_valley_randomizer.zip",
 			"sha256": "cb2e56e8b3ebd05a97ba8769218b02b8a9f701a091f78567aed338fceac0051a",
