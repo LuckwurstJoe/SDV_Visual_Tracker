@@ -39,6 +39,26 @@
             }
         ]
      },
+     {
+        "name": "Skill Shuffle",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "stages":[
+            {
+                "img": "images/settings/skills.jpg",
+                "inherit_codes": false,
+                "codes": "sshuffle, sshuffle_on"
+            },
+            {
+                "img": "images/settings/mastery.jpg",
+                "inherit_codes": false,
+                "codes": "sshuffle, sshuffle_mastery"
+            }
+        ]
+     },
 	 {
         "name": "Cooksanity",
         "type": "progressive",

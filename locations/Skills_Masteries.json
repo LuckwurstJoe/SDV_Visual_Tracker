@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Skills_Masteries",
+        "children":[
+            {
+                "name": "Farming Levels",
+                "visibility_rules": ["sshuffle_on, sshuffle_mastery"],
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills_Masteries",
+                        "x": 15,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Mining Levels",
+                "visibility_rules": ["sshuffle_on, sshuffle_mastery"],
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills_Masteries",
+                        "x": 15,
+                        "y": 110
+                    }
+                ]
+            },
+            {
+                "name": "Foraging Levels",
+                "visibility_rules": ["sshuffle_on, sshuffle_mastery"],
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills_Masteries",
+                        "x": 15,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Fishing Levels",
+                "visibility_rules": ["sshuffle_on, sshuffle_mastery"],
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills_Masteries",
+                        "x": 15,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Combat Levels",
+                "visibility_rules": ["sshuffle_on, sshuffle_mastery"],
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills_Masteries",
+                        "x": 15,
+                        "y": 300
+                    }
+                ]
+            }   
+            
+        ]
+    }
+]

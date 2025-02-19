@@ -6,6 +6,12 @@
       "img": "images/MapWorld.png"
     },
     {
+      "name": "Skills_Masteries",
+      "location_size": 10,
+      "location_border_thickness": 3,
+      "img": "images/Skills.png"
+    },
+    {
       "name": "Community Center",
       "location_size": 30,
       "location_border_thickness": 3,

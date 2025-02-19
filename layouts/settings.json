@@ -29,6 +29,17 @@
               }
             ]
           },
+          {
+            "type": "group",
+            "header": "Skill Shuffle",
+            "header_background": "#3e4b57",
+            "content": [
+              {
+                "type": "item",
+                "item": "sshuffle"
+              }
+            ]
+          },
 		  {
             "type": "group",
             "header": "Museumsanity",
