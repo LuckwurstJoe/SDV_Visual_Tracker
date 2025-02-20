@@ -1,6 +1,7 @@
 [
     {
         "name":"Skills_Masteries",
+        "visibility_rules":["sshuffle_prog"],
         "children":[
             {
                 "name": "Farming",
@@ -8,8 +9,7 @@
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10,
-                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                        "item_count": 10
                     },
                     {
                         "name": "Mastery",
@@ -33,8 +33,7 @@
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10,
-                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                        "item_count": 10
                     },
                     {
                         "name": "Mastery",
@@ -58,8 +57,7 @@
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10,
-                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                        "item_count": 10
                     },
                     {
                         "name": "Mastery",
@@ -84,8 +82,7 @@
                         "name": "Levels 1-10",
                         "clear_as_group": false,
                         "item_count": 10,
-                        "access_rules": ["$can_fish"],
-                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                        "access_rules": ["$can_fish"]
                     },
                     {
                         "name": "Mastery",
@@ -110,8 +107,7 @@
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10,
-                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                        "item_count": 10
                     },
                     {
                         "name": "Mastery",
