@@ -27,6 +27,7 @@ Tracker:AddLocations("locations/Fishing_Festivals.json")
 Tracker:AddLocations("locations/Town_Festivals.json")
 Tracker:AddLocations("locations/Arcades.json")
 Tracker:AddLocations("locations/Cooksanity.json")
+Tracker:AddLocations("locations/Skills_Masteries.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

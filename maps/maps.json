@@ -6,7 +6,7 @@
       "img": "images/MapWorld.png"
     },
     {
-      "name": "Skills_Masteries",
+      "name": "Skills And Masteries",
       "location_size": 10,
       "location_border_thickness": 3,
       "img": "images/Skills.png"
