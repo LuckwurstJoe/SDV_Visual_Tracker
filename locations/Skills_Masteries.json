@@ -3,12 +3,20 @@
         "name":"Skills_Masteries",
         "children":[
             {
-                "name": "Farming Levels",
+                "name": "Farming",
                 "sections":[
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10
+                        "item_count": 10,
+                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
                     }
                 ],
                 "map_locations":[
@@ -20,12 +28,20 @@
                 ]
             },
             {
-                "name": "Mining Levels",
+                "name": "Mining",
                 "sections":[
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10
+                        "item_count": 10,
+                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
                     }
                 ],
                 "map_locations":[
@@ -37,12 +53,20 @@
                 ]
             },
             {
-                "name": "Foraging Levels",
+                "name": "Foraging",
                 "sections":[
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10
+                        "item_count": 10,
+                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
                     }
                 ],
                 "map_locations":[
@@ -54,13 +78,21 @@
                 ]
             },
             {
-                "name": "Fishing Levels",
+                "name": "Fishing",
                 "sections":[
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
                         "item_count": 10,
-                        "access_rules": ["$can_fish"]
+                        "access_rules": ["$can_fish"],
+                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
                     }
                 ],
                 "map_locations":[
@@ -72,13 +104,21 @@
                 ]
             },
             {
-                "name": "Combat Levels",
+                "name": "Combat",
               
                 "sections":[
                     {
                         "name": "Levels 1-10",
                         "clear_as_group": false,
-                        "item_count": 10
+                        "item_count": 10,
+                        "visibility_rules":["sshuffle_on","sshuffle_mastery"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
                     }
                 ],
                 "map_locations":[
