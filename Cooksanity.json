@@ -1,0 +1,3977 @@
+[
+    {
+        "name": "Cooksanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "Algae Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720201","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719472","shipsanity_all"],	
+					"access_rules": ["shipping,kitchen"],					
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Artichoke Dip",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720202","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719473","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Autumn's Bounty",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720203","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719474","shipsanity_all"],				
+					"access_rules": ["shipping,kitchen"],					
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Baked Fish",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720204","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719475","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Banana Pudding",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720205","cooksanity_on"],
+					"access_rules": ["kitchen,island,turtlen,trader"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719931","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,island,turtlen,trader"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bean Hotpot",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720206","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719476","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Blackberry Cobbler",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720207","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719477","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Blueberry Tart",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720208","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719478","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bread",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720209","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719479","shipsanity_all"],
+					"access_rules": ["shipping"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bruschetta",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720210","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719480","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Carp Surprise",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720211","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719481","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cheese Cauliflower",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720212","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 175,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719482","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 208,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chocolate Cake",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720213","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719483","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Chowder",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720214","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719484","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Coleslaw",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720215","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719485","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Complete Breakfast",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720216","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719486","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cookies",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720217","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719487","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Crab Cakes",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720218","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719488","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cranberry Candy",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720219","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719489","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Cranberry Sauce",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720220","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719490","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Crispy Bass",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720221","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719491","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dish O' The Sea",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720222","cooksanity_on"],
+					"access_rules": ["kitchen,fishing:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719492","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Eggplant Parmesan",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720223","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719493","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Escargot",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720224","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 403,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719494","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 436,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Farmer's Lunch",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720225","cooksanity_on"],
+					"access_rules": ["kitchen,farming:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719495","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,farming:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fiddlehead Risotto",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720226","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719496","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fish Stew",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720227","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719497","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fish Taco",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720228","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719498","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fried Calamari",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720229","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719499","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fried Eel",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720230","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719500","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fried Egg",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720231","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719501","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fried Mushroom",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720232","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719502","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Fruit Salad",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720233","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719503","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ginger Ale",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720234","cooksanity_on"],
+					"access_rules": ["kitchen,island,turtlen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719932","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,island,turtlen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Glazed Yams",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720235","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719504","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Hashbrowns",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720236","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 631,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719505","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 664,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ice Cream",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720237","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719506","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Lobster Bisque",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720238","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719507","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Lucky Lunch",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720239","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719508","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Maki Roll",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720240","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719509","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Mango Sticky Rice",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720241","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719933","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Maple Bar",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720242","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719510","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Miner's Treat",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720243","cooksanity_on"],
+					"access_rules": ["kitchen,mining:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719511","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,mining:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Moss Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720281","cooksanity_on"],
+					"access_rules": ["kitchen,foraging:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720865","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,foraging:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Omelet",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720244","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719512","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pale Broth",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720245","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719513","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pancakes",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720246","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719514","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Parsnip Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720247","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 859,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719515","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 892,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pepper Poppers",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720248","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719516","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pink Cake",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720249","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719517","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pizza",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720250","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719518","shipsanity_all"],
+					"access_rules": ["shipping"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Plum Pudding",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720251","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719519","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Poi",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720252","cooksanity_on"],
+					"access_rules": ["kitchen,island"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719935","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,island"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Poppyseed Muffin",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720253","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719520","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pumpkin Pie",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720254","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719521","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Pumpkin Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720255","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719522","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Radish Salad",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720256","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719523","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Red Plate",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720257","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719524","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rhubarb Pie",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720258","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719525","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Rice Pudding",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720259","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1087,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719526","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1120,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Roasted Hazelnuts",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720260","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719527","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,summer"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Roots Platter",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720261","cooksanity_on"],
+					"access_rules": ["kitchen,combat:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719528","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,combat:3"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Salad",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720262","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719529","shipsanity_all"],
+					"access_rules": ["shipping"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Salmon Dinner",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720263","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719530","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Sashimi",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720264","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719531","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Seafoam Pudding",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720265","cooksanity_on"],
+					"access_rules": ["kitchen,fishing:9"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719532","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,fishing:9"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Shrimp Cocktail",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720266","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719533","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,winter"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Spaghetti",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720267","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719534","shipsanity_all"],
+					"access_rules": ["shipping"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Spicy Eel",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720268","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719535","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Squid Ink Ravioli",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720269","cooksanity_on"],
+					"access_rules": ["kitchen,combat:9"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 441
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719536","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,combat:9"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 441
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Stir Fry",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720270","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 485
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719537","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,spring"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 485
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Strange Bun",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720271","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1315,
+                        "y": 529
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719538","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1348,
+                        "y": 529
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Stuffing",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720272","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 45
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719539","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 45
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Super Meal",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720273","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 89
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719540","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 89
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Survival Burger",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720274","cooksanity_on"],
+					"access_rules": ["kitchen,foraging:8"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 133
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719541","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,foraging:8"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 133
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tom Kha Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720275","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 177
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719542","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 177
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tortilla",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720276","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 221
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719543","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 221
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Triple Shot Espresso",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720277","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 265
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719544","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 265
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Tropical Curry",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720278","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 309
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719936","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 309
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Trout Soup",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720279","cooksanity_on"],
+					"access_rules": ["kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 353
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719545","shipsanity_all"],
+					"access_rules": ["shipping,kitchen,queenofsauce,fall"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 353
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Vegetable Medley",
+				"children":[
+				{
+					"name": "Cooked",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720280","cooksanity_on"],
+					"access_rules": ["kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1543,
+                        "y": 397
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["719546","shipsanity_all"],
+					"access_rules": ["shipping,kitchen"],
+					"map_locations":[
+                      {
+                        "map":"Cooksanity",
+                        "x": 1576,
+                        "y": 397
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Algae Soup Recipe",
+                "sections":[
+                    {
+                        "name": "Clint - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720301"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Artichoke Dip Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Fall, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720302"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Autumn's Bounty Recipe",
+                "sections":[
+                    {
+                        "name": "Demetrius - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720303"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Baked Fish Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Summer, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720304"],
+						"access_rules": ["queenofsauce,summer"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Banana Pudding Recipe",
+                "sections":[
+                    {
+                        "name": "Island Trader",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720305"],
+						"access_rules": ["island,turtlen,trader"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Bean Hotpot Recipe",
+                "sections":[
+                    {
+                        "name": "Clint - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720306"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Blackberry Cobbler Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Fall, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720307"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Blueberry Tart Recipe",
+                "sections":[
+                    {
+                        "name": "Pierre - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720308"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Bread Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Summer, Year 1 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720309"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Bruschetta Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Winter, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720310"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Carp Surprise Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Summer, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720311"],
+						"access_rules": ["queenofsauce,summer"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Cheese Cauliflower Recipe",
+                "sections":[
+                    {
+                        "name": "Pam - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720312"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 142,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Chocolate Cake Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Winter, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720313"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Chowder Recipe",
+                "sections":[
+                    {
+                        "name": "Willy - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720314"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Coleslaw Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Spring, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720315"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Complete Breakfast Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Spring, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720316"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Cookies Recipe",
+                "sections":[
+                    {
+                        "name": "Evelyn - 4 Heart Event",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720317"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Crab Cakes Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Fall, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720318"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Cranberry Candy Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Winter, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720319"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Cranberry Sauce Recipe",
+                "sections":[
+                    {
+                        "name": "Gus - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720320"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Crispy Bass Recipe",
+                "sections":[
+                    {
+                        "name": "Kent - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720321"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Dish O' The Sea Recipe",
+                "sections":[
+                    {
+                        "name": "Fishing Level 3",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720322"],
+						"access_rules": ["fishing:3"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Eggplant Parmesan Recipe",
+                "sections":[
+                    {
+                        "name": "Lewis - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720323"],
+						"access_rules": [""],						
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Escargot Recipe",
+                "sections":[
+                    {
+                        "name": "Willy - 5 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720324"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 370,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Farmer's Lunch Recipe",
+                "sections":[
+                    {
+                        "name": "Farming Level 3",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720325"],
+						"access_rules": ["farming:3"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Fiddlehead Risotto Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Fall, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720326"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Fish Stew Recipe",
+                "sections":[
+                    {
+                        "name": "Willy - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720327"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Fish Taco Recipe",
+                "sections":[
+                    {
+                        "name": "Linus - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720328"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Fried Calamari Recipe",
+                "sections":[
+                    {
+                        "name": "Jodi - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720329"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Fried Eel Recipe",
+                "sections":[
+                    {
+                        "name": "George - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720330"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Fried Egg Recipe",
+                "sections":[
+                    {
+                        "name": "Starter",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720331"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Fried Mushroom Recipe",
+                "sections":[
+                    {
+                        "name": "Demetrius - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720332"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Fruit Salad Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Fall, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720333"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Ginger Ale Recipe",
+                "sections":[
+                    {
+                        "name": "Volcano Dwarf Shop",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720334"],
+						"access_rules": ["island,turtlen"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Glazed Yams Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Fall, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720335"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Hashbrowns Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Spring, Year 2 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720336"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 598,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Ice Cream Recipe",
+                "sections":[
+                    {
+                        "name": "Jodi - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720337"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Lobster Bisque Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Winter, Year 2 OR Willy - 9 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720338"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Lucky Lunch Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Spring, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720339"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Maki Roll Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Summer, Year 1 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720340"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 177
+                    }
+                ]
+            },{
+                "name": "Mango Sticky Rice Recipe",
+                "sections":[
+                    {
+                        "name": "Leo - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720341"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Maple Bar Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Summer, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720342"],
+						"access_rules": ["queenofsauce,summer"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Miner's Treat Recipe",
+                "sections":[
+                    {
+                        "name": "Mining Level 3",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720343"],
+						"access_rules": ["mining:3"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Omelet Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Spring, Year 1 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720344"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Pale Broth Recipe",
+                "sections":[
+                    {
+                        "name": "Marnie - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720345"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Pancakes Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Summer, Year 1 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720346"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Parsnip Soup Recipe",
+                "sections":[
+                    {
+                        "name": "Caroline - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720347"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Pepper Poppers Recipe",
+                "sections":[
+                    {
+                        "name": "Shane - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720348"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Pink Cake Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Summer, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720349"],
+						"access_rules": ["queenofsauce,summer"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Pizza Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Spring, Year 2 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720350"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Plum Pudding Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Winter, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720351"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Poi Recipe",
+                "sections":[
+                    {
+                        "name": "Leo - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720352"],
+						"access_rules": ["island"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Poppyseed Muffin Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Winter, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720353"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Pumpkin Pie Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Winter, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720354"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Pumpkin Soup Recipe",
+                "sections":[
+                    {
+                        "name": "Robin - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720355"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Radish Salad Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 21 Spring, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720356"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Red Plate Recipe",
+                "sections":[
+                    {
+                        "name": "Emily - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720357"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Rhubarb Pie Recipe",
+                "sections":[
+                    {
+                        "name": "Marnie - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720358"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Rice Pudding Recipe",
+                "sections":[
+                    {
+                        "name": "Evelyn - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720359"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1054,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Roasted Hazelnuts Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Summer, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720360"],
+						"access_rules": ["queenofsauce,summer"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Roots Platter Recipe",
+                "sections":[
+                    {
+                        "name": "Combat Level 3",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720361"],
+						"access_rules": ["combat:3"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Salad Recipe",
+                "sections":[
+                    {
+                        "name": "Emily - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720362"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Salmon Dinner Recipe",
+                "sections":[
+                    {
+                        "name": "Gus - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720363"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Sashimi Recipe",
+                "sections":[
+                    {
+                        "name": "Linus - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720364"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Seafoam Pudding Recipe",
+                "sections":[
+                    {
+                        "name": "Fishing Level 9",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720365"],
+						"access_rules": ["fishing:9"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Shrimp Cocktail Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 28 Winter, Year 2",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720366"],
+						"access_rules": ["queenofsauce,winter"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Spaghetti Recipe",
+                "sections":[
+                    {
+                        "name": "Lewis - 3 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720367"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Spicy Eel Recipe",
+                "sections":[
+                    {
+                        "name": "George - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720368"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Squid Ink Ravioli Recipe",
+                "sections":[
+                    {
+                        "name": "Combat Level 9",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720369"],
+						"access_rules": ["combat:9"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 441
+                    }
+                ]
+            },
+			{
+                "name": "Stir Fry Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Spring, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720370"],
+						"access_rules": ["queenofsauce,spring"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 485
+                    }
+                ]
+            },
+			{
+                "name": "Strange Bun Recipe",
+                "sections":[
+                    {
+                        "name": "Shane - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720371"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1282,
+                        "y": 529
+                    }
+                ]
+            },
+			{
+                "name": "Stuffing Recipe",
+                "sections":[
+                    {
+                        "name": "Pam - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720372"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 45
+                    }
+                ]
+            },
+			{
+                "name": "Super Meal Recipe",
+                "sections":[
+                    {
+                        "name": "Kent - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720373"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 89
+                    }
+                ]
+            },
+			{
+                "name": "Survival Burger Recipe",
+                "sections":[
+                    {
+                        "name": "Foraging Level 8",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720374"],
+						"access_rules": ["foraging:8"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 133
+                    }
+                ]
+            },
+			{
+                "name": "Tom Kha Soup Recipe",
+                "sections":[
+                    {
+                        "name": "Sandy - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720375"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 177
+                    }
+                ]
+            },
+			{
+                "name": "Tortilla Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 7 Fall, Year 1 OR Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720376"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 221
+                    }
+                ]
+            },
+			{
+                "name": "Triple Shot Espresso Recipe",
+                "sections":[
+                    {
+                        "name": "Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720377"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 265
+                    }
+                ]
+            },
+			{
+                "name": "Tropical Curry Recipe",
+                "sections":[
+                    {
+                        "name": "Saloon",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720378"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 309
+                    }
+                ]
+            },
+			{
+                "name": "Trout Soup Recipe",
+                "sections":[
+                    {
+                        "name": "QoS - 14 Fall, Year 1",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720379"],
+						"access_rules": ["queenofsauce,fall"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 353
+                    }
+                ]
+            },
+			{
+                "name": "Vegetable Medley Recipe",
+                "sections":[
+                    {
+                        "name": "Caroline - 7 Hearts",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720380"],
+						"access_rules": [""],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 1510,
+                        "y": 397
+                    }
+                ]
+            },
+			{
+                "name": "Moss Soup Recipe",
+                "sections":[
+                    {
+                        "name": "Foraging Level 3",
+                        "item_count": 1,
+						"visibility_rules": ["chefsanity_on","720381"],
+						"access_rules": ["foraging:3"],
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Cooksanity",
+                        "x": 826,
+                        "y": 353
+                    }
+                ]
+            },
+        ]
+    }
+]
