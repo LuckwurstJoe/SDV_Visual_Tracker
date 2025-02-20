@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.5.4",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.3/stardew_valley_randomizer.zip",
+			"sha256": "cfaf00423f291345cbf11b607df13bfb4bf746a84d2df7a4f9027ce3ccf16c05",
+			"changelog": [
+				"Fixed access_rules at cooksanity and chefsanity"
+			]
+		},
+		{
 			"package_version": "1.5.3",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.5.3/stardew_valley_randomizer.zip",
 			"sha256": "cfaf00423f291345cbf11b607df13bfb4bf746a84d2df7a4f9027ce3ccf16c05",
