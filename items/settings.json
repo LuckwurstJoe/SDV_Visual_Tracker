@@ -43,24 +43,19 @@
         "name": "Skill Shuffle",
         "type": "progressive",
         "loop": true,
-        "codes": "sshuffle",
         "capturable": false,
         "allow_disabled": false,
         "initial_stage_idx": 0,
         "stages":[
             {
-                "inherit_codes": false,
-                "codes": "vanilla"
-            },
-            {
                 "img": "images/settings/skills.jpg",
                 "inherit_codes": false,
-                "codes": "progressive, sshuffle_prog"
+                "codes": "sshuffle, sshuffle_prog"
             },
             {
                 "img": "images/settings/mastery.jpg",
                 "inherit_codes": true,
-                "codes": "progressive_with_masteries, sshuffle_mastery"
+                "codes": "sshuffle, sshuffle_mastery"
             }
         ]
      },
