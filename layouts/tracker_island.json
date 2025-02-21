@@ -138,6 +138,13 @@
 								]
 							}
 						},
+			    			{
+                           				"title": "Skills and Masteries",
+                            				"content": {
+                                			"type": "map",
+                               				 "maps": ["Skills And Masteries"]
+                               				 }
+                        			},
 						{
 							"title": "Sanities",
 							"content":{
