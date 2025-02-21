@@ -50,6 +50,13 @@
                                 "maps": ["Stardew Valley"]
                                 }
                         },
+						{
+                            "title": "Skills and Masteries",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Skills And Masteries"]
+                                }
+                        },
                         {
                             "title": "Community Center",
                             "content": {
@@ -74,14 +81,14 @@
 										"content":{
 											"type": "map",
 											"maps":["Quests"]
-										},
+										}
 									},
 									{
 										"title": "Special Orders",
 										"content":{
 											"type": "map",
 											"maps":["Boards"]
-										},
+										}
 									},
 									{
 										"title": "Festivals",
@@ -93,39 +100,39 @@
 													"content":{
 													"type": "map",
 													"maps":["Town Festivals"]
-													},
+													}
 												},
 												{
 													"title": "Night Market",
 													"content":{
 													"type": "map",
 													"maps":["Night Market"]
-													},
+													}
 												},
 												{
 													"title": "Fishing Festivals",
 													"content":{
 													"type": "map",
 													"maps":["Fishing Festivals"]
-													},
+													}
 												},
 												{
 													"title": "Desert Festival",
 													"content":{
 													"type": "map",
 													"maps":["Desert Festival"]
-													},
-												},
+													}
+												}
 											]
-										},
+										}
 									},
 									{
 										"title": "Arcade Machines",
 										"content":{
 											"type": "map",
 											"maps":["Arcades"]
-										},
-									},
+										}
+									}
 								]
 							}
 						},
@@ -146,7 +153,7 @@
 										"content":{
 											"type": "map",
 											"maps":["Fishes"]
-										},
+										}
 									},
 									{
 									"title": "Museum",
@@ -165,8 +172,8 @@
 												"content":{
 													"type": "map",
 													"maps":["Museum_Milestones"]
-												},
-											},
+												}
+											}
 											]
 										}
 									},
@@ -175,32 +182,32 @@
 										"content":{
 											"type": "map",
 											"maps":["leer"]
-										},
+										}
 									},
 									{
 										"title": "Crafting",
 										"content":{
 											"type": "map",
 											"maps":["leer"]
-										},
+										}
 									},
 									{
 										"title": "Chef- & Cooksanity",
 										"content":{
 											"type": "map",
 											"maps":["Cooksanity"]
-										},
+										}
 									},
 									{
 										"title": "Booksanity",
 										"content":{
 											"type": "map",
 											"maps":["leer"]
-										},
-									},
+										}
+									}
 								]
 							}
-						},
+						}
                     ]
                 }
             ]

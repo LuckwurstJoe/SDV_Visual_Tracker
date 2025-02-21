@@ -1,0 +1,131 @@
+[
+    {
+        "name":"Skills_Masteries",
+        "visibility_rules":["sshuffle_prog"],
+        "children":[
+            {
+                "name": "Farming",
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 10,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Mining",
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 10,
+                        "y": 108
+                    }
+                ]
+            },
+            {
+                "name": "Foraging",
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 10,
+                        "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "Fishing",
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10,
+                        "access_rules": ["$can_fish"]
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 10,
+                        "y": 244
+                    }
+                ]
+            },
+            {
+                "name": "Combat",
+              
+                "sections":[
+                    {
+                        "name": "Levels 1-10",
+                        "clear_as_group": false,
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Mastery",
+                        "clear_as_group": false,
+                        "item_count": 1,
+                        "visibility_rules":["sshuffle_mastery"],
+                        "access_rules":["$can_get_mastery"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 10,
+                        "y": 312
+                    }
+                ]
+            }   
+            
+        ]
+    }
+]

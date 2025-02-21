@@ -232,44 +232,6 @@
                 ]   
             },
             {
-                "name": "Skill Levels",
-                "visibility_rules": ["sshuffle"],
-                "sections":[
-                    {
-                        "name": "Farming Levels",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Mining Levels",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Foraging Levels",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Fishing Levels",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Combat Levels",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Stardew Valley",
-                        "x": 290,
-                        "y": 235
-                    }
-                ]
-            },
-            {
                 "name": "Arcade Game Victories",
                 "visibility_rules": ["ashuffle"],
                 "sections":[

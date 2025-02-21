@@ -397,3 +397,7 @@ end
 function quests56()
     return has("quests",56)
 end
+
+function can_get_mastery()
+    return (has("farming",10) and has("mining",10) and has("foraging",10) and has("fishing",10) and has("combat",10) )
+end
