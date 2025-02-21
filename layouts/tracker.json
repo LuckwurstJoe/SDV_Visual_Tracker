@@ -50,13 +50,6 @@
                                 "maps": ["Stardew Valley"]
                                 }
                         },
-						{
-                            "title": "Skills and Masteries",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Skills And Masteries"]
-                                }
-                        },
                         {
                             "title": "Community Center",
                             "content": {
@@ -136,6 +129,13 @@
 								]
 							}
 						},
+			    			{
+                           				"title": "Skills and Masteries",
+                            				"content": {
+                                			"type": "map",
+                               				 "maps": ["Skills And Masteries"]
+                               				 }
+                        			},
 						{
 							"title": "Sanities",
 							"content":{
