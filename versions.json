@@ -3,7 +3,7 @@
 		{
 			"package_version": "1.6.0",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.6.0/stardew_valley_randomizer.zip",
-			"sha256": "c305cef92ac05c5d7580f0bbbd09ec9acdd5f24279bb1a0d7ddfdb4def2a0b7d",
+			"sha256": "ecb86902e3fc61404bd082ef57745b9f1d5c3e12d9787b4b883b6814daf1297b",
 			"changelog": [
 				"Added access_rules to Mail Quests",
 				"Added Skills and Masteries, provided by Ragmoa - Thank you very much!"
