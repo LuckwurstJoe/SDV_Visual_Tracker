@@ -29,11 +29,11 @@ function can_mine_copper()
 end
 
 function can_mine_iron()
-    return (has("SteelPick") or has("e40"))
+    return (has("CopperPick") or has("e40"))
 end
 
 function can_mine_gold()
-    return (has("GoldPick") or has("e80"))
+    return (has("CopperPick") or has("e80"))
 end
 
 function has_skull_key()
@@ -49,7 +49,7 @@ function can_access_island()
 end
 
 function can_mine_iridium()
-    return (has("IridiumPick") and ((can_access_desert() and has("skullkey")) or can_access_island()))
+    return (has("CopperPick") and ((can_access_desert() and has("skullkey")) or can_access_island()))
 end
 
 function can_fish()
@@ -61,11 +61,11 @@ function has_crab_pots()
 end
 
 function can_chop_stumps()
-    return has("CopperAxe")
+    return has("SteelAxe")
 end
 
 function can_chop_logs()
-    return has("SteelAxe")
+    return has("GoldAxe")
 end
 
 function has_coop()

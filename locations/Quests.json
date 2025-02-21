@@ -6,7 +6,7 @@
         "children":[
             {
                 "name": "Introductions",
-				"visibility_rules": ["717501"],
+		"visibility_rules": ["717501"],
                 "sections":[
                     {
                         "name": "Talk to the NPCs!",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "How to Win Friends",
-				"visibility_rules": ["717502"],
+		"visibility_rules": ["717502"],
                 "sections":[
                     {
                         "name": "Give anyone a gift",
@@ -40,7 +40,7 @@
             },
             {
                 "name": "Getting Started",
-				"visibility_rules": ["717503"],
+		"visibility_rules": ["717503"],
                 "sections": [
                     {
                         "name": "Cultivate and Harvest a Parsnip",
@@ -57,11 +57,11 @@
             },
             {
                 "name": "Raising Animals",
-				"visibility_rules": ["717504"],
+		"visibility_rules": ["717504"],
+		"access_rules":["$has_coop"],
                 "sections":[
                     {
                         "name": "Build a Coop",
-                        "access_rules":["$has_coop"],
                         "item_count": 1
                     }
                 ],
@@ -75,7 +75,7 @@
             },
             {
                 "name": "Archaeology",
-				"visibility_rules": ["717506"],
+		"visibility_rules": ["717506"],
                 "sections":[
                     {
                         "name": "Donate an item to the Museum",
@@ -92,10 +92,10 @@
             },
             {
                 "name": "Advancement",
-				"visibility_rules": ["717505"],
+		"visibility_rules": ["717505"],
+		"access_rules": ["$farming1"],
                 "sections":[
                   {
-                    "access_rules": [ "$farming1" ],
                     "item_count": 1,
                     "name": "Reach Farming 1 and build a Scarecrow"
                   }
@@ -110,7 +110,7 @@
             },
             {
                 "name": "Meet the Wizard",
-				"visibility_rules": ["717507"],
+		"visibility_rules": ["717507"],
                 "sections":[
                     {
                         "name": "Enter the Wizard's Tower",
@@ -127,7 +127,7 @@
             },
             {
                 "name": "Forging Ahead",
-				"visibility_rules": ["717508"],
+		"visibility_rules": ["717508"],
                 "sections":[
                     {
                         "name": "Craft a Furnace",
@@ -144,7 +144,7 @@
             },
             {
                 "name": "Smelting",
-				"visibility_rules": ["717509"],
+		"visibility_rules": ["717509"],
                 "sections":[
                     {
                         "name": "Smelt a Copper Bar",
@@ -161,7 +161,7 @@
             },
             {
                 "name": "Initiation",
-				"visibility_rules": ["717510"],
+		"visibility_rules": ["717510"],
                 "sections":[
                     {
                         "name": "Slay 10 green slimes",
@@ -178,7 +178,8 @@
             },
             {
                 "name": "Robin's Lost Axe",
-				"visibility_rules": ["717511"],
+		"visibility_rules": ["717511"],
+		"access_rules":["$spring"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -195,7 +196,8 @@
             },
             {
                 "name": "Jodi's Request",
-				"visibility_rules": ["717512"],
+		"visibility_rules": ["717512"],
+		"access_rules":["$spring"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -212,7 +214,7 @@
             },
             {
                 "name": "Mayor's 'Shorts'",
-				"visibility_rules": ["717513"],
+		"visibility_rules": ["717513"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -230,7 +232,7 @@
             },
             {
                 "name": "Blackberry Basket",
-				"visibility_rules": ["717514"],
+		"visibility_rules": ["717514"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -248,7 +250,7 @@
             },
             {
                 "name": "Marnie's Request",
-				"visibility_rules": ["717515"],
+		"visibility_rules": ["717515"],
                 "sections":[
                     {
                         "name": "Bring Marnie a Cave Carrot",
@@ -265,14 +267,11 @@
             },
             {
                 "name": "Pam is Thirsty",
-				"visibility_rules": ["717516"],
-                "access_rules":["$summer"],
+		"visibility_rules": ["717516"],
+                "access_rules":["$summer,$can_brew"],
                 "sections":[
                     {
                         "name": "Deliver it!",
-                        "access_rules":[
-                            "$can_brew"
-                        ],
                         "item_count":1
                     }
                 ],
@@ -286,7 +285,7 @@
             },
             {
                 "name": "A Dark Reagent",
-				"visibility_rules": ["717517"],
+		"visibility_rules": ["717517"],
                 "access_rules":["$winter"],
                 "sections":[
                     {
@@ -304,7 +303,7 @@
             },
             {
                 "name": "Cow's Delight",
-				"visibility_rules": ["717518"],
+		"visibility_rules": ["717518"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -322,10 +321,10 @@
             },
             {
                 "name": "The Skull Key",
-				"visibility_rules": ["717519"],
+		"visibility_rules": ["717519"],
+		"access_rules": ["$can_access_desert,$has_skull_key"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_access_desert,$has_skull_key" ],
                     "item_count": 1,
                     "name": "Unlock the Skull Cavern"
                   }
@@ -340,7 +339,7 @@
             },
             {
                 "name": "Crop Research",
-				"visibility_rules": ["717520"],
+		"visibility_rules": ["717520"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -358,7 +357,7 @@
             },
             {
                 "name": "Knee Therapy",
-				"visibility_rules": ["717521"],
+		"visibility_rules": ["717521"],
                 "access_rules":["$summer"],
                 "sections":[
                     {
@@ -376,10 +375,10 @@
             },
             {
                 "name": "Robin's Request",
-				"visibility_rules": ["717522"],
+		"visibility_rules": ["717522"],
+		"access_rules": ["$can_chop_stumps,$winter"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_chop_stumps,$winter" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -394,7 +393,7 @@
             },
             {
                 "name": "Qi's Challenge",
-				"visibility_rules": ["717523"],
+		"visibility_rules": ["717523"],
                 "sections":[
                   {
                     "access_rules": [ "$can_access_desert,$has_skull_key" ],
@@ -412,10 +411,10 @@
             },
             {
                 "name": "The Mysterious Qi",
-				"visibility_rules": ["717524"],
+		"visibility_rules": ["717524"],
+		"access_rules": ["$can_access_desert"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_access_desert" ],
                     "item_count": 1,
                     "name": "Follow Qi's Instructions"
                   }
@@ -430,7 +429,7 @@
             },
             {
                 "name": "Carving Pumpkins",
-				"visibility_rules": ["717525"],
+		"visibility_rules": ["717525"],
                 "access_rules":["$fall"],
                 "sections":[
                     {
@@ -448,7 +447,7 @@
             },
             {
                 "name": "A Winter Mystery",
-				"visibility_rules": ["717526"],
+		"visibility_rules": ["717526"],
                 "access_rules":["$winter"],
                 "sections":[
                     {
@@ -466,10 +465,10 @@
             },
             {
                 "name": "Strange Note",
-				"visibility_rules": ["717527"],
+		"visibility_rules": ["717527"],
+		"access_rules": ["$secret_notes,$can_chop_logs"],
                 "sections":[
                   {
-                    "access_rules": [ "$secret_notes,$can_chop_logs" ],
                     "item_count": 1,
                     "name": "Bring Maple Syrup to the Secret Woods"
                   }
@@ -484,10 +483,10 @@
             },
             {
                 "name": "Cryptic Note",
-				"visibility_rules": ["717528"],
+		"visibility_rules": ["717528"],
+		"access_rules": [ "$can_access_desert,$has_skull_key,$secret_notes" ],
                 "sections":[
                   {
-                    "access_rules": [ "$can_access_desert,$has_skull_key,$secret_notes" ],
                     "item_count": 1,
                     "name": "Reach Level 100 of the Skull Cavern"
                   }
@@ -502,7 +501,8 @@
             },
             {
                 "name": "Fresh Fruit",
-				"visibility_rules": ["717529"],
+		"visibility_rules": ["717529"],
+		"access_rules":["$spring"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -519,10 +519,10 @@
             },
             {
                 "name": "Aquatic Research",
-				"visibility_rules": ["717530"],
+		"visibility_rules": ["717530"],
+		"access_rules":["$summer,$can_fish"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_fish" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -537,10 +537,10 @@
             },
             {
                 "name": "A Soldier's Star",
-				"visibility_rules": ["717531"],
+		"visibility_rules": ["717531"],
+		"access_rules": ["$can_access_desert","$summer"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_access_desert","$summer" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -555,10 +555,10 @@
             },
             {
                 "name": "Mayor's Need",
-				"visibility_rules": ["717532"],
+		"visibility_rules": ["717532"],
+		"access_rules": ["$has_deluxe_barn,summer"],
                 "sections":[
                   {
-                    "access_rules": [ "$has_deluxe_barn" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -573,10 +573,10 @@
             },
             {
                 "name": "Wanted: Lobster",
-				"visibility_rules": ["717533"],
+		"visibility_rules": ["717533"],
+		"access_rules": ["$has_crab_pots","fall"],
                 "sections":[
                   {
-                    "access_rules": [ "$has_crab_pots" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -591,7 +591,8 @@
             },
             {
                 "name": "Pam Needs Juice",
-				"visibility_rules": ["717534"],
+		"visibility_rules": ["717534"],
+		"access_rules": ["fall"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -608,10 +609,10 @@
             },
             {
                 "name": "Fish Casserole",
-				"visibility_rules": ["717535"],
+		"visibility_rules": ["717535"],
+		"access_rules": [ "$can_fish" ],
                 "sections":[
                   {
-                    "access_rules": [ "$can_fish" ],
                     "item_count": 1,
                     "name": "Bring a Largemouth Bass to dinner"
                   }
@@ -626,10 +627,10 @@
             },
             {
                 "name": "Catch a Squid",
-				"visibility_rules": ["717536"],
+		"visibility_rules": ["717536"],
+		"access_rules": ["$can_fish,winter"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_fish" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -644,10 +645,10 @@
             },
             {
                 "name": "Fish Stew",
-				"visibility_rules": ["717537"],
+		"visibility_rules": ["717537"],
+		"access_rules": [ "$can_fish,winter" ],
                 "sections":[
                   {
-                    "access_rules": [ "$can_fish" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -662,10 +663,10 @@
             },
             {
                 "name": "Pierre's Notice",
-				"visibility_rules": ["717538"],
+		"visibility_rules": ["717538"],
+		"access_rules": ["$can_cook,spring"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_cook" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -680,7 +681,8 @@
             },
             {
                 "name": "Clint's Attempt",
-				"visibility_rules": ["717539"],
+		"visibility_rules": ["717539"],
+		"access_rules": ["winter"],
                 "sections":[
                     {
                       "item_count": 1,
@@ -697,7 +699,8 @@
             },
             {
                 "name": "A Favor for Clint",
-				"visibility_rules": ["717540"],
+		"visibility_rules": ["717540"],
+		"access_rules": ["winter"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -714,10 +717,10 @@
             },
             {
                 "name": "Staff of Power",
-				"visibility_rules": ["717541"],
+		"visibility_rules": ["717541"],
+		"access_rules": [ "$can_mine_iridium,winter" ],
                 "sections":[
                   {
-                    "access_rules": [ "$can_mine_iridium" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -732,7 +735,8 @@
             },
             {
                 "name": "Granny's Gift",
-				"visibility_rules": ["717542"],
+		"visibility_rules": ["717542"],
+		"access_rules": ["spring"],
                 "sections":[
                     {
                         "name": "Deliver it!",
@@ -749,13 +753,12 @@
             },
             {
                 "name": "Exotic Spirits",
-				"visibility_rules": ["717543"],
+		"visibility_rules": ["717543"],
+		"access_rules":["$can_access_desert","$can_access_island,winter"], 
                 "sections":[
                     {
                       "name": "Deliver it!",
-                      "access_rules":
-                        [ "$can_access_desert","$can_access_island"], 
-                        "item_count": 1
+                      "item_count": 1
                      }
                 ],
                 "map_locations":[
@@ -768,10 +771,10 @@
             },
             {
                 "name": "Catch a Lingcod",
-				"visibility_rules": ["717544"],
+		"visibility_rules": ["717544"],
+		"access_rules": ["$can_fish,winter"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_fish" ],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }

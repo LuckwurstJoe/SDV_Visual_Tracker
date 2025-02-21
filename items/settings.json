@@ -117,7 +117,7 @@
         "allow_disabled": false,
         "initial_stage_idx": 0,
         "stages": [
-	    {
+			{
                 "img": "images/settings/Autotracking.png",
                 "inherit_codes": false,
                 "codes": "board"
@@ -132,11 +132,11 @@
                 "inherit_codes": false,
                 "codes": "board_on"
             },
-			 {
+			{
                 "img": "images/settings/BoardQi.png",
                 "inherit_codes": false,
                 "codes": "board_qi"
-            },
+            }
         ]
      },
      {
@@ -147,7 +147,7 @@
         "img": "images/settings/HelpWanted.jpg",
         "codes": "settings,quests"
      },
-	{
+	 {
         "name": "Shipsanity",
         "type": "progressive",
         "loop": true,
@@ -165,22 +165,22 @@
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_crops"
             },
-	    {
+			{
                 "img": "images/settings/Fish.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_fish"
             },
-	    {
+			{
                 "img": "images/settings/Full.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_full"
             },
-	    {
+			{
                 "img": "images/settings/FullwF.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_fullwf"
             },
-	    {
+			{
                 "img": "images/settings/Everything.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_all"
@@ -209,7 +209,7 @@
                 "img": "images/settings/Milestones.png",
                 "inherit_codes": false,
                 "codes": "museumsanity, museum_milestone"
-            },
+            }
         ]
      },
 	 {
