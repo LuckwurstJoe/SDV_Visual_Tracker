@@ -11,6 +11,7 @@ Tracker:AddItems("items/shipsanity_items.json")
 Tracker:AddItems("items/cooksanity_items.json")
 Tracker:AddItems("items/recipes.json")
 Tracker:AddItems("items/skills_items.json")
+Tracker:AddItems("items/books_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -29,6 +30,7 @@ Tracker:AddLocations("locations/Town_Festivals.json")
 Tracker:AddLocations("locations/Arcades.json")
 Tracker:AddLocations("locations/Cooksanity.json")
 Tracker:AddLocations("locations/Skills_Masteries.json")
+Tracker:AddLocations("locations/Booksanity.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

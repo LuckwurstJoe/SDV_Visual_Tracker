@@ -1,6 +1,8 @@
 [
     {
         "name":"Skills_Masteries",
+		"chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
         "children":[
             {
                 "name": "Farming",

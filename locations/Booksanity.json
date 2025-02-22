@@ -1,0 +1,1020 @@
+[
+    {
+        "name": "Booksanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children":[
+            {
+                "name": "The Alleyway Buffet",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721013"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 48
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720839"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 48
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Animal Catalogue",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721019"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 96
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720854"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 96
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "The Art O' Crabbing",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721012"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 144
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720840"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 144
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Book of Mysteries",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721015"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 192
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720853"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 192
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "The Diamond Hunter",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721014"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720852"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Dwarvish Safety Manual",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721011"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 288
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720841"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 288
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Friendship 101",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721006"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 336
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720846"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 336
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Horse: The Book",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721016"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 384
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720862"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 384
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Jack Be Nimble, Jack Be Thick",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721007"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 432
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720845"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 432
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Jewels Of The Sea",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721010"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720842"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Mapping Cave Systems",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721002"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 528
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720849"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 528
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Monster Compendium",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721005"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 576
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720847"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 576
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Ol' Slitherlegs",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721018"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 169,
+                        "y": 624
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720866"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 205,
+                        "y": 624
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Price Catalogue",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721001"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 48
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720850"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 48
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Raccoon Journal",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721009"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 96
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720843"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 96
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Treasure Appraisal Guide",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721017"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 144
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720861"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 144
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Way Of The Wind pt. 1",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721003"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 192
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720848"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 192
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Way Of The Wind pt. 2",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721004"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 240
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720855"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 240
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Woody's Secret",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721008"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 288
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720844"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 288
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Bait And Bobber",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721031"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 336
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720836"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 336
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Book Of Stars",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721032"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 384
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720833"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 384
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Combat Quarterly",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721033"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 432
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720838"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 432
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Mining Monthly",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721034"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 480
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720837"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 480
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Queen Of Sauce Cookbook",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721035"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 528
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720851"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 528
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Stardew Valley Almanac",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721036"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 576
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720834"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 576
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Woodcutter's Weekly",
+				"children":[
+				{
+					"name": "Read",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721037"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 395,
+                        "y": 624
+                      }
+                    ]
+				},
+				{
+					"name": "Shipped",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["720835"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 431,
+                        "y": 624
+                      }
+                    ]
+				}
+				]
+            },
+			{
+                "name": "Lost Book",
+				"children":[
+				{
+					"name": "Tips on Farming",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721051"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 550
+                      }
+                    ]
+				},
+				{
+					"name": "This is a book by Marnie",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721052"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 500
+                      }
+                    ]
+				},
+				{
+					"name": "On Foraging",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721053"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 450
+                      }
+                    ]
+				},
+				{
+					"name": "The Fisherman, Act 1",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721054"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 400
+                      }
+                    ]
+				},
+				{
+					"name": "How Deep do the mines go?",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721055"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "An Old Farmer's Journal",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721056"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 532,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Scarecrows",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721057"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 577,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "The Secret of the Stardrop",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721058"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 622,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Journey of the Prairie King - The Smash Hit Video Game!",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721059"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 667,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "A Study on Diamond Yields",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721060"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 777,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Brewmaster's Guide",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721061"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 822,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Mysteries of the Dwarves",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721062"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 867,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Highlights From The Book of Yoba",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721063"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 957,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Marriage Guide for Farmers",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721064"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 1002,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "The Fisherman, Act II",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721065"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 1047,
+                        "y": 150
+                      }
+                    ]
+				},
+				{
+					"name": "Technology Report!",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721066"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 577,
+                        "y": 342
+                      }
+                    ]
+				},
+				{
+					"name": "Secrets of the Legendary Fish",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721067"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 622,
+                        "y": 342
+                      }
+                    ]
+				},
+				{
+					"name": "Gunther Tunnel Notice",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721068"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 667,
+                        "y": 342
+                      }
+                    ]
+				},
+				{
+					"name": "Note From Gunther",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721069"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 350
+                      }
+                    ]
+				},
+				{
+					"name": "Goblins by M. Jasper",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721070"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 300
+                      }
+                    ]
+				},
+				{
+					"name": "Secret Statues Acrostics",
+					"sections": [{"item_count": 1}],
+					"visibility_rules": ["721071"],
+					"map_locations":[
+                      {
+                        "map":"Booksanity",
+                        "x": 485,
+                        "y": 250
+                      }
+                    ]
+				}
+				]
+            },
+        ]
+    }
+]

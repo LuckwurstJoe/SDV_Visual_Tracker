@@ -319,6 +319,7 @@
                     }
                 ],
 				"visibility_rules": ["719158","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -336,6 +337,7 @@
                     }
                 ],
 				"visibility_rules": ["719157","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -353,6 +355,7 @@
                     }
                 ],
 				"visibility_rules": ["719153","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -370,6 +373,7 @@
                     }
                 ],
 				"visibility_rules": ["719152","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -387,6 +391,7 @@
                     }
                 ],
 				"visibility_rules": ["719151","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -404,6 +409,7 @@
                     }
                 ],
 				"visibility_rules": ["719155","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -421,6 +427,7 @@
                     }
                 ],
 				"visibility_rules": ["719154","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -438,6 +445,7 @@
                     }
                 ],
 				"visibility_rules": ["719156","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -455,6 +463,7 @@
                     }
                 ],
 				"visibility_rules": ["719160","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -472,6 +481,7 @@
                     }
                 ],
 				"visibility_rules": ["719159","board_qi,island_tracking_on"],
+				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
                         "map":"Boards",
