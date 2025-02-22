@@ -10,6 +10,7 @@ Tracker:AddItems("items/arcade_items.json")
 Tracker:AddItems("items/shipsanity_items.json")
 Tracker:AddItems("items/cooksanity_items.json")
 Tracker:AddItems("items/recipes.json")
+Tracker:AddItems("items/skills_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 

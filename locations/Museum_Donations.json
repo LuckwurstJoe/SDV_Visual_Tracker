@@ -1663,19 +1663,19 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
+					"visibility_rules": ["718218"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
                         "x": 819,
                         "y": 637,
-						"visibility_rules": ["718218","museum_donation"],
-						"force_invisibility_rules": ["museum_milestone","museum_off"],
+						//"force_invisibility_rules": ["museum_milestone","museum_off"],
                       },
 					  {
                         "map":"Museum_Milestones",
                         "x": 60,
                         "y": 337,
-						"restrict_visibility_rules": ["museum_milestone"],
+						//"restrict_visibility_rules": ["museum_milestone"],
 						}
                     ]
 				},

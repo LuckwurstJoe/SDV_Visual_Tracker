@@ -1,131 +1,343 @@
 [
     {
         "name":"Skills_Masteries",
-        "visibility_rules":["sshuffle_prog"],
         "children":[
             {
                 "name": "Farming",
-                "sections":[
-                    {
-                        "name": "Levels 1-10",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Mastery",
-                        "clear_as_group": false,
-                        "item_count": 1,
-                        "visibility_rules":["sshuffle_mastery"],
-                        "access_rules":["$can_get_mastery"]
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Skills And Masteries",
-                        "x": 10,
-                        "y": 40
-                    }
-                ]
-            },
-            {
-                "name": "Mining",
-                "sections":[
-                    {
-                        "name": "Levels 1-10",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Mastery",
-                        "clear_as_group": false,
-                        "item_count": 1,
-                        "visibility_rules":["sshuffle_mastery"],
-                        "access_rules":["$can_get_mastery"]
-                    }
-                ],
-                "map_locations":[
-                    {
-                        "map":"Skills And Masteries",
-                        "x": 10,
-                        "y": 108
-                    }
-                ]
-            },
-            {
-                "name": "Foraging",
-                "sections":[
-                    {
-                        "name": "Levels 1-10",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Mastery",
-                        "clear_as_group": false,
-                        "item_count": 1,
-                        "visibility_rules":["sshuffle_mastery"],
-                        "access_rules":["$can_get_mastery"]
-                    }
-                ],
-                "map_locations":[
+				"sections": [
+					{
+						"name": "Level 1",
+						"item_count": 1,
+						"visibility_rules": ["717301"],
+					},
+					{
+						"name": "Level 2",
+						"item_count": 1,
+						"visibility_rules": ["717302"],
+					},
+					{
+						"name": "Level 3",
+						"item_count": 1,
+						"visibility_rules": ["717303"],
+					},
+					{
+						"name": "Level 4",
+						"item_count": 1,
+						"visibility_rules": ["717304"],
+					},
+					{
+						"name": "Level 5",
+						"item_count": 1,
+						"visibility_rules": ["717305"],
+					},
+					{
+						"name": "Level 6",
+						"item_count": 1,
+						"visibility_rules": ["717306"],
+					},
+					{
+						"name": "Level 7",
+						"item_count": 1,
+						"visibility_rules": ["717307"],
+					},
+					{
+						"name": "Level 8",
+						"item_count": 1,
+						"visibility_rules": ["717308"],
+					},
+					{
+						"name": "Level 9",
+						"item_count": 1,
+						"visibility_rules": ["717309"],
+					},
+					{
+						"name": "Level 10",
+						"item_count": 1,
+						"visibility_rules": ["717310"],
+					},
+					{
+						"name": "Mastery",
+						"item_count": 1,
+						"visibility_rules": ["717351"],
+					}
+					],
+					"map_locations":[
                     {
                         "map":"Skills And Masteries",
-                        "x": 10,
-                        "y": 176
+                        "x": 16,
+                        "y": 41
                     }
-                ]
+					]
             },
             {
                 "name": "Fishing",
-                "sections":[
-                    {
-                        "name": "Levels 1-10",
-                        "clear_as_group": false,
-                        "item_count": 10,
-                        "access_rules": ["$can_fish"]
-                    },
-                    {
-                        "name": "Mastery",
-                        "clear_as_group": false,
-                        "item_count": 1,
-                        "visibility_rules":["sshuffle_mastery"],
-                        "access_rules":["$can_get_mastery"]
-                    }
-                ],
-                "map_locations":[
+				"access_rules": ["$can_fish"],
+				"sections": [
+					{
+						"name": "Level 1",
+						"item_count": 1,
+						"visibility_rules": ["717311"],
+					},
+					{
+						"name": "Level 2",
+						"item_count": 1,
+						"visibility_rules": ["717312"],
+					},
+					{
+						"name": "Level 3",
+						"item_count": 1,
+						"visibility_rules": ["717313"],
+					},
+					{
+						"name": "Level 4",
+						"item_count": 1,
+						"visibility_rules": ["717314"],
+					},
+					{
+						"name": "Level 5",
+						"item_count": 1,
+						"visibility_rules": ["717315"],
+					},
+					{
+						"name": "Level 6",
+						"item_count": 1,
+						"visibility_rules": ["717316"],
+					},
+					{
+						"name": "Level 7",
+						"item_count": 1,
+						"visibility_rules": ["717317"],
+					},
+					{
+						"name": "Level 8",
+						"item_count": 1,
+						"visibility_rules": ["717318"],
+					},
+					{
+						"name": "Level 9",
+						"item_count": 1,
+						"visibility_rules": ["717319"],
+					},
+					{
+						"name": "Level 10",
+						"item_count": 1,
+						"visibility_rules": ["717320"],
+					},
+					{
+						"name": "Mastery",
+						"item_count": 1,
+						"visibility_rules": ["717352"],
+					}
+					],
+					"map_locations":[
                     {
                         "map":"Skills And Masteries",
-                        "x": 10,
-                        "y": 244
+                        "x": 16,
+                        "y": 246
                     }
-                ]
+					]
             },
-            {
-                "name": "Combat",
-              
-                "sections":[
-                    {
-                        "name": "Levels 1-10",
-                        "clear_as_group": false,
-                        "item_count": 10
-                    },
-                    {
-                        "name": "Mastery",
-                        "clear_as_group": false,
-                        "item_count": 1,
-                        "visibility_rules":["sshuffle_mastery"],
-                        "access_rules":["$can_get_mastery"]
-                    }
-                ],
-                "map_locations":[
+			{
+                "name": "Foraging",
+				"sections": [
+					{
+						"name": "Level 1",
+						"item_count": 1,
+						"visibility_rules": ["717321"],
+					},
+					{
+						"name": "Level 2",
+						"item_count": 1,
+						"visibility_rules": ["717322"],
+					},
+					{
+						"name": "Level 3",
+						"item_count": 1,
+						"visibility_rules": ["717323"],
+					},
+					{
+						"name": "Level 4",
+						"item_count": 1,
+						"visibility_rules": ["717324"],
+					},
+					{
+						"name": "Level 5",
+						"item_count": 1,
+						"visibility_rules": ["717325"],
+					},
+					{
+						"name": "Level 6",
+						"item_count": 1,
+						"visibility_rules": ["717326"],
+					},
+					{
+						"name": "Level 7",
+						"item_count": 1,
+						"visibility_rules": ["717327"],
+					},
+					{
+						"name": "Level 8",
+						"item_count": 1,
+						"visibility_rules": ["717328"],
+					},
+					{
+						"name": "Level 9",
+						"item_count": 1,
+						"visibility_rules": ["717329"],
+					},
+					{
+						"name": "Level 10",
+						"item_count": 1,
+						"visibility_rules": ["717330"],
+					},
+					{
+						"name": "Mastery",
+						"item_count": 1,
+						"visibility_rules": ["717353"],
+					}
+					],
+					"map_locations":[
                     {
                         "map":"Skills And Masteries",
-                        "x": 10,
-                        "y": 312
+                        "x": 16,
+                        "y": 178
                     }
-                ]
-            }   
-            
+					]
+            },
+			{
+                "name": "Mining",
+				"sections": [
+					{
+						"name": "Level 1",
+						"item_count": 1,
+						"visibility_rules": ["717331"],
+					},
+					{
+						"name": "Level 2",
+						"item_count": 1,
+						"visibility_rules": ["717332"],
+					},
+					{
+						"name": "Level 3",
+						"item_count": 1,
+						"visibility_rules": ["717333"],
+					},
+					{
+						"name": "Level 4",
+						"item_count": 1,
+						"visibility_rules": ["717334"],
+					},
+					{
+						"name": "Level 5",
+						"item_count": 1,
+						"visibility_rules": ["717335"],
+					},
+					{
+						"name": "Level 6",
+						"item_count": 1,
+						"visibility_rules": ["717336"],
+					},
+					{
+						"name": "Level 7",
+						"item_count": 1,
+						"visibility_rules": ["717337"],
+					},
+					{
+						"name": "Level 8",
+						"item_count": 1,
+						"visibility_rules": ["717338"],
+					},
+					{
+						"name": "Level 9",
+						"item_count": 1,
+						"visibility_rules": ["717339"],
+					},
+					{
+						"name": "Level 10",
+						"item_count": 1,
+						"visibility_rules": ["717340"],
+					},
+					{
+						"name": "Mastery",
+						"item_count": 1,
+						"visibility_rules": ["717354"],
+					}
+					],
+					"map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 16,
+                        "y": 110
+                    }
+					]
+            },
+			{
+                "name": "Combat",
+				"sections": [
+					{
+						"name": "Level 1",
+						"item_count": 1,
+						"visibility_rules": ["717341"],
+					},
+					{
+						"name": "Level 2",
+						"item_count": 1,
+						"visibility_rules": ["717342"],
+					},
+					{
+						"name": "Level 3",
+						"item_count": 1,
+						"visibility_rules": ["717343"],
+					},
+					{
+						"name": "Level 4",
+						"item_count": 1,
+						"visibility_rules": ["717344"],
+					},
+					{
+						"name": "Level 5",
+						"item_count": 1,
+						"visibility_rules": ["717345"],
+					},
+					{
+						"name": "Level 6",
+						"item_count": 1,
+						"visibility_rules": ["717346"],
+					},
+					{
+						"name": "Level 7",
+						"item_count": 1,
+						"visibility_rules": ["717347"],
+					},
+					{
+						"name": "Level 8",
+						"item_count": 1,
+						"visibility_rules": ["717348"],
+					},
+					{
+						"name": "Level 9",
+						"item_count": 1,
+						"visibility_rules": ["717349"],
+					},
+					{
+						"name": "Level 10",
+						"item_count": 1,
+						"visibility_rules": ["717350"],
+					},
+					{
+						"name": "Mastery",
+						"item_count": 1,
+						"visibility_rules": ["717355"],
+					}
+					],
+					"map_locations":[
+                    {
+                        "map":"Skills And Masteries",
+                        "x": 16,
+                        "y": 314
+                    }
+					]
+            }            
         ]
     }
 ]
