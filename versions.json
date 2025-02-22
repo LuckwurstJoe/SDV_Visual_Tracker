@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.6.1",
+			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.6.1/stardew_valley_randomizer.zip",
+			"sha256": "18eb317ac3de51bad9cdd31599be9f1278131e0ed12f0c8b8e15abda4c7f44d0",
+			"changelog": [
+				"Fixed some informations at the fishsanity-tab",
+				"Fixed unrecognized Skills and Masteries at the new tab, now they are read from the multiworld and will only appear, if randomized"
+			]
+		},
+		{
 			"package_version": "1.6.0",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.6.0/stardew_valley_randomizer.zip",
 			"sha256": "ecb86902e3fc61404bd082ef57745b9f1d5c3e12d9787b4b883b6814daf1297b",
